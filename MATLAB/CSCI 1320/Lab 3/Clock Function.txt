@@ -1,0 +1,9 @@
+First, take inputed time in the form of hour, minute, second.
+
+Second, ask if the foramt is 12hr or 24 hr, if 12 hr ask if am or pm.
+
+Third, Check if the entries are in their respective ranges.
+
+Fourth, convert time from 12 to 24 or vice-versa.
+
+Fifth, display time stating the format.

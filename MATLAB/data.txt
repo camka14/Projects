@@ -1,0 +1,8570 @@
+[
+  {
+    "nm": "1d-interleaved-parityfec",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6015"
+  },
+  {
+    "nm": "1d-interleaved-parityfec",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6015"
+  },
+  {
+    "nm": "1d-interleaved-parityfec",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC6015"
+  },
+  {
+    "nm": "1d-interleaved-parityfec",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6015"
+  },
+  {
+    "nm": "32kadpcm",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3802RFC2421"
+  },
+  {
+    "nm": "3gpp",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3839RFC6381"
+  },
+  {
+    "nm": "3gpp",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3839RFC6381"
+  },
+  {
+    "nm": "3gpp-ims+xml",
+    "typ": "application/3gpp-ims+xml",
+    "cat": "Applicaton",
+    "ref": "John_M_Meredith"
+  },
+  {
+    "nm": "3gpp-tt",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4396"
+  },
+  {
+    "nm": "3gpp2",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4393RFC6381"
+  },
+  {
+    "nm": "3gpp2",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4393RFC6381"
+  },
+  {
+    "nm": "ac3",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4184"
+  },
+  {
+    "nm": "activemessage",
+    "typ": "application/activemessage",
+    "cat": "Applicaton",
+    "ref": "Ehud_Shapiro"
+  },
+  {
+    "nm": "alternative",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "AMR",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4867"
+  },
+  {
+    "nm": "AMR-WB",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4867"
+  },
+  {
+    "nm": "andrew-inset",
+    "typ": "application/andrew-inset",
+    "cat": "Applicaton",
+    "ref": "Nathaniel_Borenstein"
+  },
+  {
+    "nm": "appledouble",
+    "typ": "multipart/appledouble",
+    "cat": "multipart",
+    "ref": "Patrik_Faltstrom"
+  },
+  {
+    "nm": "applefile",
+    "typ": "application/applefile",
+    "cat": "Applicaton",
+    "ref": "Patrik_Faltstrom"
+  },
+  {
+    "nm": "asc",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6295"
+  },
+  {
+    "nm": "atom+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4287RFC5023"
+  },
+  {
+    "nm": "atomcat+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5023"
+  },
+  {
+    "nm": "atomdeleted+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6721"
+  },
+  {
+    "nm": "atomicmail",
+    "typ": "application/atomicmail",
+    "cat": "Applicaton",
+    "ref": "Nathaniel_Borenstein"
+  },
+  {
+    "nm": "atomsvc+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5023"
+  },
+  {
+    "nm": "ATRAC-ADVANCED-LOSSLESS",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5584"
+  },
+  {
+    "nm": "ATRAC-X",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5584"
+  },
+  {
+    "nm": "ATRAC3",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5584"
+  },
+  {
+    "nm": "auth-policy+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4745"
+  },
+  {
+    "nm": "bacnet-xdd+zip",
+    "typ": "application/bacnet-xdd+zip",
+    "cat": "Applicaton",
+    "ref": "ASHRAEDave_Robin"
+  },
+  {
+    "nm": "basic",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "batch-SMTP",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2442"
+  },
+  {
+    "nm": "beep+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3080"
+  },
+  {
+    "nm": "BMPEG",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "BT656",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "BV16",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4298"
+  },
+  {
+    "nm": "BV32",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4298"
+  },
+  {
+    "nm": "byteranges",
+    "typ": "multipart/byteranges",
+    "cat": "multipart",
+    "ref": "RFC-ietf-httpbis-p5-range-26"
+  },
+  {
+    "nm": "calendar",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC5545"
+  },
+  {
+    "nm": "calendar+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6321"
+  },
+  {
+    "nm": "call-completion",
+    "typ": "application/call-completion",
+    "cat": "Applicaton",
+    "ref": "RFC6910"
+  },
+  {
+    "nm": "cals-1840",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1895"
+  },
+  {
+    "nm": "cbor",
+    "typ": "application/cbor",
+    "cat": "Applicaton",
+    "ref": "RFC7049"
+  },
+  {
+    "nm": "ccmp+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6503"
+  },
+  {
+    "nm": "ccxml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4267"
+  },
+  {
+    "nm": "cdmi-capability",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6208"
+  },
+  {
+    "nm": "cdmi-container",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6208"
+  },
+  {
+    "nm": "cdmi-domain",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6208"
+  },
+  {
+    "nm": "cdmi-object",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6208"
+  },
+  {
+    "nm": "cdmi-queue",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6208"
+  },
+  {
+    "nm": "cea-2018+xml",
+    "typ": "application/cea-2018+xml",
+    "cat": "Applicaton",
+    "ref": "Gottfried_Zimmermann"
+  },
+  {
+    "nm": "CelB",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "cellml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4708"
+  },
+  {
+    "nm": "cfw",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6230"
+  },
+  {
+    "nm": "cgm",
+    "typ": "image/cgm",
+    "cat": "image",
+    "ref": "Alan_Francis"
+  },
+  {
+    "nm": "clearmode",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4040"
+  },
+  {
+    "nm": "cms",
+    "typ": "application/cms",
+    "cat": "Applicaton",
+    "ref": "RFC-turner-application-cms-media-type-08"
+  },
+  {
+    "nm": "CN",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3389"
+  },
+  {
+    "nm": "cnrp+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3367"
+  },
+  {
+    "nm": "commonground",
+    "typ": "application/commonground",
+    "cat": "Applicaton",
+    "ref": "David_Glazer"
+  },
+  {
+    "nm": "conference-info+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4575"
+  },
+  {
+    "nm": "CPIM",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC3862"
+  },
+  {
+    "nm": "cpl+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3880"
+  },
+  {
+    "nm": "csrattrs",
+    "typ": "application/csrattrs",
+    "cat": "Applicaton",
+    "ref": "RFC7030"
+  },
+  {
+    "nm": "css",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC2318"
+  },
+  {
+    "nm": "csta+xml",
+    "typ": "application/csta+xml",
+    "cat": "Applicaton",
+    "ref": "Ecma_International_Helpdesk"
+  },
+  {
+    "nm": "CSTAdata+xml",
+    "typ": "application/CSTAdata+xml",
+    "cat": "Applicaton",
+    "ref": "Ecma_International_Helpdesk"
+  },
+  {
+    "nm": "csv",
+    "typ": "text/csv",
+    "cat": "text",
+    "ref": "RFC4180RFC7111"
+  },
+  {
+    "nm": "cybercash",
+    "typ": "application/cybercash",
+    "cat": "Applicaton",
+    "ref": "Donald_E._Eastlake_3rd"
+  },
+  {
+    "nm": "dash+xml",
+    "typ": "application/dash+xml",
+    "cat": "Applicaton",
+    "ref": "Thomas_StockhammerISO-IEC_JTC1"
+  },
+  {
+    "nm": "dashdelta",
+    "typ": "application/dashdelta",
+    "cat": "Applicaton",
+    "ref": "David_Furbeck"
+  },
+  {
+    "nm": "DAT12",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3190"
+  },
+  {
+    "nm": "davmount+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4709"
+  },
+  {
+    "nm": "dca-rft",
+    "typ": "application/dca-rft",
+    "cat": "Applicaton",
+    "ref": "Larry_Campbell"
+  },
+  {
+    "nm": "dec-dx",
+    "typ": "application/dec-dx",
+    "cat": "Applicaton",
+    "ref": "Larry_Campbell"
+  },
+  {
+    "nm": "delivery-status",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC1894"
+  },
+  {
+    "nm": "dialog-info+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4235"
+  },
+  {
+    "nm": "dicom",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3240"
+  },
+  {
+    "nm": "digest",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "directory - DEPRECATED - Please see:",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC2425RFC6350"
+  },
+  {
+    "nm": "disposition-notification",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC3798"
+  },
+  {
+    "nm": "dls",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4613"
+  },
+  {
+    "nm": "dns",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4027"
+  },
+  {
+    "nm": "dns",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4027"
+  },
+  {
+    "nm": "dskpp+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6063"
+  },
+  {
+    "nm": "dsr-es201108",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3557"
+  },
+  {
+    "nm": "dsr-es202050",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4060"
+  },
+  {
+    "nm": "dsr-es202211",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4060"
+  },
+  {
+    "nm": "dsr-es202212",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4060"
+  },
+  {
+    "nm": "dssc+der",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5698"
+  },
+  {
+    "nm": "dssc+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5698"
+  },
+  {
+    "nm": "DV",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6469"
+  },
+  {
+    "nm": "DV",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6469"
+  },
+  {
+    "nm": "dvcs",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3029"
+  },
+  {
+    "nm": "DVI4",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "eac3",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4598"
+  },
+  {
+    "nm": "ecmascript",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4329"
+  },
+  {
+    "nm": "ecmascript - OBSOLETE",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4329"
+  },
+  {
+    "nm": "EDI-Consent",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1767"
+  },
+  {
+    "nm": "EDI-X12",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1767"
+  },
+  {
+    "nm": "EDIFACT",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1767"
+  },
+  {
+    "nm": "emma+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/2007/CR-emma-20071211/#media-type-registrationISO-IEC JTC1"
+  },
+  {
+    "nm": "emotionml+xml",
+    "typ": "application/emotionml+xml",
+    "cat": "Applicaton",
+    "ref": "W3CKazuyuki_Ashimura"
+  },
+  {
+    "nm": "encaprtp",
+    "typ": "application/encaprtp",
+    "cat": "Applicaton",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "encaprtp",
+    "typ": "text/encaprtp",
+    "cat": "text",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "encaprtp",
+    "typ": "video/encaprtp",
+    "cat": "video",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "encaprtp",
+    "typ": "audio/encaprtp",
+    "cat": "audio",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "encrypted",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC1847"
+  },
+  {
+    "nm": "enriched",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC1896"
+  },
+  {
+    "nm": "epp+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5730"
+  },
+  {
+    "nm": "eshop",
+    "typ": "application/eshop",
+    "cat": "Applicaton",
+    "ref": "Steve_Katz"
+  },
+  {
+    "nm": "EVRC",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4788"
+  },
+  {
+    "nm": "EVRC-QCP",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3625"
+  },
+  {
+    "nm": "EVRC0",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4788"
+  },
+  {
+    "nm": "EVRC1",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4788"
+  },
+  {
+    "nm": "EVRCB",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5188"
+  },
+  {
+    "nm": "EVRCB0",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5188"
+  },
+  {
+    "nm": "EVRCB1",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4788"
+  },
+  {
+    "nm": "EVRCNW",
+    "typ": "audio/EVRCNW",
+    "cat": "audio",
+    "ref": "RFC6884"
+  },
+  {
+    "nm": "EVRCNW0",
+    "typ": "audio/EVRCNW0",
+    "cat": "audio",
+    "ref": "RFC6884"
+  },
+  {
+    "nm": "EVRCNW1",
+    "typ": "audio/EVRCNW1",
+    "cat": "audio",
+    "ref": "RFC6884"
+  },
+  {
+    "nm": "EVRCWB",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5188"
+  },
+  {
+    "nm": "EVRCWB0",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5188"
+  },
+  {
+    "nm": "EVRCWB1",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5188"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "model",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "example",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4735"
+  },
+  {
+    "nm": "exi",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/2009/CR-exi-20091208/#mediaTypeRegistration"
+  },
+  {
+    "nm": "external-body",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "fastinfoset",
+    "typ": "application/fastinfoset",
+    "cat": "Applicaton",
+    "ref": "ITU-T_ASN.1_Rapporteur"
+  },
+  {
+    "nm": "fastsoap",
+    "typ": "application/fastsoap",
+    "cat": "Applicaton",
+    "ref": "ITU-T_ASN.1_Rapporteur"
+  },
+  {
+    "nm": "fdt+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6726"
+  },
+  {
+    "nm": "feedback-report",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC5965"
+  },
+  {
+    "nm": "fits",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC4047"
+  },
+  {
+    "nm": "fits",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4047"
+  },
+  {
+    "nm": "font-sfnt",
+    "typ": "application/font-sfnt",
+    "cat": "Applicaton",
+    "ref": "LevantovskyISO-IEC JTC1"
+  },
+  {
+    "nm": "font-tdpfr",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3073"
+  },
+  {
+    "nm": "font-woff",
+    "typ": "application/font-woff",
+    "cat": "Applicaton",
+    "ref": "W3C"
+  },
+  {
+    "nm": "form-data",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2388"
+  },
+  {
+    "nm": "framework-attributes+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6230"
+  },
+  {
+    "nm": "fwdred",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC6354"
+  },
+  {
+    "nm": "fwdred",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6354"
+  },
+  {
+    "nm": "g3fax",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC1494"
+  },
+  {
+    "nm": "G719",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5404RFC Errata 3245"
+  },
+  {
+    "nm": "G722",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G7221",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5577"
+  },
+  {
+    "nm": "G723",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G726-16",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G726-24",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G726-32",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G726-40",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G728",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G729",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G7291",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4749RFC5459"
+  },
+  {
+    "nm": "G729D",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "G729E",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "gif",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "global",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC6532"
+  },
+  {
+    "nm": "global-delivery-status",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC6533"
+  },
+  {
+    "nm": "global-disposition-notification",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC6533"
+  },
+  {
+    "nm": "global-headers",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC6533"
+  },
+  {
+    "nm": "grammar-ref-list",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC6787"
+  },
+  {
+    "nm": "GSM",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "GSM-EFR",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "GSM-HR-08",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5993"
+  },
+  {
+    "nm": "gzip",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6713"
+  },
+  {
+    "nm": "H224",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4573"
+  },
+  {
+    "nm": "H261",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4587"
+  },
+  {
+    "nm": "H263",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "H263-1998",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4629"
+  },
+  {
+    "nm": "H263-2000",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4629"
+  },
+  {
+    "nm": "H264",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6184"
+  },
+  {
+    "nm": "H264-RCDO",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6185"
+  },
+  {
+    "nm": "H264-SVC",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6190"
+  },
+  {
+    "nm": "header-set",
+    "typ": "multipart/header-set",
+    "cat": "multipart",
+    "ref": "Dave_Crocker"
+  },
+  {
+    "nm": "held+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5985"
+  },
+  {
+    "nm": "html",
+    "typ": "text/html",
+    "cat": "text",
+    "ref": "Michael_TM_SmithW3C"
+  },
+  {
+    "nm": "http",
+    "typ": "message/http",
+    "cat": "message",
+    "ref": "RFC-ietf-httpbis-p1-messaging-26"
+  },
+  {
+    "nm": "http",
+    "typ": "application/http",
+    "cat": "Applicaton",
+    "ref": "RFC-ietf-httpbis-p1-messaging-26"
+  },
+  {
+    "nm": "hyperstudio",
+    "typ": "application/hyperstudio",
+    "cat": "Applicaton",
+    "ref": "Michael_Domino"
+  },
+  {
+    "nm": "ibe-key-request+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5408"
+  },
+  {
+    "nm": "ibe-pkg-reply+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5408"
+  },
+  {
+    "nm": "ibe-pp-data",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5408"
+  },
+  {
+    "nm": "ief",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC1314"
+  },
+  {
+    "nm": "iges",
+    "typ": "model/iges",
+    "cat": "model",
+    "ref": "Curtis_Parks"
+  },
+  {
+    "nm": "iges",
+    "typ": "application/iges",
+    "cat": "Applicaton",
+    "ref": "Curtis_Parks"
+  },
+  {
+    "nm": "iLBC",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3952"
+  },
+  {
+    "nm": "im-iscomposing+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3994"
+  },
+  {
+    "nm": "imdn+xml",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC5438"
+  },
+  {
+    "nm": "index",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2652"
+  },
+  {
+    "nm": "index.cmd",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2652"
+  },
+  {
+    "nm": "index.obj",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2652"
+  },
+  {
+    "nm": "index.response",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2652"
+  },
+  {
+    "nm": "index.vnd",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2652"
+  },
+  {
+    "nm": "inkml+xml",
+    "typ": "application/inkml+xml",
+    "cat": "Applicaton",
+    "ref": "Kazuyuki_Ashimura"
+  },
+  {
+    "nm": "iotp",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2935"
+  },
+  {
+    "nm": "ip-mr_v2.5",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6262"
+  },
+  {
+    "nm": "ipfix",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5655"
+  },
+  {
+    "nm": "ipp",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2910"
+  },
+  {
+    "nm": "iso.segment",
+    "typ": "video/iso.segment",
+    "cat": "video",
+    "ref": "David_SingerISO-IEC_JTC1"
+  },
+  {
+    "nm": "isup",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3204"
+  },
+  {
+    "nm": "its+xml",
+    "typ": "application/its+xml",
+    "cat": "Applicaton",
+    "ref": "W3CITS-IG-W3C"
+  },
+  {
+    "nm": "javascript",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4329"
+  },
+  {
+    "nm": "javascript - OBSOLETE",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4329"
+  },
+  {
+    "nm": "jcr-cnd",
+    "typ": "text/jcr-cnd",
+    "cat": "text",
+    "ref": "Peeter_Piegaze"
+  },
+  {
+    "nm": "jp2",
+    "typ": "image/jp2",
+    "cat": "image",
+    "ref": "RFC3745"
+  },
+  {
+    "nm": "jpeg",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "JPEG",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "jpeg2000",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC5371RFC5372"
+  },
+  {
+    "nm": "jpm",
+    "typ": "image/jpm",
+    "cat": "image",
+    "ref": "RFC3745"
+  },
+  {
+    "nm": "jpx",
+    "typ": "image/jpx",
+    "cat": "image",
+    "ref": "RFC3745"
+  },
+  {
+    "nm": "jrd+json",
+    "typ": "application/jrd+json",
+    "cat": "Applicaton",
+    "ref": "RFC7033"
+  },
+  {
+    "nm": "json",
+    "typ": "application/json",
+    "cat": "Applicaton",
+    "ref": "RFC-ietf-json-rfc4627bis-10"
+  },
+  {
+    "nm": "json-patch+json",
+    "typ": "application/json-patch+json",
+    "cat": "Applicaton",
+    "ref": "RFC6902"
+  },
+  {
+    "nm": "kpml-request+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4730"
+  },
+  {
+    "nm": "kpml-response+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4730"
+  },
+  {
+    "nm": "ktx",
+    "typ": "",
+    "cat": "image",
+    "ref": "Mark_CallowKhronoshttp://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/#mimeregistration"
+  },
+  {
+    "nm": "L16",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "L20",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3190"
+  },
+  {
+    "nm": "L24",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3190"
+  },
+  {
+    "nm": "L8",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "ld+json",
+    "typ": "application/ld+json",
+    "cat": "Applicaton",
+    "ref": "W3CIvan_Herman"
+  },
+  {
+    "nm": "link-format",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6690"
+  },
+  {
+    "nm": "load-control+xml",
+    "typ": "application/load-control+xml",
+    "cat": "Applicaton",
+    "ref": "RFC-ietf-soc-load-control-event-package-13"
+  },
+  {
+    "nm": "lost+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5222"
+  },
+  {
+    "nm": "lostsync+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6739"
+  },
+  {
+    "nm": "LPC",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "mac-binhex40",
+    "typ": "application/mac-binhex40",
+    "cat": "Applicaton",
+    "ref": "Patrik_Faltstrom"
+  },
+  {
+    "nm": "macwriteii",
+    "typ": "application/macwriteii",
+    "cat": "Applicaton",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "mads+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6207"
+  },
+  {
+    "nm": "marc",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2220"
+  },
+  {
+    "nm": "marcxml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6207"
+  },
+  {
+    "nm": "mathematica",
+    "typ": "application/mathematica",
+    "cat": "Applicaton",
+    "ref": "Wolfram"
+  },
+  {
+    "nm": "mathml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/MathML3/appendixb.html"
+  },
+  {
+    "nm": "mathml-content+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/MathML3/appendixb.html"
+  },
+  {
+    "nm": "mathml-presentation+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/MathML3/appendixb.html"
+  },
+  {
+    "nm": "mbms-associated-procedure-description+xml",
+    "typ": "application/mbms-associated-procedure-description+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-deregister+xml",
+    "typ": "application/mbms-deregister+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-envelope+xml",
+    "typ": "application/mbms-envelope+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-msk+xml",
+    "typ": "application/mbms-msk+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-msk-response+xml",
+    "typ": "application/mbms-msk-response+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-protection-description+xml",
+    "typ": "application/mbms-protection-description+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-reception-report+xml",
+    "typ": "application/mbms-reception-report+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-register+xml",
+    "typ": "application/mbms-register+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-register-response+xml",
+    "typ": "application/mbms-register-response+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbms-schedule+xml",
+    "typ": "application/mbms-schedule+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPPEric_Turcotte"
+  },
+  {
+    "nm": "mbms-user-service-description+xml",
+    "typ": "application/mbms-user-service-description+xml",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "mbox",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4155"
+  },
+  {
+    "nm": "media-policy-dataset+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6796"
+  },
+  {
+    "nm": "media_control+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5168"
+  },
+  {
+    "nm": "mediaservercontrol+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5022"
+  },
+  {
+    "nm": "mesh",
+    "typ": "",
+    "cat": "model",
+    "ref": "RFC2077"
+  },
+  {
+    "nm": "metalink4+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5854"
+  },
+  {
+    "nm": "mets+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6207"
+  },
+  {
+    "nm": "mikey",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3830"
+  },
+  {
+    "nm": "mixed",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "mizar",
+    "typ": "text/mizar",
+    "cat": "text",
+    "ref": "Jesse_Alama"
+  },
+  {
+    "nm": "MJ2",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3745"
+  },
+  {
+    "nm": "mobile-xmf",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4723"
+  },
+  {
+    "nm": "mods+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6207"
+  },
+  {
+    "nm": "moss-keys",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1848"
+  },
+  {
+    "nm": "moss-signature",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1848"
+  },
+  {
+    "nm": "mosskey-data",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1848"
+  },
+  {
+    "nm": "mosskey-request",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1848"
+  },
+  {
+    "nm": "MP1S",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "mp21",
+    "typ": "application/mp21",
+    "cat": "Applicaton",
+    "ref": "RFC6381David_Singer"
+  },
+  {
+    "nm": "MP2P",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "MP2T",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "mp4",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4337RFC6381"
+  },
+  {
+    "nm": "mp4",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4337RFC6381"
+  },
+  {
+    "nm": "mp4",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4337RFC6381"
+  },
+  {
+    "nm": "MP4A-LATM",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6416"
+  },
+  {
+    "nm": "MP4V-ES",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6416"
+  },
+  {
+    "nm": "MPA",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "mpa-robust",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5219"
+  },
+  {
+    "nm": "mpeg",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3003"
+  },
+  {
+    "nm": "mpeg",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "mpeg4-generic",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3640"
+  },
+  {
+    "nm": "mpeg4-generic",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3640RFC5691RFC6295"
+  },
+  {
+    "nm": "mpeg4-generic",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3640"
+  },
+  {
+    "nm": "mpeg4-iod",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4337"
+  },
+  {
+    "nm": "mpeg4-iod-xmt",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4337"
+  },
+  {
+    "nm": "MPV",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "mrb-consumer+xml",
+    "typ": "application/mrb-consumer+xml",
+    "cat": "Applicaton",
+    "ref": "RFC6917"
+  },
+  {
+    "nm": "mrb-publish+xml",
+    "typ": "application/mrb-publish+xml",
+    "cat": "Applicaton",
+    "ref": "RFC6917"
+  },
+  {
+    "nm": "msc-ivr+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6231"
+  },
+  {
+    "nm": "msc-mixer+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6505"
+  },
+  {
+    "nm": "msword",
+    "typ": "application/msword",
+    "cat": "Applicaton",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "mxf",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4539"
+  },
+  {
+    "nm": "n3",
+    "typ": "text/n3",
+    "cat": "text",
+    "ref": "Eric_PrudhommeauxW3C"
+  },
+  {
+    "nm": "naplps",
+    "typ": "image/naplps",
+    "cat": "image",
+    "ref": "Ilya_Ferber"
+  },
+  {
+    "nm": "nasdata",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4707"
+  },
+  {
+    "nm": "news - OBSOLETE",
+    "typ": "message/news",
+    "cat": "message",
+    "ref": "RFC5537Henry_Spencer"
+  },
+  {
+    "nm": "news-checkgroups",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5537"
+  },
+  {
+    "nm": "news-groupinfo",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5537"
+  },
+  {
+    "nm": "news-transmission",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5537"
+  },
+  {
+    "nm": "nlsml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6787"
+  },
+  {
+    "nm": "nss",
+    "typ": "application/nss",
+    "cat": "Applicaton",
+    "ref": "Michael_Hammer"
+  },
+  {
+    "nm": "nv",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "ocsp-request",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6960"
+  },
+  {
+    "nm": "ocsp-response",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6960"
+  },
+  {
+    "nm": "octet-stream",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "oda",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "ODX",
+    "typ": "application/ODX",
+    "cat": "Applicaton",
+    "ref": "ASAMThomas_Thomsen"
+  },
+  {
+    "nm": "oebps-package+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4839"
+  },
+  {
+    "nm": "ogg",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5334"
+  },
+  {
+    "nm": "ogg",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC5334"
+  },
+  {
+    "nm": "ogg",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5334"
+  },
+  {
+    "nm": "oxps",
+    "typ": "application/oxps",
+    "cat": "Applicaton",
+    "ref": "Ecma_International_Helpdesk"
+  },
+  {
+    "nm": "p2p-overlay+xml",
+    "typ": "application/p2p-overlay+xml",
+    "cat": "Applicaton",
+    "ref": "RFC6940"
+  },
+  {
+    "nm": "parallel",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "parameters",
+    "typ": "text/parameters",
+    "cat": "text",
+    "ref": "RFC-ietf-mmusic-rfc2326bis-40"
+  },
+  {
+    "nm": "parityfec",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "parityfec",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "parityfec",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "parityfec",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "partial",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "patch-ops-error+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5261"
+  },
+  {
+    "nm": "PCMA",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "PCMA-WB",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5391"
+  },
+  {
+    "nm": "PCMU",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "PCMU-WB",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5391"
+  },
+  {
+    "nm": "pdf",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3778"
+  },
+  {
+    "nm": "PDX",
+    "typ": "application/PDX",
+    "cat": "Applicaton",
+    "ref": "ASAMThomas_Thomsen"
+  },
+  {
+    "nm": "pgp-encrypted",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3156"
+  },
+  {
+    "nm": "pgp-keys",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3156"
+  },
+  {
+    "nm": "pgp-signature",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3156"
+  },
+  {
+    "nm": "pidf+xml",
+    "typ": "application/pidfxml",
+    "cat": "Applicaton",
+    "ref": "RFC3863"
+  },
+  {
+    "nm": "pidf-diff+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5262"
+  },
+  {
+    "nm": "pkcs10",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5967"
+  },
+  {
+    "nm": "pkcs7-mime",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5751RFC7114"
+  },
+  {
+    "nm": "pkcs7-signature",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5751"
+  },
+  {
+    "nm": "pkcs8",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5958"
+  },
+  {
+    "nm": "pkix-attr-cert",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5877"
+  },
+  {
+    "nm": "pkix-cert",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2585"
+  },
+  {
+    "nm": "pkix-crl",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2585"
+  },
+  {
+    "nm": "pkix-pkipath",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6066"
+  },
+  {
+    "nm": "pkixcmp",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2510"
+  },
+  {
+    "nm": "plain",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC2046RFC3676RFC5147"
+  },
+  {
+    "nm": "pls+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4267"
+  },
+  {
+    "nm": "png",
+    "typ": "image/png",
+    "cat": "image",
+    "ref": "Glenn_Randers-Pehrson"
+  },
+  {
+    "nm": "poc-settings+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4354"
+  },
+  {
+    "nm": "pointer",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC2862"
+  },
+  {
+    "nm": "postscript",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "provenance+xml",
+    "typ": "application/provenance+xml",
+    "cat": "Applicaton",
+    "ref": "W3CIvan_Herman"
+  },
+  {
+    "nm": "provenance-notation",
+    "typ": "",
+    "cat": "text",
+    "ref": "Ivan_HermanW3C"
+  },
+  {
+    "nm": "prs.alvestrand.titrax-sheet",
+    "typ": "application/prs.alvestrand.titrax-sheet",
+    "cat": "Applicaton",
+    "ref": "Harald_T._Alvestrand"
+  },
+  {
+    "nm": "prs.btif",
+    "typ": "image/prs.btif",
+    "cat": "image",
+    "ref": "Ben_Simon"
+  },
+  {
+    "nm": "prs.cww",
+    "typ": "application/prs.cww",
+    "cat": "Applicaton",
+    "ref": "Khemchart_Rungchavalnont"
+  },
+  {
+    "nm": "prs.fallenstein.rst",
+    "typ": "text/prs.fallenstein.rst",
+    "cat": "text",
+    "ref": "Benja_Fallenstein"
+  },
+  {
+    "nm": "prs.hpub+zip",
+    "typ": "application/prs.hpub+zip",
+    "cat": "Applicaton",
+    "ref": "Giulio_Zambon"
+  },
+  {
+    "nm": "prs.lines.tag",
+    "typ": "text/prs.lines.tag",
+    "cat": "text",
+    "ref": "John_Lines"
+  },
+  {
+    "nm": "prs.nprend",
+    "typ": "application/prs.nprend",
+    "cat": "Applicaton",
+    "ref": "Jay_Doggett"
+  },
+  {
+    "nm": "prs.plucker",
+    "typ": "application/prs.plucker",
+    "cat": "Applicaton",
+    "ref": "Bill_Janssen"
+  },
+  {
+    "nm": "prs.pti",
+    "typ": "image/prs.pti",
+    "cat": "image",
+    "ref": "Juern_Laun"
+  },
+  {
+    "nm": "prs.rdf-xml-crypt",
+    "typ": "application/prs.rdf-xml-crypt",
+    "cat": "Applicaton",
+    "ref": "Toby_Inkster"
+  },
+  {
+    "nm": "prs.sid",
+    "typ": "audio/prs.sid",
+    "cat": "audio",
+    "ref": "Linus_Walleij"
+  },
+  {
+    "nm": "prs.xsf+xml",
+    "typ": "application/prs.xsf+xml",
+    "cat": "Applicaton",
+    "ref": "Maik_Stührenberg"
+  },
+  {
+    "nm": "pskc+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6030"
+  },
+  {
+    "nm": "pwg-raster",
+    "typ": "image/pwg-raster",
+    "cat": "image",
+    "ref": "Michael_Sweet"
+  },
+  {
+    "nm": "QCELP",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3555RFC3625"
+  },
+  {
+    "nm": "qsig",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3204"
+  },
+  {
+    "nm": "quicktime",
+    "typ": "video/quicktime",
+    "cat": "video",
+    "ref": "RFC6381Paul_Lindner"
+  },
+  {
+    "nm": "raptorfec",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC6682"
+  },
+  {
+    "nm": "raptorfec",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC6682"
+  },
+  {
+    "nm": "raptorfec",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6682"
+  },
+  {
+    "nm": "raptorfec",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6682"
+  },
+  {
+    "nm": "raw",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4175"
+  },
+  {
+    "nm": "rdf+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3870"
+  },
+  {
+    "nm": "RED",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4102"
+  },
+  {
+    "nm": "RED",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3555"
+  },
+  {
+    "nm": "reginfo+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3680"
+  },
+  {
+    "nm": "related",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2387"
+  },
+  {
+    "nm": "relax-ng-compact-syntax",
+    "typ": "application/relax-ng-compact-syntax",
+    "cat": "Applicaton",
+    "ref": "http://www.jtc1sc34.org/repository/0661.pdf"
+  },
+  {
+    "nm": "remote-printing",
+    "typ": "application/remote-printing",
+    "cat": "Applicaton",
+    "ref": "RFC1486Marshall_Rose"
+  },
+  {
+    "nm": "report",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC6522"
+  },
+  {
+    "nm": "reputon+json",
+    "typ": "application/reputon+json",
+    "cat": "Applicaton",
+    "ref": "RFC7071"
+  },
+  {
+    "nm": "resource-lists+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4826"
+  },
+  {
+    "nm": "resource-lists-diff+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5362"
+  },
+  {
+    "nm": "rfc822",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "rfc822-headers",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC6522"
+  },
+  {
+    "nm": "richtext",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC2045RFC2046"
+  },
+  {
+    "nm": "riscos",
+    "typ": "application/riscos",
+    "cat": "Applicaton",
+    "ref": "Nick_Smith"
+  },
+  {
+    "nm": "rlmi+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4662"
+  },
+  {
+    "nm": "rls-services+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4826"
+  },
+  {
+    "nm": "rpki-ghostbusters",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6493"
+  },
+  {
+    "nm": "rpki-manifest",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6481"
+  },
+  {
+    "nm": "rpki-roa",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6481"
+  },
+  {
+    "nm": "rpki-updown",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6492"
+  },
+  {
+    "nm": "rtf",
+    "typ": "application/rtf",
+    "cat": "Applicaton",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "rtf",
+    "typ": "text/rtf",
+    "cat": "text",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "rtp-enc-aescm128",
+    "typ": "text/rtp-enc-aescm128",
+    "cat": "text",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "rtp-enc-aescm128",
+    "typ": "video/rtp-enc-aescm128",
+    "cat": "video",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "rtp-enc-aescm128",
+    "typ": "audio/rtp-enc-aescm128",
+    "cat": "audio",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "rtp-midi",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC6295"
+  },
+  {
+    "nm": "rtploopback",
+    "typ": "audio/rtploopback",
+    "cat": "audio",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "rtploopback",
+    "typ": "video/rtploopback",
+    "cat": "video",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "rtploopback",
+    "typ": "text/rtploopback",
+    "cat": "text",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "rtploopback",
+    "typ": "application/rtploopback",
+    "cat": "Applicaton",
+    "ref": "RFC6849"
+  },
+  {
+    "nm": "rtx",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4588"
+  },
+  {
+    "nm": "rtx",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4588"
+  },
+  {
+    "nm": "rtx",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4588"
+  },
+  {
+    "nm": "rtx",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4588"
+  },
+  {
+    "nm": "s-http",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC2660"
+  },
+  {
+    "nm": "samlassertion+xml",
+    "typ": "application/samlassertion+xml",
+    "cat": "Applicaton",
+    "ref": "OASIS_Security_Services_Technical_Committee_SSTC"
+  },
+  {
+    "nm": "samlmetadata+xml",
+    "typ": "application/samlmetadata+xml",
+    "cat": "Applicaton",
+    "ref": "OASIS_Security_Services_Technical_Committee_SSTC"
+  },
+  {
+    "nm": "sbml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3823"
+  },
+  {
+    "nm": "scvp-cv-request",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5055"
+  },
+  {
+    "nm": "scvp-cv-response",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5055"
+  },
+  {
+    "nm": "scvp-vp-request",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5055"
+  },
+  {
+    "nm": "scvp-vp-response",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5055"
+  },
+  {
+    "nm": "sdp",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4566"
+  },
+  {
+    "nm": "sep+xml",
+    "typ": "application/sep+xml",
+    "cat": "Applicaton",
+    "ref": "Robby_SimpsonZigBee"
+  },
+  {
+    "nm": "sep-exi",
+    "typ": "application/sep-exi",
+    "cat": "Applicaton",
+    "ref": "Robby_SimpsonZigBee"
+  },
+  {
+    "nm": "session-info",
+    "typ": "application/session-info",
+    "cat": "Applicaton",
+    "ref": "ThreeGPPFrederic_Firmin"
+  },
+  {
+    "nm": "set-payment",
+    "typ": "application/set-payment",
+    "cat": "Applicaton",
+    "ref": "Brian_Korver"
+  },
+  {
+    "nm": "set-payment-initiation",
+    "typ": "application/set-payment-initiation",
+    "cat": "Applicaton",
+    "ref": "Brian_Korver"
+  },
+  {
+    "nm": "set-registration",
+    "typ": "application/set-registration",
+    "cat": "Applicaton",
+    "ref": "Brian_Korver"
+  },
+  {
+    "nm": "set-registration-initiation",
+    "typ": "application/set-registration-initiation",
+    "cat": "Applicaton",
+    "ref": "Brian_Korver"
+  },
+  {
+    "nm": "sgml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1874"
+  },
+  {
+    "nm": "sgml",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC1874"
+  },
+  {
+    "nm": "sgml-open-catalog",
+    "typ": "application/sgml-open-catalog",
+    "cat": "Applicaton",
+    "ref": "Paul_Grosso"
+  },
+  {
+    "nm": "shf+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4194"
+  },
+  {
+    "nm": "sieve",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5228"
+  },
+  {
+    "nm": "signed",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC1847"
+  },
+  {
+    "nm": "simple-filter+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4661"
+  },
+  {
+    "nm": "simple-message-summary",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3842"
+  },
+  {
+    "nm": "simpleSymbolContainer",
+    "typ": "application/simpleSymbolContainer",
+    "cat": "Applicaton",
+    "ref": "ThreeGPP"
+  },
+  {
+    "nm": "sip",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC3261"
+  },
+  {
+    "nm": "sipfrag",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC3420"
+  },
+  {
+    "nm": "slate",
+    "typ": "application/slate",
+    "cat": "Applicaton",
+    "ref": "Terry_Crowley"
+  },
+  {
+    "nm": "smil - OBSOLETE",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4536"
+  },
+  {
+    "nm": "smil+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4536"
+  },
+  {
+    "nm": "SMPTE292M",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC3497"
+  },
+  {
+    "nm": "smpte336m",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6597"
+  },
+  {
+    "nm": "SMV",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3558"
+  },
+  {
+    "nm": "SMV-QCP",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3625"
+  },
+  {
+    "nm": "SMV0",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC3558"
+  },
+  {
+    "nm": "soap+fastinfoset",
+    "typ": "application/soap+fastinfoset",
+    "cat": "Applicaton",
+    "ref": "ITU-T_ASN.1_Rapporteur"
+  },
+  {
+    "nm": "soap+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3902"
+  },
+  {
+    "nm": "sp-midi",
+    "typ": "audio/sp-midi",
+    "cat": "audio",
+    "ref": "Timo_KosonenTom_White"
+  },
+  {
+    "nm": "sparql-query",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/2007/CR-rdf-sparql-query-20070614/#mediaType"
+  },
+  {
+    "nm": "sparql-results+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/2007/CR-rdf-sparql-XMLres-20070925/#mime"
+  },
+  {
+    "nm": "speex",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5574"
+  },
+  {
+    "nm": "spirits-event+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3910"
+  },
+  {
+    "nm": "sql",
+    "typ": "application/sql",
+    "cat": "Applicaton",
+    "ref": "RFC6922"
+  },
+  {
+    "nm": "srgs",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4267"
+  },
+  {
+    "nm": "srgs+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4267"
+  },
+  {
+    "nm": "sru+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6207"
+  },
+  {
+    "nm": "ssml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4267"
+  },
+  {
+    "nm": "svg+xml",
+    "typ": "",
+    "cat": "image",
+    "ref": "W3Chttp://www.w3.org/TR/SVG/mimereg.html"
+  },
+  {
+    "nm": "t140",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4103"
+  },
+  {
+    "nm": "t140c",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4351"
+  },
+  {
+    "nm": "t38",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4612"
+  },
+  {
+    "nm": "t38",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC3362"
+  },
+  {
+    "nm": "tab-separated-values",
+    "typ": "text/tab-separated-values",
+    "cat": "text",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "tamp-apex-update",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-apex-update-confirm",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-community-update",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-community-update-confirm",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-error",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-sequence-adjust",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-sequence-adjust-confirm",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-status-query",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-status-response",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-update",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tamp-update-confirm",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5934"
+  },
+  {
+    "nm": "tei+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6129"
+  },
+  {
+    "nm": "telephone-event",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4733"
+  },
+  {
+    "nm": "thraud+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5941"
+  },
+  {
+    "nm": "tiff",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC3302"
+  },
+  {
+    "nm": "tiff-fx",
+    "typ": "",
+    "cat": "image",
+    "ref": "RFC3950"
+  },
+  {
+    "nm": "timestamp-query",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3161"
+  },
+  {
+    "nm": "timestamp-reply",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3161"
+  },
+  {
+    "nm": "timestamped-data",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5955"
+  },
+  {
+    "nm": "tone",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4733"
+  },
+  {
+    "nm": "tracking-status",
+    "typ": "",
+    "cat": "message",
+    "ref": "RFC3886"
+  },
+  {
+    "nm": "troff",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC4263"
+  },
+  {
+    "nm": "ttml+xml",
+    "typ": "application/ttml+xml",
+    "cat": "Applicaton",
+    "ref": "W3CW3C_Timed_Text_Working_Group"
+  },
+  {
+    "nm": "turtle",
+    "typ": "text/turtle",
+    "cat": "text",
+    "ref": "Eric_PrudhommeauxW3C"
+  },
+  {
+    "nm": "tve-trigger",
+    "typ": "application/tve-trigger",
+    "cat": "Applicaton",
+    "ref": "Linda_Welsh"
+  },
+  {
+    "nm": "UEMCLIP",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5686"
+  },
+  {
+    "nm": "ulpfec",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "ulpfec",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "ulpfec",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "ulpfec",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5109"
+  },
+  {
+    "nm": "urc-grpsheet+xml",
+    "typ": "application/urc-grpsheet+xml",
+    "cat": "Applicaton",
+    "ref": "Gottfried_ZimmermannISO-IEC JTC1"
+  },
+  {
+    "nm": "urc-ressheet+xml",
+    "typ": "application/urc-ressheet+xml",
+    "cat": "Applicaton",
+    "ref": "Gottfried_ZimmermannISO-IEC JTC1"
+  },
+  {
+    "nm": "urc-targetdesc+xml",
+    "typ": "application/urc-targetdesc+xml",
+    "cat": "Applicaton",
+    "ref": "Gottfried_ZimmermannISO-IEC JTC1"
+  },
+  {
+    "nm": "urc-uisocketdesc+xml",
+    "typ": "application/urc-uisocketdesc+xml",
+    "cat": "Applicaton",
+    "ref": "Gottfried_Zimmermann"
+  },
+  {
+    "nm": "uri-list",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC2483"
+  },
+  {
+    "nm": "vc1",
+    "typ": "",
+    "cat": "video",
+    "ref": "RFC4425"
+  },
+  {
+    "nm": "vcard",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC6350"
+  },
+  {
+    "nm": "vcard+json",
+    "typ": "application/vcard+json",
+    "cat": "Applicaton",
+    "ref": "RFC7095"
+  },
+  {
+    "nm": "vcard+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6351"
+  },
+  {
+    "nm": "VDVI",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4856"
+  },
+  {
+    "nm": "vemmi",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2122"
+  },
+  {
+    "nm": "VMR-WB",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC4348RFC4424"
+  },
+  {
+    "nm": "vnd.3gpp.bsf+xml",
+    "typ": "application/vnd.3gpp.bsf+xml",
+    "cat": "Applicaton",
+    "ref": "John_M_Meredith"
+  },
+  {
+    "nm": "vnd.3gpp.iufp",
+    "typ": "audio/vnd.3gpp.iufp",
+    "cat": "audio",
+    "ref": "Thomas_Belling"
+  },
+  {
+    "nm": "vnd.3gpp.pic-bw-large",
+    "typ": "application/vnd.3gpp.pic-bw-large",
+    "cat": "Applicaton",
+    "ref": "John_M_Meredith"
+  },
+  {
+    "nm": "vnd.3gpp.pic-bw-small",
+    "typ": "application/vnd.3gpp.pic-bw-small",
+    "cat": "Applicaton",
+    "ref": "John_M_Meredith"
+  },
+  {
+    "nm": "vnd.3gpp.pic-bw-var",
+    "typ": "application/vnd.3gpp.pic-bw-var",
+    "cat": "Applicaton",
+    "ref": "John_M_Meredith"
+  },
+  {
+    "nm": "vnd.3gpp.sms",
+    "typ": "application/vnd.3gpp.sms",
+    "cat": "Applicaton",
+    "ref": "John_M_Meredith"
+  },
+  {
+    "nm": "vnd.3gpp2.bcmcsinfo+xml",
+    "typ": "application/vnd.3gpp2.bcmcsinfo+xml",
+    "cat": "Applicaton",
+    "ref": "Andy_Dryden"
+  },
+  {
+    "nm": "vnd.3gpp2.sms",
+    "typ": "application/vnd.3gpp2.sms",
+    "cat": "Applicaton",
+    "ref": "AC_Mahendran"
+  },
+  {
+    "nm": "vnd.3gpp2.tcap",
+    "typ": "application/vnd.3gpp2.tcap",
+    "cat": "Applicaton",
+    "ref": "AC_Mahendran"
+  },
+  {
+    "nm": "vnd.3M.Post-it-Notes",
+    "typ": "application/vnd.3M.Post-it-Notes",
+    "cat": "Applicaton",
+    "ref": "Michael_OBrien"
+  },
+  {
+    "nm": "vnd.4SB",
+    "typ": "audio/vnd.4SB",
+    "cat": "audio",
+    "ref": "Serge_De_Jaham"
+  },
+  {
+    "nm": "vnd.a",
+    "typ": "text/vnd-a",
+    "cat": "text",
+    "ref": "Regis_Dehoux"
+  },
+  {
+    "nm": "vnd.abc",
+    "typ": "text/vnd.abc",
+    "cat": "text",
+    "ref": "Steve_Allen"
+  },
+  {
+    "nm": "vnd.accpac.simply.aso",
+    "typ": "application/vnd.accpac.simply.aso",
+    "cat": "Applicaton",
+    "ref": "Steve_Leow"
+  },
+  {
+    "nm": "vnd.accpac.simply.imp",
+    "typ": "application/vnd.accpac.simply.imp",
+    "cat": "Applicaton",
+    "ref": "Steve_Leow"
+  },
+  {
+    "nm": "vnd.acucobol",
+    "typ": "application/vnd-acucobol",
+    "cat": "Applicaton",
+    "ref": "Dovid_Lubin"
+  },
+  {
+    "nm": "vnd.acucorp",
+    "typ": "application/vnd.acucorp",
+    "cat": "Applicaton",
+    "ref": "Dovid_Lubin"
+  },
+  {
+    "nm": "vnd.adobe.flash.movie",
+    "typ": "application/vnd.adobe.flash-movie",
+    "cat": "Applicaton",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.adobe.formscentral.fcdt",
+    "typ": "application/vnd.adobe.formscentral.fcdt",
+    "cat": "Applicaton",
+    "ref": "Chris_Solc"
+  },
+  {
+    "nm": "vnd.adobe.fxp",
+    "typ": "application/vnd.adobe.fxp",
+    "cat": "Applicaton",
+    "ref": "Robert_BrambleySteven_Heintz"
+  },
+  {
+    "nm": "vnd.adobe.partial-upload",
+    "typ": "application/vnd.adobe.partial-upload",
+    "cat": "Applicaton",
+    "ref": "Tapani_Otala"
+  },
+  {
+    "nm": "vnd.adobe.photoshop",
+    "typ": "image/vnd.adobe.photoshop",
+    "cat": "image",
+    "ref": "Kim_Scarborough"
+  },
+  {
+    "nm": "vnd.adobe.xdp+xml",
+    "typ": "application/vnd.adobe.xdp+xml",
+    "cat": "Applicaton",
+    "ref": "John_Brinkman"
+  },
+  {
+    "nm": "vnd.adobe.xfdf",
+    "typ": "application/vnd.adobe.xfdf",
+    "cat": "Applicaton",
+    "ref": "Roberto_Perelman"
+  },
+  {
+    "nm": "vnd.aether.imp",
+    "typ": "application/vnd.aether.imp",
+    "cat": "Applicaton",
+    "ref": "Jay_Moskowitz"
+  },
+  {
+    "nm": "vnd.ah-barcode",
+    "typ": "application/vnd.ah-barcode",
+    "cat": "Applicaton",
+    "ref": "Katsuhiko_Ichinose"
+  },
+  {
+    "nm": "vnd.ahead.space",
+    "typ": "application/vnd.ahead.space",
+    "cat": "Applicaton",
+    "ref": "Tor_Kristensen"
+  },
+  {
+    "nm": "vnd.airzip.accelerator.azv",
+    "typ": "image/vnd.airzip.accelerator.azv",
+    "cat": "image",
+    "ref": "Gary_Clueit"
+  },
+  {
+    "nm": "vnd.airzip.filesecure.azf",
+    "typ": "application/vnd.airzip.filesecure.azf",
+    "cat": "Applicaton",
+    "ref": "Daniel_MouldGary_Clueit"
+  },
+  {
+    "nm": "vnd.airzip.filesecure.azs",
+    "typ": "application/vnd.airzip.filesecure.azs",
+    "cat": "Applicaton",
+    "ref": "Daniel_MouldGary_Clueit"
+  },
+  {
+    "nm": "vnd.americandynamics.acc",
+    "typ": "application/vnd.americandynamics.acc",
+    "cat": "Applicaton",
+    "ref": "Gary_Sands"
+  },
+  {
+    "nm": "vnd.amiga.ami",
+    "typ": "application/vnd.amiga.ami",
+    "cat": "Applicaton",
+    "ref": "Kevin_Blumberg"
+  },
+  {
+    "nm": "vnd.amundsen.maze+xml",
+    "typ": "application/vnd.amundsen.maze+xml",
+    "cat": "Applicaton",
+    "ref": "Mike_Amundsen"
+  },
+  {
+    "nm": "vnd.anser-web-certificate-issue-initiation",
+    "typ": "application/vnd.anser-web-certificate-issue-initiation",
+    "cat": "Applicaton",
+    "ref": "Hiroyoshi_Mori"
+  },
+  {
+    "nm": "vnd.antix.game-component",
+    "typ": "application/vnd.antix.game-component",
+    "cat": "Applicaton",
+    "ref": "Daniel_Shelton"
+  },
+  {
+    "nm": "vnd.api+json",
+    "typ": "application/vnd.api+json",
+    "cat": "Applicaton",
+    "ref": "Steve_Klabnik"
+  },
+  {
+    "nm": "vnd.apple.installer+xml",
+    "typ": "application/vnd.apple.installer+xml",
+    "cat": "Applicaton",
+    "ref": "Peter_Bierman"
+  },
+  {
+    "nm": "vnd.apple.mpegurl",
+    "typ": "application/vnd.apple.mpegurl",
+    "cat": "Applicaton",
+    "ref": "David_SingerRoger_Pantos"
+  },
+  {
+    "nm": "vnd.arastra.swi - OBSOLETE",
+    "typ": "application/vnd.arastra.swi",
+    "cat": "Applicaton",
+    "ref": "Bill_Fenner"
+  },
+  {
+    "nm": "vnd.aristanetworks.swi",
+    "typ": "application/vnd.aristanetworks.swi",
+    "cat": "Applicaton",
+    "ref": "Bill_Fenner"
+  },
+  {
+    "nm": "vnd.astraea-software.iota",
+    "typ": "application/vnd.astraea-software.iota",
+    "cat": "Applicaton",
+    "ref": "Christopher_Snazell"
+  },
+  {
+    "nm": "vnd.audiograph",
+    "typ": "application/vnd.audiograph",
+    "cat": "Applicaton",
+    "ref": "Horia_Cristian_Slusanschi"
+  },
+  {
+    "nm": "vnd.audiokoz",
+    "typ": "audio/vnd.audiokoz",
+    "cat": "audio",
+    "ref": "Vicki_DeBarros"
+  },
+  {
+    "nm": "vnd.autopackage",
+    "typ": "application/vnd.autopackage",
+    "cat": "Applicaton",
+    "ref": "Mike_Hearn"
+  },
+  {
+    "nm": "vnd.avistar+xml",
+    "typ": "application/vnd.avistar+xml",
+    "cat": "Applicaton",
+    "ref": "Vladimir_Vysotsky"
+  },
+  {
+    "nm": "vnd.balsamiq.bmml+xml",
+    "typ": "application/vnd.balsamiq.bmml+xml",
+    "cat": "Applicaton",
+    "ref": "Giacomo_Guilizzoni"
+  },
+  {
+    "nm": "vnd.bekitzur-stech+json",
+    "typ": "application/vnd.bekitzur-stech+json",
+    "cat": "Applicaton",
+    "ref": "Jegulsky"
+  },
+  {
+    "nm": "vnd.blueice.multipass",
+    "typ": "application/vnd.blueice.multipass",
+    "cat": "Applicaton",
+    "ref": "Thomas_Holmstrom"
+  },
+  {
+    "nm": "vnd.bluetooth.ep.oob",
+    "typ": "application/vnd.bluetooth.ep.oob",
+    "cat": "Applicaton",
+    "ref": "Mike_Foley"
+  },
+  {
+    "nm": "vnd.bluetooth.le.oob",
+    "typ": "application/vnd.bluetooth.le.oob",
+    "cat": "Applicaton",
+    "ref": "Mark_Powell"
+  },
+  {
+    "nm": "vnd.bmi",
+    "typ": "application/vnd.bmi",
+    "cat": "Applicaton",
+    "ref": "Tadashi_Gotoh"
+  },
+  {
+    "nm": "vnd.businessobjects",
+    "typ": "application/vnd.businessobjects",
+    "cat": "Applicaton",
+    "ref": "Philippe_Imoucha"
+  },
+  {
+    "nm": "vnd.cab-jscript",
+    "typ": "application/vnd.cab-jscript",
+    "cat": "Applicaton",
+    "ref": "Joerg_Falkenberg"
+  },
+  {
+    "nm": "vnd.canon-cpdl",
+    "typ": "application/vnd.canon-cpdl",
+    "cat": "Applicaton",
+    "ref": "Shin_Muto"
+  },
+  {
+    "nm": "vnd.canon-lips",
+    "typ": "application/vnd.canon-lips",
+    "cat": "Applicaton",
+    "ref": "Shin_Muto"
+  },
+  {
+    "nm": "vnd.CCTV",
+    "typ": "video/vnd.CCTV",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Rottmann"
+  },
+  {
+    "nm": "vnd.CELP",
+    "typ": "audio/vnd.CELP",
+    "cat": "audio",
+    "ref": "Serge_De_Jaham"
+  },
+  {
+    "nm": "vnd.cendio.thinlinc.clientconf",
+    "typ": "application/vnd.cendio.thinlinc.clientconf",
+    "cat": "Applicaton",
+    "ref": "Peter_Astrand"
+  },
+  {
+    "nm": "vnd.century-systems.tcp_stream",
+    "typ": "application/vnd.century-systems.tcp_stream",
+    "cat": "Applicaton",
+    "ref": "Shuji_Fujii"
+  },
+  {
+    "nm": "vnd.chemdraw+xml",
+    "typ": "application/vnd.chemdraw+xml",
+    "cat": "Applicaton",
+    "ref": "Glenn_Howes"
+  },
+  {
+    "nm": "vnd.chipnuts.karaoke-mmd",
+    "typ": "application/vnd.chipnuts.karaoke-mmd",
+    "cat": "Applicaton",
+    "ref": "Chunyun_Xiong"
+  },
+  {
+    "nm": "vnd.cinderella",
+    "typ": "application/vnd.cinderella",
+    "cat": "Applicaton",
+    "ref": "Ulrich_Kortenkamp"
+  },
+  {
+    "nm": "vnd.cirpack.isdn-ext",
+    "typ": "application/vnd.cirpack.isdn-ext",
+    "cat": "Applicaton",
+    "ref": "Pascal_Mayeux"
+  },
+  {
+    "nm": "vnd.cisco.nse",
+    "typ": "audio/vnd.cisco.nse",
+    "cat": "audio",
+    "ref": "Rajesh_Kumar"
+  },
+  {
+    "nm": "vnd.claymore",
+    "typ": "application/vnd.claymore",
+    "cat": "Applicaton",
+    "ref": "Ray_Simpson"
+  },
+  {
+    "nm": "vnd.cloanto.rp9",
+    "typ": "application/vnd.cloanto.rp9",
+    "cat": "Applicaton",
+    "ref": "Mike_Labatt"
+  },
+  {
+    "nm": "vnd.clonk.c4group",
+    "typ": "application/vnd.clonk.c4group",
+    "cat": "Applicaton",
+    "ref": "Guenther_Brammer"
+  },
+  {
+    "nm": "vnd.cluetrust.cartomobile-config",
+    "typ": "application/vnd.cluetrust.cartomobile-config",
+    "cat": "Applicaton",
+    "ref": "Gaige_Paulsen"
+  },
+  {
+    "nm": "vnd.cluetrust.cartomobile-config-pkg",
+    "typ": "application/vnd.cluetrust.cartomobile-config-pkg",
+    "cat": "Applicaton",
+    "ref": "Gaige_Paulsen"
+  },
+  {
+    "nm": "vnd.cmles.radio-events",
+    "typ": "audio/vnd.cmles.radio-events",
+    "cat": "audio",
+    "ref": "Jean-Philippe_Goulet"
+  },
+  {
+    "nm": "vnd.cns.anp1",
+    "typ": "audio/vnd.cns.anp1",
+    "cat": "audio",
+    "ref": "Ann_McLaughlin"
+  },
+  {
+    "nm": "vnd.cns.inf1",
+    "typ": "audio/vnd.cns.inf1",
+    "cat": "audio",
+    "ref": "Ann_McLaughlin"
+  },
+  {
+    "nm": "vnd.cns.inf2",
+    "typ": "image/vnd.cns.inf2",
+    "cat": "image",
+    "ref": "Ann_McLaughlin"
+  },
+  {
+    "nm": "vnd.collada+xml",
+    "typ": "model/vnd.collada+xml",
+    "cat": "model",
+    "ref": "James_Riordon"
+  },
+  {
+    "nm": "vnd.collection+json",
+    "typ": "application/vnd.collection+json",
+    "cat": "Applicaton",
+    "ref": "Mike_Amundsen"
+  },
+  {
+    "nm": "vnd.collection.doc+json",
+    "typ": "application/vnd.collection.doc+json",
+    "cat": "Applicaton",
+    "ref": "Irakli_Nadareishvili"
+  },
+  {
+    "nm": "vnd.collection.next+json",
+    "typ": "application/vnd.collection.next+json",
+    "cat": "Applicaton",
+    "ref": "Ioseb_Dzmanashvili"
+  },
+  {
+    "nm": "vnd.commerce-battelle",
+    "typ": "application/vnd.commerce-battelle",
+    "cat": "Applicaton",
+    "ref": "David_Applebaum"
+  },
+  {
+    "nm": "vnd.commonspace",
+    "typ": "application/vnd.commonspace",
+    "cat": "Applicaton",
+    "ref": "Ravinder_Chandhok"
+  },
+  {
+    "nm": "vnd.contact.cmsg",
+    "typ": "application/vnd.contact.cmsg",
+    "cat": "Applicaton",
+    "ref": "Frank_Patz"
+  },
+  {
+    "nm": "vnd.cosmocaller",
+    "typ": "application/vnd.cosmocaller",
+    "cat": "Applicaton",
+    "ref": "Steve_Dellutri"
+  },
+  {
+    "nm": "vnd.crick.clicker",
+    "typ": "application/vnd.crick.clicker",
+    "cat": "Applicaton",
+    "ref": "Andrew_Burt"
+  },
+  {
+    "nm": "vnd.crick.clicker.keyboard",
+    "typ": "application/vnd.crick.clicker.keyboard",
+    "cat": "Applicaton",
+    "ref": "Andrew_Burt"
+  },
+  {
+    "nm": "vnd.crick.clicker.palette",
+    "typ": "application/vnd.crick.clicker.palette",
+    "cat": "Applicaton",
+    "ref": "Andrew_Burt"
+  },
+  {
+    "nm": "vnd.crick.clicker.template",
+    "typ": "application/vnd.crick.clicker.template",
+    "cat": "Applicaton",
+    "ref": "Andrew_Burt"
+  },
+  {
+    "nm": "vnd.crick.clicker.wordbank",
+    "typ": "application/vnd.crick.clicker.wordbank",
+    "cat": "Applicaton",
+    "ref": "Andrew_Burt"
+  },
+  {
+    "nm": "vnd.criticaltools.wbs+xml",
+    "typ": "application/vnd.criticaltools.wbs+xml",
+    "cat": "Applicaton",
+    "ref": "Jim_Spiller"
+  },
+  {
+    "nm": "vnd.ctc-posml",
+    "typ": "application/vnd.ctc-posml",
+    "cat": "Applicaton",
+    "ref": "Bayard_Kohlhepp"
+  },
+  {
+    "nm": "vnd.ctct.ws+xml",
+    "typ": "application/vnd.ctct.ws+xml",
+    "cat": "Applicaton",
+    "ref": "Jim_Ancona"
+  },
+  {
+    "nm": "vnd.cups-pdf",
+    "typ": "application/vnd.cups-pdf",
+    "cat": "Applicaton",
+    "ref": "Michael_Sweet"
+  },
+  {
+    "nm": "vnd.cups-postscript",
+    "typ": "application/vnd.cups-postscript",
+    "cat": "Applicaton",
+    "ref": "Michael_Sweet"
+  },
+  {
+    "nm": "vnd.cups-ppd",
+    "typ": "application/vnd.cups-ppd",
+    "cat": "Applicaton",
+    "ref": "Michael_Sweet"
+  },
+  {
+    "nm": "vnd.cups-raster",
+    "typ": "application/vnd.cups-raster",
+    "cat": "Applicaton",
+    "ref": "Michael_Sweet"
+  },
+  {
+    "nm": "vnd.cups-raw",
+    "typ": "application/vnd.cups-raw",
+    "cat": "Applicaton",
+    "ref": "Michael_Sweet"
+  },
+  {
+    "nm": "vnd.curl",
+    "typ": "application/vnd-curl",
+    "cat": "Applicaton",
+    "ref": "Robert_Byrnes"
+  },
+  {
+    "nm": "vnd.curl",
+    "typ": "text/vnd-curl",
+    "cat": "text",
+    "ref": "Robert_Byrnes"
+  },
+  {
+    "nm": "vnd.cyan.dean.root+xml",
+    "typ": "application/vnd.cyan.dean.root+xml",
+    "cat": "Applicaton",
+    "ref": "Matt_Kern"
+  },
+  {
+    "nm": "vnd.cybank",
+    "typ": "application/vnd.cybank",
+    "cat": "Applicaton",
+    "ref": "Nor_Helmee"
+  },
+  {
+    "nm": "vnd.dart",
+    "typ": "application/vnd-dart",
+    "cat": "Applicaton",
+    "ref": "Anders_Sandholm"
+  },
+  {
+    "nm": "vnd.data-vision.rdz",
+    "typ": "application/vnd.data-vision.rdz",
+    "cat": "Applicaton",
+    "ref": "James_Fields"
+  },
+  {
+    "nm": "vnd.debian.copyright",
+    "typ": "text/vnd.debian.copyright",
+    "cat": "text",
+    "ref": "Charles_Plessy"
+  },
+  {
+    "nm": "vnd.dece.audio",
+    "typ": "audio/vnd.dece.audio",
+    "cat": "audio",
+    "ref": "Michael_A_Dolan"
+  },
+  {
+    "nm": "vnd.dece.data",
+    "typ": "application/vnd.dece.data",
+    "cat": "Applicaton",
+    "ref": "Michael_A_Dolan"
+  },
+  {
+    "nm": "vnd.dece.graphic",
+    "typ": "image/vnd.dece.graphic",
+    "cat": "image",
+    "ref": "Michael_A_Dolan"
+  },
+  {
+    "nm": "vnd.dece.hd",
+    "typ": "video/vnd.dece.hd",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.dece.mobile",
+    "typ": "video/vnd.dece.mobile",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.dece.mp4",
+    "typ": "video/vnd.dece-mp4",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.dece.pd",
+    "typ": "video/vnd.dece.pd",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.dece.sd",
+    "typ": "video/vnd.dece.sd",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.dece.ttml+xml",
+    "typ": "application/vnd.dece.ttml+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_A_Dolan"
+  },
+  {
+    "nm": "vnd.dece.unspecified",
+    "typ": "application/vnd.dece.unspecified",
+    "cat": "Applicaton",
+    "ref": "Michael_A_Dolan"
+  },
+  {
+    "nm": "vnd.dece.video",
+    "typ": "video/vnd.dece.video",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.dece.zip",
+    "typ": "application/vnd.dece-zip",
+    "cat": "Applicaton",
+    "ref": "Michael_A_Dolan"
+  },
+  {
+    "nm": "vnd.denovo.fcselayout-link",
+    "typ": "application/vnd.denovo.fcselayout-link",
+    "cat": "Applicaton",
+    "ref": "Michael_Dixon"
+  },
+  {
+    "nm": "vnd.desmume.movie",
+    "typ": "application/vnd.desmume-movie",
+    "cat": "Applicaton",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.digital-winds",
+    "typ": "audio/vnd.digital-winds",
+    "cat": "audio",
+    "ref": "Armands_Strazds"
+  },
+  {
+    "nm": "vnd.dir-bi.plate-dl-nosuffix",
+    "typ": "application/vnd.dir-bi.plate-dl-nosuffix",
+    "cat": "Applicaton",
+    "ref": "Yamanaka"
+  },
+  {
+    "nm": "vnd.directv.mpeg",
+    "typ": "video/vnd.directv-mpeg",
+    "cat": "video",
+    "ref": "Nathan_Zerbe"
+  },
+  {
+    "nm": "vnd.directv.mpeg-tts",
+    "typ": "video/vnd.directv.mpeg-tts",
+    "cat": "video",
+    "ref": "Nathan_Zerbe"
+  },
+  {
+    "nm": "vnd.djvu",
+    "typ": "image/vnd-djvu",
+    "cat": "image",
+    "ref": "Leon_Bottou"
+  },
+  {
+    "nm": "vnd.dlna.adts",
+    "typ": "audio/vnd.dlna.adts",
+    "cat": "audio",
+    "ref": "Edwin_Heredia"
+  },
+  {
+    "nm": "vnd.dlna.mpeg-tts",
+    "typ": "video/vnd.dlna.mpeg-tts",
+    "cat": "video",
+    "ref": "Edwin_Heredia"
+  },
+  {
+    "nm": "vnd.dm.delegation+xml",
+    "typ": "application/vnd.dm.delegation+xml",
+    "cat": "Applicaton",
+    "ref": "Axel_Ferrazzini"
+  },
+  {
+    "nm": "vnd.DMClientScript",
+    "typ": "text/vnd.DMClientScript",
+    "cat": "text",
+    "ref": "Dan_Bradley"
+  },
+  {
+    "nm": "vnd.dna",
+    "typ": "application/vnd.dna",
+    "cat": "Applicaton",
+    "ref": "Meredith_Searcy"
+  },
+  {
+    "nm": "vnd.document+json",
+    "typ": "application/vnd.document+json",
+    "cat": "Applicaton",
+    "ref": "Tom_Christie"
+  },
+  {
+    "nm": "vnd.dolby.heaac.1",
+    "typ": "audio/vnd.dolby.heaac.1",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.heaac.2",
+    "typ": "audio/vnd.dolby.heaac.2",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.mlp",
+    "typ": "audio/vnd.dolby.mlp",
+    "cat": "audio",
+    "ref": "Mike_Ward"
+  },
+  {
+    "nm": "vnd.dolby.mobile.1",
+    "typ": "application/vnd.dolby.mobile.1",
+    "cat": "Applicaton",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.mobile.2",
+    "typ": "application/vnd.dolby.mobile.2",
+    "cat": "Applicaton",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.mps",
+    "typ": "audio/vnd.dolby.mps",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.pl2",
+    "typ": "audio/vnd.dolby.pl2",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.pl2x",
+    "typ": "audio/vnd.dolby.pl2x",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.pl2z",
+    "typ": "audio/vnd.dolby.pl2z",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dolby.pulse.1",
+    "typ": "audio/vnd.dolby.pulse.1",
+    "cat": "audio",
+    "ref": "Steve_Hattersley"
+  },
+  {
+    "nm": "vnd.dpgraph",
+    "typ": "application/vnd.dpgraph",
+    "cat": "Applicaton",
+    "ref": "David_Parker"
+  },
+  {
+    "nm": "vnd.dra",
+    "typ": "audio/vnd.dra",
+    "cat": "audio",
+    "ref": "Jiang_Tian"
+  },
+  {
+    "nm": "vnd.dreamfactory",
+    "typ": "application/vnd.dreamfactory",
+    "cat": "Applicaton",
+    "ref": "William_C._Appleton"
+  },
+  {
+    "nm": "vnd.dtg.local",
+    "typ": "application/vnd.dtg.local",
+    "cat": "Applicaton",
+    "ref": "Ali_Teffahi"
+  },
+  {
+    "nm": "vnd.dtg.local.flash",
+    "typ": "application/vnd.dtg.local.flash",
+    "cat": "Applicaton",
+    "ref": "Ali_Teffahi"
+  },
+  {
+    "nm": "vnd.dtg.local.html",
+    "typ": "application/vnd.dtg.local.html",
+    "cat": "Applicaton",
+    "ref": "Ali_Teffahi"
+  },
+  {
+    "nm": "vnd.dts",
+    "typ": "audio/vnd.dts",
+    "cat": "audio",
+    "ref": "William_Zou"
+  },
+  {
+    "nm": "vnd.dts.hd",
+    "typ": "audio/vnd.dts.hd",
+    "cat": "audio",
+    "ref": "William_Zou"
+  },
+  {
+    "nm": "vnd.dvb.ait",
+    "typ": "application/vnd.dvb.ait",
+    "cat": "Applicaton",
+    "ref": "Peter_SiebertMichael_Lagally"
+  },
+  {
+    "nm": "vnd.dvb.dvbj",
+    "typ": "application/vnd.dvb.dvbj",
+    "cat": "Applicaton",
+    "ref": "Peter_SiebertMichael_Lagally"
+  },
+  {
+    "nm": "vnd.dvb.esgcontainer",
+    "typ": "application/vnd.dvb.esgcontainer",
+    "cat": "Applicaton",
+    "ref": "Joerg_Heuer"
+  },
+  {
+    "nm": "vnd.dvb.file",
+    "typ": "audio/vnd.dvb.file",
+    "cat": "audio",
+    "ref": "Peter_Siebert"
+  },
+  {
+    "nm": "vnd.dvb.file",
+    "typ": "video/vnd.dvb.file",
+    "cat": "video",
+    "ref": "Peter_SiebertKevin_Murray"
+  },
+  {
+    "nm": "vnd.dvb.ipdcdftnotifaccess",
+    "typ": "application/vnd.dvb.ipdcdftnotifaccess",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.ipdcesgaccess",
+    "typ": "application/vnd.dvb.ipdcesgaccess",
+    "cat": "Applicaton",
+    "ref": "Joerg_Heuer"
+  },
+  {
+    "nm": "vnd.dvb.ipdcesgaccess2",
+    "typ": "application/vnd.dvb.ipdcesgaccess2",
+    "cat": "Applicaton",
+    "ref": "Jerome_Marcon"
+  },
+  {
+    "nm": "vnd.dvb.ipdcesgpdd",
+    "typ": "application/vnd.dvb.ipdcesgpdd",
+    "cat": "Applicaton",
+    "ref": "Jerome_Marcon"
+  },
+  {
+    "nm": "vnd.dvb.ipdcroaming",
+    "typ": "application/vnd.dvb.ipdcroaming",
+    "cat": "Applicaton",
+    "ref": "Yiling_Xu"
+  },
+  {
+    "nm": "vnd.dvb.iptv.alfec-base",
+    "typ": "application/vnd.dvb.iptv.alfec-base",
+    "cat": "Applicaton",
+    "ref": "Jean-Baptiste_Henry"
+  },
+  {
+    "nm": "vnd.dvb.iptv.alfec-enhancement",
+    "typ": "application/vnd.dvb.iptv.alfec-enhancement",
+    "cat": "Applicaton",
+    "ref": "Jean-Baptiste_Henry"
+  },
+  {
+    "nm": "vnd.dvb.notif-aggregate-root+xml",
+    "typ": "application/vnd.dvb.notif-aggregate-root+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.notif-container+xml",
+    "typ": "application/vnd.dvb.notif-container+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.notif-generic+xml",
+    "typ": "application/vnd.dvb.notif-generic+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.notif-ia-msglist+xml",
+    "typ": "application/vnd.dvb.notif-ia-msglist+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.notif-ia-registration-request+xml",
+    "typ": "application/vnd.dvb.notif-ia-registration-request+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.notif-ia-registration-response+xml",
+    "typ": "application/vnd.dvb.notif-ia-registration-response+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.notif-init+xml",
+    "typ": "application/vnd.dvb.notif-init+xml",
+    "cat": "Applicaton",
+    "ref": "Roy_Yue"
+  },
+  {
+    "nm": "vnd.dvb.pfr",
+    "typ": "application/vnd.dvb.pfr",
+    "cat": "Applicaton",
+    "ref": "Peter_SiebertMichael_Lagally"
+  },
+  {
+    "nm": "vnd.dvb.service",
+    "typ": "application/vnd.dvb_service",
+    "cat": "Applicaton",
+    "ref": "Peter_SiebertMichael_Lagally"
+  },
+  {
+    "nm": "vnd.dvb.subtitle",
+    "typ": "text/vnd.dvb.subtitle",
+    "cat": "text",
+    "ref": "Peter_SiebertMichael_Lagally"
+  },
+  {
+    "nm": "vnd.dvb.subtitle",
+    "typ": "image/vnd.dvb.subtitle",
+    "cat": "image",
+    "ref": "Peter_SiebertMichael_Lagally"
+  },
+  {
+    "nm": "vnd.dwf",
+    "typ": "model/vnd-dwf",
+    "cat": "model",
+    "ref": "Jason_Pratt"
+  },
+  {
+    "nm": "vnd.dwg",
+    "typ": "image/vnd.dwg",
+    "cat": "image",
+    "ref": "Jodi_Moline"
+  },
+  {
+    "nm": "vnd.dxf",
+    "typ": "image/vnd.dxf",
+    "cat": "image",
+    "ref": "Jodi_Moline"
+  },
+  {
+    "nm": "vnd.dxr",
+    "typ": "application/vnd-dxr",
+    "cat": "Applicaton",
+    "ref": "Michael_Duffy"
+  },
+  {
+    "nm": "vnd.dynageo",
+    "typ": "application/vnd.dynageo",
+    "cat": "Applicaton",
+    "ref": "Roland_Mechling"
+  },
+  {
+    "nm": "vnd.easykaraoke.cdgdownload",
+    "typ": "application/vnd.easykaraoke.cdgdownload",
+    "cat": "Applicaton",
+    "ref": "Iain_Downs"
+  },
+  {
+    "nm": "vnd.ecdis-update",
+    "typ": "application/vnd.ecdis-update",
+    "cat": "Applicaton",
+    "ref": "Gert_Buettgenbach"
+  },
+  {
+    "nm": "vnd.ecowin.chart",
+    "typ": "application/vnd.ecowin.chart",
+    "cat": "Applicaton",
+    "ref": "Thomas_Olsson"
+  },
+  {
+    "nm": "vnd.ecowin.filerequest",
+    "typ": "application/vnd.ecowin.filerequest",
+    "cat": "Applicaton",
+    "ref": "Thomas_Olsson"
+  },
+  {
+    "nm": "vnd.ecowin.fileupdate",
+    "typ": "application/vnd.ecowin.fileupdate",
+    "cat": "Applicaton",
+    "ref": "Thomas_Olsson"
+  },
+  {
+    "nm": "vnd.ecowin.series",
+    "typ": "application/vnd.ecowin.series",
+    "cat": "Applicaton",
+    "ref": "Thomas_Olsson"
+  },
+  {
+    "nm": "vnd.ecowin.seriesrequest",
+    "typ": "application/vnd.ecowin.seriesrequest",
+    "cat": "Applicaton",
+    "ref": "Thomas_Olsson"
+  },
+  {
+    "nm": "vnd.ecowin.seriesupdate",
+    "typ": "application/vnd.ecowin.seriesupdate",
+    "cat": "Applicaton",
+    "ref": "Thomas_Olsson"
+  },
+  {
+    "nm": "vnd.emclient.accessrequest+xml",
+    "typ": "application/vnd.emclient.accessrequest+xml",
+    "cat": "Applicaton",
+    "ref": "Filip_Navara"
+  },
+  {
+    "nm": "vnd.enliven",
+    "typ": "application/vnd.enliven",
+    "cat": "Applicaton",
+    "ref": "Paul_Santinelli_Jr."
+  },
+  {
+    "nm": "vnd.eprints.data+xml",
+    "typ": "application/vnd.eprints.data+xml",
+    "cat": "Applicaton",
+    "ref": "Tim_Brody"
+  },
+  {
+    "nm": "vnd.epson.esf",
+    "typ": "application/vnd.epson.esf",
+    "cat": "Applicaton",
+    "ref": "Shoji_Hoshina"
+  },
+  {
+    "nm": "vnd.epson.msf",
+    "typ": "application/vnd.epson.msf",
+    "cat": "Applicaton",
+    "ref": "Shoji_Hoshina"
+  },
+  {
+    "nm": "vnd.epson.quickanime",
+    "typ": "application/vnd.epson.quickanime",
+    "cat": "Applicaton",
+    "ref": "Yu_Gu"
+  },
+  {
+    "nm": "vnd.epson.salt",
+    "typ": "application/vnd.epson.salt",
+    "cat": "Applicaton",
+    "ref": "Yasuhito_Nagatomo"
+  },
+  {
+    "nm": "vnd.epson.ssf",
+    "typ": "application/vnd.epson.ssf",
+    "cat": "Applicaton",
+    "ref": "Shoji_Hoshina"
+  },
+  {
+    "nm": "vnd.ericsson.quickcall",
+    "typ": "application/vnd.ericsson.quickcall",
+    "cat": "Applicaton",
+    "ref": "Paul_Tidwell"
+  },
+  {
+    "nm": "vnd.esmertec.theme-descriptor",
+    "typ": "text/vnd.esmertec.theme-descriptor",
+    "cat": "text",
+    "ref": "Stefan_Eilemann"
+  },
+  {
+    "nm": "vnd.eszigno3+xml",
+    "typ": "application/vnd.eszigno3+xml",
+    "cat": "Applicaton",
+    "ref": "Szilveszter_Tóth"
+  },
+  {
+    "nm": "vnd.etsi.aoc+xml",
+    "typ": "application/vnd.etsi.aoc+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.asic-e+zip",
+    "typ": "application/vnd.etsi.asic-e+zip",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_Ortega"
+  },
+  {
+    "nm": "vnd.etsi.asic-s+zip",
+    "typ": "application/vnd.etsi.asic-s+zip",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_Ortega"
+  },
+  {
+    "nm": "vnd.etsi.cug+xml",
+    "typ": "application/vnd.etsi.cug+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvcommand+xml",
+    "typ": "application/vnd.etsi.iptvcommand+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvdiscovery+xml",
+    "typ": "application/vnd.etsi.iptvdiscovery+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvprofile+xml",
+    "typ": "application/vnd.etsi.iptvprofile+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvsad-bc+xml",
+    "typ": "application/vnd.etsi.iptvsad-bc+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvsad-cod+xml",
+    "typ": "application/vnd.etsi.iptvsad-cod+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvsad-npvr+xml",
+    "typ": "application/vnd.etsi.iptvsad-npvr+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.iptvservice+xml",
+    "typ": "application/vnd.etsi.iptvservice+xml",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_Ortega"
+  },
+  {
+    "nm": "vnd.etsi.iptvsync+xml",
+    "typ": "application/vnd.etsi.iptvsync+xml",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_Ortega"
+  },
+  {
+    "nm": "vnd.etsi.iptvueprofile+xml",
+    "typ": "application/vnd.etsi.iptvueprofile+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.mcid+xml",
+    "typ": "application/vnd.etsi.mcid+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.mheg5",
+    "typ": "application/vnd.etsi.mheg5",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_OrtegaIan_Medland"
+  },
+  {
+    "nm": "vnd.etsi.overload-control-policy-dataset+xml",
+    "typ": "application/vnd.etsi.overload-control-policy-dataset+xml",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_Ortega"
+  },
+  {
+    "nm": "vnd.etsi.pstn+xml",
+    "typ": "application/vnd.etsi.pstn+xml",
+    "cat": "Applicaton",
+    "ref": "Jiwan_HanThomas_Belling"
+  },
+  {
+    "nm": "vnd.etsi.sci+xml",
+    "typ": "application/vnd.etsi.sci+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.simservs+xml",
+    "typ": "application/vnd.etsi.simservs+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.timestamp-token",
+    "typ": "application/vnd.etsi.timestamp-token",
+    "cat": "Applicaton",
+    "ref": "Miguel_Angel_Reina_Ortega"
+  },
+  {
+    "nm": "vnd.etsi.tsl+xml",
+    "typ": "application/vnd.etsi.tsl+xml",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.etsi.tsl.der",
+    "typ": "application/vnd.etsi.tsl.der",
+    "cat": "Applicaton",
+    "ref": "Shicheng_Hu"
+  },
+  {
+    "nm": "vnd.eudora.data",
+    "typ": "application/vnd.eudora.data",
+    "cat": "Applicaton",
+    "ref": "Pete_Resnick"
+  },
+  {
+    "nm": "vnd.everad.plj",
+    "typ": "audio/vnd.everad.plj",
+    "cat": "audio",
+    "ref": "Shay_Cicelsky"
+  },
+  {
+    "nm": "vnd.ezpix-album",
+    "typ": "application/vnd.ezpix-album",
+    "cat": "Applicaton",
+    "ref": "ElectronicZombieCorp"
+  },
+  {
+    "nm": "vnd.ezpix-package",
+    "typ": "application/vnd.ezpix-package",
+    "cat": "Applicaton",
+    "ref": "ElectronicZombieCorp"
+  },
+  {
+    "nm": "vnd.f-secure.mobile",
+    "typ": "application/vnd.f-secure.mobile",
+    "cat": "Applicaton",
+    "ref": "Samu_Sarivaara"
+  },
+  {
+    "nm": "vnd.fastbidsheet",
+    "typ": "image/vnd.fastbidsheet",
+    "cat": "image",
+    "ref": "Scott_Becker"
+  },
+  {
+    "nm": "vnd.fdf",
+    "typ": "application/vnd-fdf",
+    "cat": "Applicaton",
+    "ref": "Steve_Zilles"
+  },
+  {
+    "nm": "vnd.fdsn.mseed",
+    "typ": "application/vnd.fdsn.mseed",
+    "cat": "Applicaton",
+    "ref": "Chad_Trabant"
+  },
+  {
+    "nm": "vnd.fdsn.seed",
+    "typ": "application/vnd.fdsn.seed",
+    "cat": "Applicaton",
+    "ref": "Chad_Trabant"
+  },
+  {
+    "nm": "vnd.ffsns",
+    "typ": "application/vnd.ffsns",
+    "cat": "Applicaton",
+    "ref": "Holstage"
+  },
+  {
+    "nm": "vnd.fints",
+    "typ": "application/vnd.fints",
+    "cat": "Applicaton",
+    "ref": "Ingo_Hammann"
+  },
+  {
+    "nm": "vnd.flatland.3dml",
+    "typ": "model/vnd.flatland.3dml",
+    "cat": "model",
+    "ref": "Michael_Powers"
+  },
+  {
+    "nm": "vnd.FloGraphIt",
+    "typ": "application/vnd.FloGraphIt",
+    "cat": "Applicaton",
+    "ref": "Dick_Floersch"
+  },
+  {
+    "nm": "vnd.fluxtime.clip",
+    "typ": "application/vnd.fluxtime.clip",
+    "cat": "Applicaton",
+    "ref": "Marc_Winter"
+  },
+  {
+    "nm": "vnd.fly",
+    "typ": "text/vnd.fly",
+    "cat": "text",
+    "ref": "John-Mark_Gurney"
+  },
+  {
+    "nm": "vnd.fmi.flexstor",
+    "typ": "text/vnd.fmi.flexstor",
+    "cat": "text",
+    "ref": "Kari_E._Hurtta"
+  },
+  {
+    "nm": "vnd.font-fontforge-sfd",
+    "typ": "application/vnd.font-fontforge-sfd",
+    "cat": "Applicaton",
+    "ref": "George_Williams"
+  },
+  {
+    "nm": "vnd.fpx",
+    "typ": "image/vnd.fpx",
+    "cat": "image",
+    "ref": "Marc_Douglas_Spencer"
+  },
+  {
+    "nm": "vnd.framemaker",
+    "typ": "application/vnd.framemaker",
+    "cat": "Applicaton",
+    "ref": "Mike_Wexler"
+  },
+  {
+    "nm": "vnd.frogans.fnc",
+    "typ": "application/vnd.frogans.fnc",
+    "cat": "Applicaton",
+    "ref": "Alexis_Tamas"
+  },
+  {
+    "nm": "vnd.frogans.ltf",
+    "typ": "application/vnd.frogans.ltf",
+    "cat": "Applicaton",
+    "ref": "Alexis_Tamas"
+  },
+  {
+    "nm": "vnd.fsc.weblaunch",
+    "typ": "application/vnd.fsc.weblaunch",
+    "cat": "Applicaton",
+    "ref": "Derek_Smith"
+  },
+  {
+    "nm": "vnd.fst",
+    "typ": "image/vnd.fst",
+    "cat": "image",
+    "ref": "Arild_Fuldseth"
+  },
+  {
+    "nm": "vnd.fujitsu.oasys",
+    "typ": "application/vnd.fujitsu.oasys",
+    "cat": "Applicaton",
+    "ref": "Nobukazu_Togashi"
+  },
+  {
+    "nm": "vnd.fujitsu.oasys2",
+    "typ": "application/vnd.fujitsu.oasys2",
+    "cat": "Applicaton",
+    "ref": "Nobukazu_Togashi"
+  },
+  {
+    "nm": "vnd.fujitsu.oasys3",
+    "typ": "application/vnd.fujitsu.oasys3",
+    "cat": "Applicaton",
+    "ref": "Seiji_Okudaira"
+  },
+  {
+    "nm": "vnd.fujitsu.oasysgp",
+    "typ": "application/vnd.fujitsu.oasysgp",
+    "cat": "Applicaton",
+    "ref": "Masahiko_Sugimoto"
+  },
+  {
+    "nm": "vnd.fujitsu.oasysprs",
+    "typ": "application/vnd.fujitsu.oasysprs",
+    "cat": "Applicaton",
+    "ref": "Masumi_Ogita"
+  },
+  {
+    "nm": "vnd.fujixerox.ART-EX",
+    "typ": "application/vnd.fujixerox.ART-EX",
+    "cat": "Applicaton",
+    "ref": "Fumio_Tanabe"
+  },
+  {
+    "nm": "vnd.fujixerox.ART4",
+    "typ": "application/vnd.fujixerox.ART4",
+    "cat": "Applicaton",
+    "ref": "Fumio_Tanabe"
+  },
+  {
+    "nm": "vnd.fujixerox.ddd",
+    "typ": "application/vnd.fujixerox.ddd",
+    "cat": "Applicaton",
+    "ref": "Masanori_Onda"
+  },
+  {
+    "nm": "vnd.fujixerox.docuworks",
+    "typ": "application/vnd.fujixerox.docuworks",
+    "cat": "Applicaton",
+    "ref": "Yasuo_Taguchi"
+  },
+  {
+    "nm": "vnd.fujixerox.docuworks.binder",
+    "typ": "application/vnd.fujixerox.docuworks.binder",
+    "cat": "Applicaton",
+    "ref": "Takashi_Matsumoto"
+  },
+  {
+    "nm": "vnd.fujixerox.docuworks.container",
+    "typ": "application/vnd.fujixerox.docuworks.container",
+    "cat": "Applicaton",
+    "ref": "Kiyoshi_Tashiro"
+  },
+  {
+    "nm": "vnd.fujixerox.edmics-mmr",
+    "typ": "image/vnd.fujixerox.edmics-mmr",
+    "cat": "image",
+    "ref": "Masanori_Onda"
+  },
+  {
+    "nm": "vnd.fujixerox.edmics-rlc",
+    "typ": "image/vnd.fujixerox.edmics-rlc",
+    "cat": "image",
+    "ref": "Masanori_Onda"
+  },
+  {
+    "nm": "vnd.fujixerox.HBPL",
+    "typ": "application/vnd.fujixerox.HBPL",
+    "cat": "Applicaton",
+    "ref": "Fumio_Tanabe"
+  },
+  {
+    "nm": "vnd.fut-misnet",
+    "typ": "application/vnd.fut-misnet",
+    "cat": "Applicaton",
+    "ref": "Jann_Pruulman"
+  },
+  {
+    "nm": "vnd.fuzzysheet",
+    "typ": "application/vnd.fuzzysheet",
+    "cat": "Applicaton",
+    "ref": "Simon_Birtwistle"
+  },
+  {
+    "nm": "vnd.fvt",
+    "typ": "video/vnd.fvt",
+    "cat": "video",
+    "ref": "Arild_Fuldseth"
+  },
+  {
+    "nm": "vnd.gdl",
+    "typ": "model/vnd.gdl",
+    "cat": "model",
+    "ref": "Attila_Babits"
+  },
+  {
+    "nm": "vnd.genomatix.tuxedo",
+    "typ": "application/vnd.genomatix.tuxedo",
+    "cat": "Applicaton",
+    "ref": "Torben_Frey"
+  },
+  {
+    "nm": "vnd.geocube+xml - OBSOLETE",
+    "typ": "application/vnd.geocube+xml",
+    "cat": "Applicaton",
+    "ref": "Francois_Pirsch"
+  },
+  {
+    "nm": "vnd.geogebra.file",
+    "typ": "application/vnd.geogebra.file",
+    "cat": "Applicaton",
+    "ref": "GeoGebraYves_Kreis"
+  },
+  {
+    "nm": "vnd.geogebra.tool",
+    "typ": "application/vnd.geogebra.tool",
+    "cat": "Applicaton",
+    "ref": "GeoGebraYves_Kreis"
+  },
+  {
+    "nm": "vnd.geometry-explorer",
+    "typ": "application/vnd.geometry-explorer",
+    "cat": "Applicaton",
+    "ref": "Michael_Hvidsten"
+  },
+  {
+    "nm": "vnd.geonext",
+    "typ": "application/vnd.geonext",
+    "cat": "Applicaton",
+    "ref": "Matthias_Ehmann"
+  },
+  {
+    "nm": "vnd.geoplan",
+    "typ": "application/vnd.geoplan",
+    "cat": "Applicaton",
+    "ref": "Christian_Mercat"
+  },
+  {
+    "nm": "vnd.geospace",
+    "typ": "application/vnd.geospace",
+    "cat": "Applicaton",
+    "ref": "Christian_Mercat"
+  },
+  {
+    "nm": "vnd.globalgraphics.pgb",
+    "typ": "image/vnd.globalgraphics.pgb",
+    "cat": "image",
+    "ref": "Martin_Bailey"
+  },
+  {
+    "nm": "vnd.globalplatform.card-content-mgt",
+    "typ": "application/vnd.globalplatform.card-content-mgt",
+    "cat": "Applicaton",
+    "ref": "Gil_Bernabeu"
+  },
+  {
+    "nm": "vnd.globalplatform.card-content-mgt-response",
+    "typ": "application/vnd.globalplatform.card-content-mgt-response",
+    "cat": "Applicaton",
+    "ref": "Gil_Bernabeu"
+  },
+  {
+    "nm": "vnd.gmx - OBSOLETE",
+    "typ": "application/vnd.gmx",
+    "cat": "Applicaton",
+    "ref": "Christian_V._Sciberras"
+  },
+  {
+    "nm": "vnd.google-earth.kml+xml",
+    "typ": "application/vnd.google-earth.kml+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Ashbridge"
+  },
+  {
+    "nm": "vnd.google-earth.kmz",
+    "typ": "application/vnd.google-earth.kmz",
+    "cat": "Applicaton",
+    "ref": "Michael_Ashbridge"
+  },
+  {
+    "nm": "vnd.grafeq",
+    "typ": "application/vnd.grafeq",
+    "cat": "Applicaton",
+    "ref": "Jeff_Tupper"
+  },
+  {
+    "nm": "vnd.graphviz",
+    "typ": "text/vnd.graphviz",
+    "cat": "text",
+    "ref": "John_Ellson"
+  },
+  {
+    "nm": "vnd.gridmp",
+    "typ": "application/vnd.gridmp",
+    "cat": "Applicaton",
+    "ref": "Jeff_Lawson"
+  },
+  {
+    "nm": "vnd.groove-account",
+    "typ": "application/vnd.groove-account",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.groove-help",
+    "typ": "application/vnd.groove-help",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.groove-identity-message",
+    "typ": "application/vnd.groove-identity-message",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.groove-injector",
+    "typ": "application/vnd.groove-injector",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.groove-tool-message",
+    "typ": "application/vnd.groove-tool-message",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.groove-tool-template",
+    "typ": "application/vnd.groove-tool-template",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.groove-vcard",
+    "typ": "application/vnd.groove-vcard",
+    "cat": "Applicaton",
+    "ref": "Todd_Joseph"
+  },
+  {
+    "nm": "vnd.gs-gdl",
+    "typ": "model/vnd.gs-gdl",
+    "cat": "model",
+    "ref": "Attila_Babits"
+  },
+  {
+    "nm": "vnd.gtw",
+    "typ": "model/vnd.gtw",
+    "cat": "model",
+    "ref": "Yutaka_Ozaki"
+  },
+  {
+    "nm": "vnd.hal+json",
+    "typ": "application/vnd.hal+json",
+    "cat": "Applicaton",
+    "ref": "Mike_Kelly"
+  },
+  {
+    "nm": "vnd.hal+xml",
+    "typ": "application/vnd.hal+xml",
+    "cat": "Applicaton",
+    "ref": "Mike_Kelly"
+  },
+  {
+    "nm": "vnd.HandHeld-Entertainment+xml",
+    "typ": "application/vnd.HandHeld-Entertainment+xml",
+    "cat": "Applicaton",
+    "ref": "Eric_Hamilton"
+  },
+  {
+    "nm": "vnd.hbci",
+    "typ": "application/vnd.hbci",
+    "cat": "Applicaton",
+    "ref": "Ingo_Hammann"
+  },
+  {
+    "nm": "vnd.hcl-bireports",
+    "typ": "application/vnd.hcl-bireports",
+    "cat": "Applicaton",
+    "ref": "Doug_R._Serres"
+  },
+  {
+    "nm": "vnd.heroku+json",
+    "typ": "application/vnd.heroku+json",
+    "cat": "Applicaton",
+    "ref": "Wesley_Beary"
+  },
+  {
+    "nm": "vnd.hhe.lesson-player",
+    "typ": "application/vnd.hhe.lesson-player",
+    "cat": "Applicaton",
+    "ref": "Randy_Jones"
+  },
+  {
+    "nm": "vnd.hns.audio",
+    "typ": "audio/vnd.hns.audio",
+    "cat": "audio",
+    "ref": "Swaminathan"
+  },
+  {
+    "nm": "vnd.hns.video",
+    "typ": "video/vnd.hns.video",
+    "cat": "video",
+    "ref": "Swaminathan"
+  },
+  {
+    "nm": "vnd.hp-HPGL",
+    "typ": "application/vnd.hp-HPGL",
+    "cat": "Applicaton",
+    "ref": "Bob_Pentecost"
+  },
+  {
+    "nm": "vnd.hp-hpid",
+    "typ": "application/vnd.hp-hpid",
+    "cat": "Applicaton",
+    "ref": "Aloke_Gupta"
+  },
+  {
+    "nm": "vnd.hp-hps",
+    "typ": "application/vnd.hp-hps",
+    "cat": "Applicaton",
+    "ref": "Steve_Aubrey"
+  },
+  {
+    "nm": "vnd.hp-jlyt",
+    "typ": "application/vnd.hp-jlyt",
+    "cat": "Applicaton",
+    "ref": "Amir_Gaash"
+  },
+  {
+    "nm": "vnd.hp-PCL",
+    "typ": "application/vnd.hp-PCL",
+    "cat": "Applicaton",
+    "ref": "Bob_Pentecost"
+  },
+  {
+    "nm": "vnd.hp-PCLXL",
+    "typ": "application/vnd.hp-PCLXL",
+    "cat": "Applicaton",
+    "ref": "Bob_Pentecost"
+  },
+  {
+    "nm": "vnd.httphone",
+    "typ": "application/vnd.httphone",
+    "cat": "Applicaton",
+    "ref": "Franck_Lefevre"
+  },
+  {
+    "nm": "vnd.hydrostatix.sof-data",
+    "typ": "application/vnd.hydrostatix.sof-data",
+    "cat": "Applicaton",
+    "ref": "Allen_Gillam"
+  },
+  {
+    "nm": "vnd.hzn-3d-crossword",
+    "typ": "application/vnd.hzn-3d-crossword",
+    "cat": "Applicaton",
+    "ref": "James_Minnis"
+  },
+  {
+    "nm": "vnd.ibm.afplinedata",
+    "typ": "application/vnd.ibm.afplinedata",
+    "cat": "Applicaton",
+    "ref": "Roger_Buis"
+  },
+  {
+    "nm": "vnd.ibm.electronic-media",
+    "typ": "application/vnd.ibm.electronic-media",
+    "cat": "Applicaton",
+    "ref": "Bruce_Tantlinger"
+  },
+  {
+    "nm": "vnd.ibm.MiniPay",
+    "typ": "application/vnd.ibm.MiniPay",
+    "cat": "Applicaton",
+    "ref": "Amir_Herzberg"
+  },
+  {
+    "nm": "vnd.ibm.modcap",
+    "typ": "application/vnd.ibm.modcap",
+    "cat": "Applicaton",
+    "ref": "Reinhard_Hohensee"
+  },
+  {
+    "nm": "vnd.ibm.rights-management",
+    "typ": "application/vnd.ibm.rights-management",
+    "cat": "Applicaton",
+    "ref": "Bruce_Tantlinger"
+  },
+  {
+    "nm": "vnd.ibm.secure-container",
+    "typ": "application/vnd.ibm.secure-container",
+    "cat": "Applicaton",
+    "ref": "Bruce_Tantlinger"
+  },
+  {
+    "nm": "vnd.iccprofile",
+    "typ": "application/vnd.iccprofile",
+    "cat": "Applicaton",
+    "ref": "Phil_Green"
+  },
+  {
+    "nm": "vnd.ieee.1905",
+    "typ": "application/vnd.ieee.1905",
+    "cat": "Applicaton",
+    "ref": "Purva_R_Rajkotia"
+  },
+  {
+    "nm": "vnd.igloader",
+    "typ": "application/vnd.igloader",
+    "cat": "Applicaton",
+    "ref": "Tim_Fisher"
+  },
+  {
+    "nm": "vnd.immervision-ivp",
+    "typ": "application/vnd.immervision-ivp",
+    "cat": "Applicaton",
+    "ref": "Mathieu_Villegas"
+  },
+  {
+    "nm": "vnd.immervision-ivu",
+    "typ": "application/vnd.immervision-ivu",
+    "cat": "Applicaton",
+    "ref": "Mathieu_Villegas"
+  },
+  {
+    "nm": "vnd.in3d.3dml",
+    "typ": "text/vnd.in3d.3dml",
+    "cat": "text",
+    "ref": "Michael_Powers"
+  },
+  {
+    "nm": "vnd.in3d.spot",
+    "typ": "text/vnd.in3d.spot",
+    "cat": "text",
+    "ref": "Michael_Powers"
+  },
+  {
+    "nm": "vnd.informedcontrol.rms+xml",
+    "typ": "application/vnd.informedcontrol.rms+xml",
+    "cat": "Applicaton",
+    "ref": "Mark_Wahl"
+  },
+  {
+    "nm": "vnd.informix-visionary",
+    "typ": "application/vnd.informix-visionary",
+    "cat": "Applicaton",
+    "ref": "Christopher_Gales"
+  },
+  {
+    "nm": "vnd.infotech.project",
+    "typ": "application/vnd.infotech.project",
+    "cat": "Applicaton",
+    "ref": "Charles_Engelke"
+  },
+  {
+    "nm": "vnd.infotech.project+xml",
+    "typ": "application/vnd.infotech.project+xml",
+    "cat": "Applicaton",
+    "ref": "Charles_Engelke"
+  },
+  {
+    "nm": "vnd.innopath.wamp.notification",
+    "typ": "application/vnd.innopath.wamp.notification",
+    "cat": "Applicaton",
+    "ref": "Takanori_Sudo"
+  },
+  {
+    "nm": "vnd.insors.igm",
+    "typ": "application/vnd.insors.igm",
+    "cat": "Applicaton",
+    "ref": "Jon_Swanson"
+  },
+  {
+    "nm": "vnd.intercon.formnet",
+    "typ": "application/vnd.intercon.formnet",
+    "cat": "Applicaton",
+    "ref": "Tom_Gurak"
+  },
+  {
+    "nm": "vnd.intergeo",
+    "typ": "application/vnd.intergeo",
+    "cat": "Applicaton",
+    "ref": "Yves_Kreis_2"
+  },
+  {
+    "nm": "vnd.intertrust.digibox",
+    "typ": "application/vnd.intertrust.digibox",
+    "cat": "Applicaton",
+    "ref": "Luke_Tomasello"
+  },
+  {
+    "nm": "vnd.intertrust.nncp",
+    "typ": "application/vnd.intertrust.nncp",
+    "cat": "Applicaton",
+    "ref": "Luke_Tomasello"
+  },
+  {
+    "nm": "vnd.intu.qbo",
+    "typ": "application/vnd.intu.qbo",
+    "cat": "Applicaton",
+    "ref": "Greg_Scratchley"
+  },
+  {
+    "nm": "vnd.intu.qfx",
+    "typ": "application/vnd.intu.qfx",
+    "cat": "Applicaton",
+    "ref": "Greg_Scratchley"
+  },
+  {
+    "nm": "vnd.iptc.g2.catalogitem+xml",
+    "typ": "application/vnd.iptc.g2.catalogitem+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.iptc.g2.conceptitem+xml",
+    "typ": "application/vnd.iptc.g2.conceptitem+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.iptc.g2.knowledgeitem+xml",
+    "typ": "application/vnd.iptc.g2.knowledgeitem+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.iptc.g2.newsitem+xml",
+    "typ": "application/vnd.iptc.g2.newsitem+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.iptc.g2.newsmessage+xml",
+    "typ": "application/vnd.iptc.g2.newsmessage+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.iptc.g2.packageitem+xml",
+    "typ": "application/vnd.iptc.g2.packageitem+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.iptc.g2.planningitem+xml",
+    "typ": "application/vnd.iptc.g2.planningitem+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Steidl"
+  },
+  {
+    "nm": "vnd.IPTC.NewsML",
+    "typ": "text/vnd.IPTC.NewsML",
+    "cat": "text",
+    "ref": "IPTC"
+  },
+  {
+    "nm": "vnd.IPTC.NITF",
+    "typ": "text/vnd.IPTC.NITF",
+    "cat": "text",
+    "ref": "IPTC"
+  },
+  {
+    "nm": "vnd.iptvforum.1dparityfec-1010",
+    "typ": "video/vnd.iptvforum.1dparityfec-1010",
+    "cat": "video",
+    "ref": "Shuji_Nakamura"
+  },
+  {
+    "nm": "vnd.iptvforum.1dparityfec-2005",
+    "typ": "video/vnd.iptvforum.1dparityfec-2005",
+    "cat": "video",
+    "ref": "Shuji_Nakamura"
+  },
+  {
+    "nm": "vnd.iptvforum.2dparityfec-1010",
+    "typ": "video/vnd.iptvforum.2dparityfec-1010",
+    "cat": "video",
+    "ref": "Shuji_Nakamura"
+  },
+  {
+    "nm": "vnd.iptvforum.2dparityfec-2005",
+    "typ": "video/vnd.iptvforum.2dparityfec-2005",
+    "cat": "video",
+    "ref": "Shuji_Nakamura"
+  },
+  {
+    "nm": "vnd.iptvforum.ttsavc",
+    "typ": "video/vnd.iptvforum.ttsavc",
+    "cat": "video",
+    "ref": "Shuji_Nakamura"
+  },
+  {
+    "nm": "vnd.iptvforum.ttsmpeg2",
+    "typ": "video/vnd.iptvforum.ttsmpeg2",
+    "cat": "video",
+    "ref": "Shuji_Nakamura"
+  },
+  {
+    "nm": "vnd.ipunplugged.rcprofile",
+    "typ": "application/vnd.ipunplugged.rcprofile",
+    "cat": "Applicaton",
+    "ref": "Per_Ersson"
+  },
+  {
+    "nm": "vnd.irepository.package+xml",
+    "typ": "application/vnd.irepository.package+xml",
+    "cat": "Applicaton",
+    "ref": "Martin_Knowles"
+  },
+  {
+    "nm": "vnd.is-xpr",
+    "typ": "application/vnd.is-xpr",
+    "cat": "Applicaton",
+    "ref": "Satish_Navarajan"
+  },
+  {
+    "nm": "vnd.isac.fcs",
+    "typ": "application/vnd.isac.fcs",
+    "cat": "Applicaton",
+    "ref": "Ryan_Brinkman"
+  },
+  {
+    "nm": "vnd.jam",
+    "typ": "application/vnd.jam",
+    "cat": "Applicaton",
+    "ref": "Brijesh_Kumar"
+  },
+  {
+    "nm": "vnd.japannet-directory-service",
+    "typ": "application/vnd.japannet-directory-service",
+    "cat": "Applicaton",
+    "ref": "Kiyofusa_Fujii"
+  },
+  {
+    "nm": "vnd.japannet-jpnstore-wakeup",
+    "typ": "application/vnd.japannet-jpnstore-wakeup",
+    "cat": "Applicaton",
+    "ref": "Jun_Yoshitake"
+  },
+  {
+    "nm": "vnd.japannet-payment-wakeup",
+    "typ": "application/vnd.japannet-payment-wakeup",
+    "cat": "Applicaton",
+    "ref": "Kiyofusa_Fujii"
+  },
+  {
+    "nm": "vnd.japannet-registration",
+    "typ": "application/vnd.japannet-registration",
+    "cat": "Applicaton",
+    "ref": "Jun_Yoshitake"
+  },
+  {
+    "nm": "vnd.japannet-registration-wakeup",
+    "typ": "application/vnd.japannet-registration-wakeup",
+    "cat": "Applicaton",
+    "ref": "Kiyofusa_Fujii"
+  },
+  {
+    "nm": "vnd.japannet-setstore-wakeup",
+    "typ": "application/vnd.japannet-setstore-wakeup",
+    "cat": "Applicaton",
+    "ref": "Jun_Yoshitake"
+  },
+  {
+    "nm": "vnd.japannet-verification",
+    "typ": "application/vnd.japannet-verification",
+    "cat": "Applicaton",
+    "ref": "Jun_Yoshitake"
+  },
+  {
+    "nm": "vnd.japannet-verification-wakeup",
+    "typ": "application/vnd.japannet-verification-wakeup",
+    "cat": "Applicaton",
+    "ref": "Kiyofusa_Fujii"
+  },
+  {
+    "nm": "vnd.jcp.javame.midlet-rms",
+    "typ": "application/vnd.jcp.javame.midlet-rms",
+    "cat": "Applicaton",
+    "ref": "Mikhail_Gorshenev"
+  },
+  {
+    "nm": "vnd.jisp",
+    "typ": "application/vnd.jisp",
+    "cat": "Applicaton",
+    "ref": "Sebastiaan_Deckers"
+  },
+  {
+    "nm": "vnd.joost.joda-archive",
+    "typ": "application/vnd.joost.joda-archive",
+    "cat": "Applicaton",
+    "ref": "Joost"
+  },
+  {
+    "nm": "vnd.jsk.isdn-ngn",
+    "typ": "application/vnd.jsk.isdn-ngn",
+    "cat": "Applicaton",
+    "ref": "Yokoyama_Kiyonobu"
+  },
+  {
+    "nm": "vnd.kahootz",
+    "typ": "application/vnd.kahootz",
+    "cat": "Applicaton",
+    "ref": "Tim_Macdonald"
+  },
+  {
+    "nm": "vnd.kde.karbon",
+    "typ": "application/vnd.kde.karbon",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kchart",
+    "typ": "application/vnd.kde.kchart",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kformula",
+    "typ": "application/vnd.kde.kformula",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kivio",
+    "typ": "application/vnd.kde.kivio",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kontour",
+    "typ": "application/vnd.kde.kontour",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kpresenter",
+    "typ": "application/vnd.kde.kpresenter",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kspread",
+    "typ": "application/vnd.kde.kspread",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kde.kword",
+    "typ": "application/vnd.kde.kword",
+    "cat": "Applicaton",
+    "ref": "David_Faure"
+  },
+  {
+    "nm": "vnd.kenameaapp",
+    "typ": "application/vnd.kenameaapp",
+    "cat": "Applicaton",
+    "ref": "Dirk_DiGiorgio-Haag"
+  },
+  {
+    "nm": "vnd.kidspiration",
+    "typ": "application/vnd.kidspiration",
+    "cat": "Applicaton",
+    "ref": "Jack_Bennett"
+  },
+  {
+    "nm": "vnd.Kinar",
+    "typ": "application/vnd.Kinar",
+    "cat": "Applicaton",
+    "ref": "Hemant_Thakkar"
+  },
+  {
+    "nm": "vnd.koan",
+    "typ": "application/vnd.koan",
+    "cat": "Applicaton",
+    "ref": "Pete_Cole"
+  },
+  {
+    "nm": "vnd.kodak-descriptor",
+    "typ": "application/vnd.kodak-descriptor",
+    "cat": "Applicaton",
+    "ref": "Michael_J._Donahue"
+  },
+  {
+    "nm": "vnd.las.las+xml",
+    "typ": "application/vnd.las.las+xml",
+    "cat": "Applicaton",
+    "ref": "Rob_Bailey"
+  },
+  {
+    "nm": "vnd.latex-z",
+    "typ": "text/vnd.latex-z",
+    "cat": "text",
+    "ref": "Mikusiak_Lubos"
+  },
+  {
+    "nm": "vnd.liberty-request+xml",
+    "typ": "application/vnd.liberty-request+xml",
+    "cat": "Applicaton",
+    "ref": "Brett_McDowell"
+  },
+  {
+    "nm": "vnd.llamagraphics.life-balance.desktop",
+    "typ": "application/vnd.llamagraphics.life-balance.desktop",
+    "cat": "Applicaton",
+    "ref": "Catherine_E._White"
+  },
+  {
+    "nm": "vnd.llamagraphics.life-balance.exchange+xml",
+    "typ": "application/vnd.llamagraphics.life-balance.exchange+xml",
+    "cat": "Applicaton",
+    "ref": "Catherine_E._White"
+  },
+  {
+    "nm": "vnd.lotus-1-2-3",
+    "typ": "application/vnd.lotus-1-2-3",
+    "cat": "Applicaton",
+    "ref": "Paul_Wattenberger"
+  },
+  {
+    "nm": "vnd.lotus-approach",
+    "typ": "application/vnd.lotus-approach",
+    "cat": "Applicaton",
+    "ref": "Paul_Wattenberger"
+  },
+  {
+    "nm": "vnd.lotus-freelance",
+    "typ": "application/vnd.lotus-freelance",
+    "cat": "Applicaton",
+    "ref": "Paul_Wattenberger"
+  },
+  {
+    "nm": "vnd.lotus-notes",
+    "typ": "application/vnd.lotus-notes",
+    "cat": "Applicaton",
+    "ref": "Michael_Laramie"
+  },
+  {
+    "nm": "vnd.lotus-organizer",
+    "typ": "application/vnd.lotus-organizer",
+    "cat": "Applicaton",
+    "ref": "Paul_Wattenberger"
+  },
+  {
+    "nm": "vnd.lotus-screencam",
+    "typ": "application/vnd.lotus-screencam",
+    "cat": "Applicaton",
+    "ref": "Paul_Wattenberger"
+  },
+  {
+    "nm": "vnd.lotus-wordpro",
+    "typ": "application/vnd.lotus-wordpro",
+    "cat": "Applicaton",
+    "ref": "Paul_Wattenberger"
+  },
+  {
+    "nm": "vnd.lucent.voice",
+    "typ": "audio/vnd.lucent.voice",
+    "cat": "audio",
+    "ref": "Greg_Vaudreuil"
+  },
+  {
+    "nm": "vnd.macports.portpkg",
+    "typ": "application/vnd.macports.portpkg",
+    "cat": "Applicaton",
+    "ref": "James_Berry"
+  },
+  {
+    "nm": "vnd.marlin.drm.actiontoken+xml",
+    "typ": "application/vnd.marlin.drm.actiontoken+xml",
+    "cat": "Applicaton",
+    "ref": "Gary_Ellison"
+  },
+  {
+    "nm": "vnd.marlin.drm.conftoken+xml",
+    "typ": "application/vnd.marlin.drm.conftoken+xml",
+    "cat": "Applicaton",
+    "ref": "Gary_Ellison"
+  },
+  {
+    "nm": "vnd.marlin.drm.license+xml",
+    "typ": "application/vnd.marlin.drm.license+xml",
+    "cat": "Applicaton",
+    "ref": "Gary_Ellison"
+  },
+  {
+    "nm": "vnd.marlin.drm.mdcf",
+    "typ": "application/vnd.marlin.drm.mdcf",
+    "cat": "Applicaton",
+    "ref": "Gary_Ellison"
+  },
+  {
+    "nm": "vnd.mcd",
+    "typ": "application/vnd.mcd",
+    "cat": "Applicaton",
+    "ref": "Tadashi_Gotoh"
+  },
+  {
+    "nm": "vnd.medcalcdata",
+    "typ": "application/vnd.medcalcdata",
+    "cat": "Applicaton",
+    "ref": "Frank_Schoonjans"
+  },
+  {
+    "nm": "vnd.mediastation.cdkey",
+    "typ": "application/vnd.mediastation.cdkey",
+    "cat": "Applicaton",
+    "ref": "Henry_Flurry"
+  },
+  {
+    "nm": "vnd.meridian-slingshot",
+    "typ": "application/vnd.meridian-slingshot",
+    "cat": "Applicaton",
+    "ref": "Eric_Wedel"
+  },
+  {
+    "nm": "vnd.MFER",
+    "typ": "application/vnd.MFER",
+    "cat": "Applicaton",
+    "ref": "Masaaki_Hirai"
+  },
+  {
+    "nm": "vnd.mfmp",
+    "typ": "application/vnd.mfmp",
+    "cat": "Applicaton",
+    "ref": "Yukari_Ikeda"
+  },
+  {
+    "nm": "vnd.micrografx.flo",
+    "typ": "application/vnd.micrografx.flo",
+    "cat": "Applicaton",
+    "ref": "Joe_Prevo"
+  },
+  {
+    "nm": "vnd.micrografx.igx",
+    "typ": "application/vnd.micrografx-igx",
+    "cat": "Applicaton",
+    "ref": "Joe_Prevo"
+  },
+  {
+    "nm": "vnd.microsoft.icon",
+    "typ": "image/vnd.microsoft.icon",
+    "cat": "image",
+    "ref": "Simon_Butcher"
+  },
+  {
+    "nm": "vnd.mif",
+    "typ": "application/vnd-mif",
+    "cat": "Applicaton",
+    "ref": "Mike_Wexler"
+  },
+  {
+    "nm": "vnd.minisoft-hp3000-save",
+    "typ": "application/vnd.minisoft-hp3000-save",
+    "cat": "Applicaton",
+    "ref": "Chris_Bartram"
+  },
+  {
+    "nm": "vnd.mitsubishi.misty-guard.trustweb",
+    "typ": "application/vnd.mitsubishi.misty-guard.trustweb",
+    "cat": "Applicaton",
+    "ref": "Tanaka"
+  },
+  {
+    "nm": "vnd.mix",
+    "typ": "image/vnd.mix",
+    "cat": "image",
+    "ref": "Saveen_Reddy"
+  },
+  {
+    "nm": "vnd.Mobius.DAF",
+    "typ": "application/vnd.Mobius.DAF",
+    "cat": "Applicaton",
+    "ref": "Allen_K._Kabayama"
+  },
+  {
+    "nm": "vnd.Mobius.DIS",
+    "typ": "application/vnd.Mobius.DIS",
+    "cat": "Applicaton",
+    "ref": "Allen_K._Kabayama"
+  },
+  {
+    "nm": "vnd.Mobius.MBK",
+    "typ": "application/vnd.Mobius.MBK",
+    "cat": "Applicaton",
+    "ref": "Alex_Devasia"
+  },
+  {
+    "nm": "vnd.Mobius.MQY",
+    "typ": "application/vnd.Mobius.MQY",
+    "cat": "Applicaton",
+    "ref": "Alex_Devasia"
+  },
+  {
+    "nm": "vnd.Mobius.MSL",
+    "typ": "application/vnd.Mobius.MSL",
+    "cat": "Applicaton",
+    "ref": "Allen_K._Kabayama"
+  },
+  {
+    "nm": "vnd.Mobius.PLC",
+    "typ": "application/vnd.Mobius.PLC",
+    "cat": "Applicaton",
+    "ref": "Allen_K._Kabayama"
+  },
+  {
+    "nm": "vnd.Mobius.TXF",
+    "typ": "application/vnd.Mobius.TXF",
+    "cat": "Applicaton",
+    "ref": "Allen_K._Kabayama"
+  },
+  {
+    "nm": "vnd.moml+xml",
+    "typ": "model/vnd.moml+xml",
+    "cat": "model",
+    "ref": "Christopher_Brooks"
+  },
+  {
+    "nm": "vnd.mophun.application",
+    "typ": "application/vnd.mophun.application",
+    "cat": "Applicaton",
+    "ref": "Bjorn_Wennerstrom"
+  },
+  {
+    "nm": "vnd.mophun.certificate",
+    "typ": "application/vnd.mophun.certificate",
+    "cat": "Applicaton",
+    "ref": "Bjorn_Wennerstrom"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite",
+    "typ": "application/vnd.motorola.flexsuite",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite.adsi",
+    "typ": "application/vnd.motorola.flexsuite.adsi",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite.fis",
+    "typ": "application/vnd.motorola.flexsuite.fis",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite.gotap",
+    "typ": "application/vnd.motorola.flexsuite.gotap",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite.kmr",
+    "typ": "application/vnd.motorola.flexsuite.kmr",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite.ttc",
+    "typ": "application/vnd.motorola.flexsuite.ttc",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.flexsuite.wem",
+    "typ": "application/vnd.motorola.flexsuite.wem",
+    "cat": "Applicaton",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.iprm",
+    "typ": "application/vnd.motorola.iprm",
+    "cat": "Applicaton",
+    "ref": "Rafie_Shamsaasef"
+  },
+  {
+    "nm": "vnd.motorola.reflex",
+    "typ": "text/vnd.motorola.reflex",
+    "cat": "text",
+    "ref": "Mark_Patton"
+  },
+  {
+    "nm": "vnd.motorola.video",
+    "typ": "video/vnd.motorola.video",
+    "cat": "video",
+    "ref": "Tom_McGinty"
+  },
+  {
+    "nm": "vnd.motorola.videop",
+    "typ": "video/vnd.motorola.videop",
+    "cat": "video",
+    "ref": "Tom_McGinty"
+  },
+  {
+    "nm": "vnd.mozilla.xul+xml",
+    "typ": "application/vnd.mozilla.xul+xml",
+    "cat": "Applicaton",
+    "ref": "Braden_N_McDaniel"
+  },
+  {
+    "nm": "vnd.mpegurl",
+    "typ": "video/vnd-mpegurl",
+    "cat": "video",
+    "ref": "Heiko_Recktenwald"
+  },
+  {
+    "nm": "vnd.ms-artgalry",
+    "typ": "application/vnd.ms-artgalry",
+    "cat": "Applicaton",
+    "ref": "Dean_Slawson"
+  },
+  {
+    "nm": "vnd.ms-asf",
+    "typ": "application/vnd.ms-asf",
+    "cat": "Applicaton",
+    "ref": "Eric_Fleischman"
+  },
+  {
+    "nm": "vnd.ms-cab-compressed",
+    "typ": "application/vnd.ms-cab-compressed",
+    "cat": "Applicaton",
+    "ref": "Kim_Scarborough"
+  },
+  {
+    "nm": "vnd.ms-excel",
+    "typ": "application/vnd.ms-excel",
+    "cat": "Applicaton",
+    "ref": "Sukvinder_S._Gill"
+  },
+  {
+    "nm": "vnd.ms-excel.addin.macroEnabled.12",
+    "typ": "application/vnd.ms-excel.addin.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-excel.sheet.binary.macroEnabled.12",
+    "typ": "application/vnd.ms-excel.sheet.binary.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-excel.sheet.macroEnabled.12",
+    "typ": "application/vnd.ms-excel.sheet.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-excel.template.macroEnabled.12",
+    "typ": "application/vnd.ms-excel.template.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-fontobject",
+    "typ": "application/vnd.ms-fontobject",
+    "cat": "Applicaton",
+    "ref": "Kim_Scarborough"
+  },
+  {
+    "nm": "vnd.ms-htmlhelp",
+    "typ": "application/vnd.ms-htmlhelp",
+    "cat": "Applicaton",
+    "ref": "Anatoly_Techtonik"
+  },
+  {
+    "nm": "vnd.ms-ims",
+    "typ": "application/vnd.ms-ims",
+    "cat": "Applicaton",
+    "ref": "Eric_Ledoux"
+  },
+  {
+    "nm": "vnd.ms-lrm",
+    "typ": "application/vnd.ms-lrm",
+    "cat": "Applicaton",
+    "ref": "Eric_Ledoux"
+  },
+  {
+    "nm": "vnd.ms-mediapackage",
+    "typ": "text/vnd.ms-mediapackage",
+    "cat": "text",
+    "ref": "Jan_Nelson"
+  },
+  {
+    "nm": "vnd.ms-modi",
+    "typ": "image/vnd.ms-modi",
+    "cat": "image",
+    "ref": "Gregory_Vaughan"
+  },
+  {
+    "nm": "vnd.ms-office.activeX+xml",
+    "typ": "application/vnd.ms-office.activeX+xml",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-officetheme",
+    "typ": "application/vnd.ms-officetheme",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-playready.initiator+xml",
+    "typ": "application/vnd.ms-playready.initiator+xml",
+    "cat": "Applicaton",
+    "ref": "Daniel_Schneider"
+  },
+  {
+    "nm": "vnd.ms-playready.media.pya",
+    "typ": "audio/vnd.ms-playready.media.pya",
+    "cat": "audio",
+    "ref": "Steve_DiAcetis"
+  },
+  {
+    "nm": "vnd.ms-playready.media.pyv",
+    "typ": "video/vnd.ms-playready.media.pyv",
+    "cat": "video",
+    "ref": "Steve_DiAcetis"
+  },
+  {
+    "nm": "vnd.ms-powerpoint",
+    "typ": "application/vnd.ms-powerpoint",
+    "cat": "Applicaton",
+    "ref": "Sukvinder_S._Gill"
+  },
+  {
+    "nm": "vnd.ms-powerpoint.addin.macroEnabled.12",
+    "typ": "application/vnd.ms-powerpoint.addin.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-powerpoint.presentation.macroEnabled.12",
+    "typ": "application/vnd.ms-powerpoint.presentation.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-powerpoint.slide.macroEnabled.12",
+    "typ": "application/vnd.ms-powerpoint.slide.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-powerpoint.slideshow.macroEnabled.12",
+    "typ": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-powerpoint.template.macroEnabled.12",
+    "typ": "application/vnd.ms-powerpoint.template.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-project",
+    "typ": "application/vnd.ms-project",
+    "cat": "Applicaton",
+    "ref": "Sukvinder_S._Gill"
+  },
+  {
+    "nm": "vnd.ms-tnef",
+    "typ": "application/vnd.ms-tnef",
+    "cat": "Applicaton",
+    "ref": "Sukvinder_S._Gill"
+  },
+  {
+    "nm": "vnd.ms-windows.printerpairing",
+    "typ": "application/vnd.ms-windows.printerpairing",
+    "cat": "Applicaton",
+    "ref": "Justin_Hutchings"
+  },
+  {
+    "nm": "vnd.ms-wmdrm.lic-chlg-req",
+    "typ": "application/vnd.ms-wmdrm.lic-chlg-req",
+    "cat": "Applicaton",
+    "ref": "Kevin_Lau"
+  },
+  {
+    "nm": "vnd.ms-wmdrm.lic-resp",
+    "typ": "application/vnd.ms-wmdrm.lic-resp",
+    "cat": "Applicaton",
+    "ref": "Kevin_Lau"
+  },
+  {
+    "nm": "vnd.ms-wmdrm.meter-chlg-req",
+    "typ": "application/vnd.ms-wmdrm.meter-chlg-req",
+    "cat": "Applicaton",
+    "ref": "Kevin_Lau"
+  },
+  {
+    "nm": "vnd.ms-wmdrm.meter-resp",
+    "typ": "application/vnd.ms-wmdrm.meter-resp",
+    "cat": "Applicaton",
+    "ref": "Kevin_Lau"
+  },
+  {
+    "nm": "vnd.ms-word.document.macroEnabled.12",
+    "typ": "application/vnd.ms-word.document.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-word.template.macroEnabled.12",
+    "typ": "application/vnd.ms-word.template.macroEnabled.12",
+    "cat": "Applicaton",
+    "ref": "Chris_Rae"
+  },
+  {
+    "nm": "vnd.ms-works",
+    "typ": "application/vnd.ms-works",
+    "cat": "Applicaton",
+    "ref": "Sukvinder_S._Gill"
+  },
+  {
+    "nm": "vnd.ms-wpl",
+    "typ": "application/vnd.ms-wpl",
+    "cat": "Applicaton",
+    "ref": "Dan_Plastina"
+  },
+  {
+    "nm": "vnd.ms-xpsdocument",
+    "typ": "application/vnd.ms-xpsdocument",
+    "cat": "Applicaton",
+    "ref": "Jesse_McGatha"
+  },
+  {
+    "nm": "vnd.mseq",
+    "typ": "application/vnd.mseq",
+    "cat": "Applicaton",
+    "ref": "Gwenael_Le_Bodic"
+  },
+  {
+    "nm": "vnd.msign",
+    "typ": "application/vnd.msign",
+    "cat": "Applicaton",
+    "ref": "Malte_Borcherding"
+  },
+  {
+    "nm": "vnd.mts",
+    "typ": "model/vnd.mts",
+    "cat": "model",
+    "ref": "Boris_Rabinovitch"
+  },
+  {
+    "nm": "vnd.multiad.creator",
+    "typ": "application/vnd.multiad.creator",
+    "cat": "Applicaton",
+    "ref": "Steve_Mills"
+  },
+  {
+    "nm": "vnd.multiad.creator.cif",
+    "typ": "application/vnd.multiad.creator.cif",
+    "cat": "Applicaton",
+    "ref": "Steve_Mills"
+  },
+  {
+    "nm": "vnd.music-niff",
+    "typ": "application/vnd.music-niff",
+    "cat": "Applicaton",
+    "ref": "Tim_Butler"
+  },
+  {
+    "nm": "vnd.musician",
+    "typ": "application/vnd.musician",
+    "cat": "Applicaton",
+    "ref": "Greg_Adams"
+  },
+  {
+    "nm": "vnd.muvee.style",
+    "typ": "application/vnd.muvee.style",
+    "cat": "Applicaton",
+    "ref": "Chandrashekhara_Anantharamu"
+  },
+  {
+    "nm": "vnd.mynfc",
+    "typ": "application/vnd.mynfc",
+    "cat": "Applicaton",
+    "ref": "Franck_Lefevre"
+  },
+  {
+    "nm": "vnd.ncd.control",
+    "typ": "application/vnd.ncd.control",
+    "cat": "Applicaton",
+    "ref": "Lauri_Tarkkala"
+  },
+  {
+    "nm": "vnd.ncd.reference",
+    "typ": "application/vnd.ncd.reference",
+    "cat": "Applicaton",
+    "ref": "Lauri_Tarkkala"
+  },
+  {
+    "nm": "vnd.nervana",
+    "typ": "application/vnd.nervana",
+    "cat": "Applicaton",
+    "ref": "Steve_Judkins"
+  },
+  {
+    "nm": "vnd.net-fpx",
+    "typ": "image/vnd.net-fpx",
+    "cat": "image",
+    "ref": "Marc_Douglas_Spencer"
+  },
+  {
+    "nm": "vnd.net2phone.commcenter.command",
+    "typ": "text/vnd.net2phone.commcenter.command",
+    "cat": "text",
+    "ref": "Feiyu_Xie"
+  },
+  {
+    "nm": "vnd.netfpx",
+    "typ": "application/vnd.netfpx",
+    "cat": "Applicaton",
+    "ref": "Andy_Mutz"
+  },
+  {
+    "nm": "vnd.neurolanguage.nlu",
+    "typ": "application/vnd.neurolanguage.nlu",
+    "cat": "Applicaton",
+    "ref": "Dan_DuFeu"
+  },
+  {
+    "nm": "vnd.nintendo.nitro.rom",
+    "typ": "application/vnd.nintendo.nitro.rom",
+    "cat": "Applicaton",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.nintendo.snes.rom",
+    "typ": "application/vnd.nintendo.snes.rom",
+    "cat": "Applicaton",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.nitf",
+    "typ": "application/vnd.nitf",
+    "cat": "Applicaton",
+    "ref": "Steve_Rogan"
+  },
+  {
+    "nm": "vnd.noblenet-directory",
+    "typ": "application/vnd.noblenet-directory",
+    "cat": "Applicaton",
+    "ref": "Monty_Solomon"
+  },
+  {
+    "nm": "vnd.noblenet-sealer",
+    "typ": "application/vnd.noblenet-sealer",
+    "cat": "Applicaton",
+    "ref": "Monty_Solomon"
+  },
+  {
+    "nm": "vnd.noblenet-web",
+    "typ": "application/vnd.noblenet-web",
+    "cat": "Applicaton",
+    "ref": "Monty_Solomon"
+  },
+  {
+    "nm": "vnd.nokia.catalogs",
+    "typ": "application/vnd.nokia.catalogs",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.conml+wbxml",
+    "typ": "application/vnd.nokia.conml+wbxml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.conml+xml",
+    "typ": "application/vnd.nokia.conml+xml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.interleaved-multimedia",
+    "typ": "video/vnd.nokia.interleaved-multimedia",
+    "cat": "video",
+    "ref": "Petteri_Kangaslampi"
+  },
+  {
+    "nm": "vnd.nokia.iptv.config+xml",
+    "typ": "application/vnd.nokia.iptv.config+xml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.iSDS-radio-presets",
+    "typ": "application/vnd.nokia.iSDS-radio-presets",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.landmark+wbxml",
+    "typ": "application/vnd.nokia.landmark+wbxml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.landmark+xml",
+    "typ": "application/vnd.nokia.landmark+xml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.landmarkcollection+xml",
+    "typ": "application/vnd.nokia.landmarkcollection+xml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.mobile-xmf",
+    "typ": "audio/vnd.nokia.mobile-xmf",
+    "cat": "audio",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.n-gage.ac+xml",
+    "typ": "application/vnd.nokia.n-gage.ac+xml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.n-gage.data",
+    "typ": "application/vnd.nokia.n-gage.data",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.n-gage.symbian.install",
+    "typ": "application/vnd.nokia.n-gage.symbian.install",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.ncd",
+    "typ": "application/vnd.nokia.ncd",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.pcd+wbxml",
+    "typ": "application/vnd.nokia.pcd+wbxml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.pcd+xml",
+    "typ": "application/vnd.nokia.pcd+xml",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.radio-preset",
+    "typ": "application/vnd.nokia.radio-preset",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.radio-presets",
+    "typ": "application/vnd.nokia.radio-presets",
+    "cat": "Applicaton",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nokia.videovoip",
+    "typ": "video/vnd.nokia.videovoip",
+    "cat": "video",
+    "ref": "Nokia"
+  },
+  {
+    "nm": "vnd.nortel.vbk",
+    "typ": "audio/vnd.nortel.vbk",
+    "cat": "audio",
+    "ref": "Glenn_Parsons"
+  },
+  {
+    "nm": "vnd.novadigm.EDM",
+    "typ": "application/vnd.novadigm.EDM",
+    "cat": "Applicaton",
+    "ref": "Janine_Swenson"
+  },
+  {
+    "nm": "vnd.novadigm.EDX",
+    "typ": "application/vnd.novadigm.EDX",
+    "cat": "Applicaton",
+    "ref": "Janine_Swenson"
+  },
+  {
+    "nm": "vnd.novadigm.EXT",
+    "typ": "application/vnd.novadigm.EXT",
+    "cat": "Applicaton",
+    "ref": "Janine_Swenson"
+  },
+  {
+    "nm": "vnd.ntt-local.content-share",
+    "typ": "application/vnd.ntt-local.content-share",
+    "cat": "Applicaton",
+    "ref": "Akinori_Taya"
+  },
+  {
+    "nm": "vnd.ntt-local.file-transfer",
+    "typ": "application/vnd.ntt-local.file-transfer",
+    "cat": "Applicaton",
+    "ref": "NTT-local"
+  },
+  {
+    "nm": "vnd.ntt-local.sip-ta_remote",
+    "typ": "application/vnd.ntt-local.sip-ta_remote",
+    "cat": "Applicaton",
+    "ref": "NTT-local"
+  },
+  {
+    "nm": "vnd.ntt-local.sip-ta_tcp_stream",
+    "typ": "application/vnd.ntt-local.sip-ta_tcp_stream",
+    "cat": "Applicaton",
+    "ref": "NTT-local"
+  },
+  {
+    "nm": "vnd.nuera.ecelp4800",
+    "typ": "audio/vnd.nuera.ecelp4800",
+    "cat": "audio",
+    "ref": "Michael_Fox"
+  },
+  {
+    "nm": "vnd.nuera.ecelp7470",
+    "typ": "audio/vnd.nuera.ecelp7470",
+    "cat": "audio",
+    "ref": "Michael_Fox"
+  },
+  {
+    "nm": "vnd.nuera.ecelp9600",
+    "typ": "audio/vnd.nuera.ecelp9600",
+    "cat": "audio",
+    "ref": "Michael_Fox"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.chart",
+    "typ": "application/vnd.oasis.opendocument.chart",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.chart-template",
+    "typ": "application/vnd.oasis.opendocument.chart-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.database",
+    "typ": "application/vnd.oasis.opendocument.database",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.formula",
+    "typ": "application/vnd.oasis.opendocument.formula",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.formula-template",
+    "typ": "application/vnd.oasis.opendocument.formula-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.graphics",
+    "typ": "application/vnd.oasis.opendocument.graphics",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.graphics-template",
+    "typ": "application/vnd.oasis.opendocument.graphics-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.image",
+    "typ": "application/vnd.oasis.opendocument.image",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.image-template",
+    "typ": "application/vnd.oasis.opendocument.image-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.presentation",
+    "typ": "application/vnd.oasis.opendocument.presentation",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.presentation-template",
+    "typ": "application/vnd.oasis.opendocument.presentation-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.spreadsheet",
+    "typ": "application/vnd.oasis.opendocument.spreadsheet",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.spreadsheet-template",
+    "typ": "application/vnd.oasis.opendocument.spreadsheet-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.text",
+    "typ": "application/vnd.oasis.opendocument.text",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.text-master",
+    "typ": "application/vnd.oasis.opendocument.text-master",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.text-template",
+    "typ": "application/vnd.oasis.opendocument.text-template",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.oasis.opendocument.text-web",
+    "typ": "application/vnd.oasis.opendocument.text-web",
+    "cat": "Applicaton",
+    "ref": "Svante_SchubertOASIS"
+  },
+  {
+    "nm": "vnd.objectvideo",
+    "typ": "video/vnd.objectvideo",
+    "cat": "video",
+    "ref": "John_Clark"
+  },
+  {
+    "nm": "vnd.obn",
+    "typ": "application/vnd.obn",
+    "cat": "Applicaton",
+    "ref": "Matthias_Hessling"
+  },
+  {
+    "nm": "vnd.octel.sbc",
+    "typ": "audio/vnd.octel.sbc",
+    "cat": "audio",
+    "ref": "Greg_Vaudreuil"
+  },
+  {
+    "nm": "vnd.oftn.l10n+json",
+    "typ": "application/vnd.oftn.l10n+json",
+    "cat": "Applicaton",
+    "ref": "Eli_Grey"
+  },
+  {
+    "nm": "vnd.oipf.contentaccessdownload+xml",
+    "typ": "application/vnd.oipf.contentaccessdownload+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.contentaccessstreaming+xml",
+    "typ": "application/vnd.oipf.contentaccessstreaming+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.cspg-hexbinary",
+    "typ": "application/vnd.oipf.cspg-hexbinary",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.dae.svg+xml",
+    "typ": "application/vnd.oipf.dae.svg+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.dae.xhtml+xml",
+    "typ": "application/vnd.oipf.dae.xhtml+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.mippvcontrolmessage+xml",
+    "typ": "application/vnd.oipf.mippvcontrolmessage+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.pae.gem",
+    "typ": "application/vnd.oipf.pae.gem",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.spdiscovery+xml",
+    "typ": "application/vnd.oipf.spdiscovery+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.spdlist+xml",
+    "typ": "application/vnd.oipf.spdlist+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.ueprofile+xml",
+    "typ": "application/vnd.oipf.ueprofile+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.oipf.userprofile+xml",
+    "typ": "application/vnd.oipf.userprofile+xml",
+    "cat": "Applicaton",
+    "ref": "Claire_DEsclercs"
+  },
+  {
+    "nm": "vnd.olpc-sugar",
+    "typ": "application/vnd.olpc-sugar",
+    "cat": "Applicaton",
+    "ref": "John_Palmieri"
+  },
+  {
+    "nm": "vnd.oma-scws-config",
+    "typ": "application/vnd.oma-scws-config",
+    "cat": "Applicaton",
+    "ref": "Ilan_Mahalal"
+  },
+  {
+    "nm": "vnd.oma-scws-http-request",
+    "typ": "application/vnd.oma-scws-http-request",
+    "cat": "Applicaton",
+    "ref": "Ilan_Mahalal"
+  },
+  {
+    "nm": "vnd.oma-scws-http-response",
+    "typ": "application/vnd.oma-scws-http-response",
+    "cat": "Applicaton",
+    "ref": "Ilan_Mahalal"
+  },
+  {
+    "nm": "vnd.oma.bcast.associated-procedure-parameter+xml",
+    "typ": "application/vnd.oma.bcast.associated-procedure-parameter+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.drm-trigger+xml",
+    "typ": "application/vnd.oma.bcast.drm-trigger+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.imd+xml",
+    "typ": "application/vnd.oma.bcast.imd+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.ltkm",
+    "typ": "application/vnd.oma.bcast.ltkm",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.notification+xml",
+    "typ": "application/vnd.oma.bcast.notification+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.provisioningtrigger",
+    "typ": "application/vnd.oma.bcast.provisioningtrigger",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.sgboot",
+    "typ": "application/vnd.oma.bcast.sgboot",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.sgdd+xml",
+    "typ": "application/vnd.oma.bcast.sgdd+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.sgdu",
+    "typ": "application/vnd.oma.bcast.sgdu",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.simple-symbol-container",
+    "typ": "application/vnd.oma.bcast.simple-symbol-container",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.smartcard-trigger+xml",
+    "typ": "application/vnd.oma.bcast.smartcard-trigger+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.sprov+xml",
+    "typ": "application/vnd.oma.bcast.sprov+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.bcast.stkm",
+    "typ": "application/vnd.oma.bcast.stkm",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.cab-address-book+xml",
+    "typ": "application/vnd.oma.cab-address-book+xml",
+    "cat": "Applicaton",
+    "ref": "Hao_WangOMA"
+  },
+  {
+    "nm": "vnd.oma.cab-feature-handler+xml",
+    "typ": "application/vnd.oma.cab-feature-handler+xml",
+    "cat": "Applicaton",
+    "ref": "Hao_WangOMA"
+  },
+  {
+    "nm": "vnd.oma.cab-pcc+xml",
+    "typ": "application/vnd.oma.cab-pcc+xml",
+    "cat": "Applicaton",
+    "ref": "Hao_WangOMA"
+  },
+  {
+    "nm": "vnd.oma.cab-subs-invite+xml",
+    "typ": "application/vnd.oma.cab-subs-invite+xml",
+    "cat": "Applicaton",
+    "ref": "Hao_WangOMA"
+  },
+  {
+    "nm": "vnd.oma.cab-user-prefs+xml",
+    "typ": "application/vnd.oma.cab-user-prefs+xml",
+    "cat": "Applicaton",
+    "ref": "Hao_WangOMA"
+  },
+  {
+    "nm": "vnd.oma.dcd",
+    "typ": "application/vnd.oma.dcd",
+    "cat": "Applicaton",
+    "ref": "Avi_PrimoOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.dcdc",
+    "typ": "application/vnd.oma.dcdc",
+    "cat": "Applicaton",
+    "ref": "Avi_PrimoOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.dd2+xml",
+    "typ": "application/vnd.oma.dd2+xml",
+    "cat": "Applicaton",
+    "ref": "Jun_SatoOpen_Mobile_Alliance_BAC_DLDRM_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.drm.risd+xml",
+    "typ": "application/vnd.oma.drm.risd+xml",
+    "cat": "Applicaton",
+    "ref": "Uwe_RauschenbachOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.group-usage-list+xml",
+    "typ": "application/vnd.oma.group-usage-list+xml",
+    "cat": "Applicaton",
+    "ref": "Sean_KelleyOMA_Presence_and_Availability_PAG_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.pal+xml",
+    "typ": "application/vnd.oma.pal+xml",
+    "cat": "Applicaton",
+    "ref": "Brian_McColganOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.poc.detailed-progress-report+xml",
+    "typ": "application/vnd.oma.poc.detailed-progress-report+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Push_to_Talk_over_Cellular_POC_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.poc.final-report+xml",
+    "typ": "application/vnd.oma.poc.final-report+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Push_to_Talk_over_Cellular_POC_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.poc.groups+xml",
+    "typ": "application/vnd.oma.poc.groups+xml",
+    "cat": "Applicaton",
+    "ref": "Sean_KelleyOMA_Push_to_Talk_over_Cellular_POC_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.poc.invocation-descriptor+xml",
+    "typ": "application/vnd.oma.poc.invocation-descriptor+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Push_to_Talk_over_Cellular_POC_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.poc.optimized-progress-report+xml",
+    "typ": "application/vnd.oma.poc.optimized-progress-report+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Push_to_Talk_over_Cellular_POC_Working_Group"
+  },
+  {
+    "nm": "vnd.oma.push",
+    "typ": "application/vnd.oma.push",
+    "cat": "Applicaton",
+    "ref": "Bryan_SullivanOMA"
+  },
+  {
+    "nm": "vnd.oma.scidm.messages+xml",
+    "typ": "application/vnd.oma.scidm.messages+xml",
+    "cat": "Applicaton",
+    "ref": "Wenjun_ZengOMNA-Open_Mobile_Naming_Authority"
+  },
+  {
+    "nm": "vnd.oma.xcap-directory+xml",
+    "typ": "application/vnd.oma.xcap-directory+xml",
+    "cat": "Applicaton",
+    "ref": "Sean_KelleyOMA_Presence_and_Availability_PAG_Working_Group"
+  },
+  {
+    "nm": "vnd.omads-email+xml",
+    "typ": "application/vnd.omads-email+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Data_Synchronization_Working_Group"
+  },
+  {
+    "nm": "vnd.omads-file+xml",
+    "typ": "application/vnd.omads-file+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Data_Synchronization_Working_Group"
+  },
+  {
+    "nm": "vnd.omads-folder+xml",
+    "typ": "application/vnd.omads-folder+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Data_Synchronization_Working_Group"
+  },
+  {
+    "nm": "vnd.omaloc-supl-init",
+    "typ": "application/vnd.omaloc-supl-init",
+    "cat": "Applicaton",
+    "ref": "Julien_Grange"
+  },
+  {
+    "nm": "vnd.openeye.oeb",
+    "typ": "application/vnd.openeye.oeb",
+    "cat": "Applicaton",
+    "ref": "Craig_Bruce"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.custom-properties+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.custom-properties+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.customXmlProperties+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.customXmlProperties+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawing+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawing+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawingml.chart+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawingml.chart+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawingml.chartshapes+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawingml.diagramColors+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawingml.diagramData+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.extended-properties+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.extended-properties+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.comments+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.comments+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.notesMaster+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.notesMaster+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.notesSlide+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.notesSlide+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.presentation",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.presentation.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.presProps+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.presProps+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slide",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slide",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slide+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slide+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slideLayout+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slideMaster+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slideshow",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.tableStyles+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.tableStyles+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.tags+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.tags+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.template",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml-template",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.template.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.template.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.presentationml.viewProps+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.presentationml.viewProps+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.comments+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.connections+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.styles+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.table+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.template",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml-template",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.theme+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.theme+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.themeOverride+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.themeOverride+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.vmlDrawing",
+    "typ": "application/vnd.openxmlformats-officedocument.vmlDrawing",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.comments+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.footer+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.settings+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.styles+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.template",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml-template",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml",
+    "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-package.core-properties+xml",
+    "typ": "application/vnd.openxmlformats-package.core-properties+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-package.digital-signature-xmlsignature+xml",
+    "typ": "application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.openxmlformats-package.relationships+xml",
+    "typ": "application/vnd.openxmlformats-package.relationships+xml",
+    "cat": "Applicaton",
+    "ref": "Makoto_Murata"
+  },
+  {
+    "nm": "vnd.orange.indata",
+    "typ": "application/vnd.orange.indata",
+    "cat": "Applicaton",
+    "ref": "CHATRAS_Bruno"
+  },
+  {
+    "nm": "vnd.osa.netdeploy",
+    "typ": "application/vnd.osa.netdeploy",
+    "cat": "Applicaton",
+    "ref": "Steven_Klos"
+  },
+  {
+    "nm": "vnd.osgeo.mapguide.package",
+    "typ": "application/vnd.osgeo.mapguide.package",
+    "cat": "Applicaton",
+    "ref": "Jason_Birch"
+  },
+  {
+    "nm": "vnd.osgi.bundle",
+    "typ": "application/vnd.osgi.bundle",
+    "cat": "Applicaton",
+    "ref": "Peter_Kriens"
+  },
+  {
+    "nm": "vnd.osgi.dp",
+    "typ": "application/vnd.osgi.dp",
+    "cat": "Applicaton",
+    "ref": "Peter_Kriens"
+  },
+  {
+    "nm": "vnd.osgi.subsystem",
+    "typ": "application/vnd.osgi.subsystem",
+    "cat": "Applicaton",
+    "ref": "Peter_Kriens"
+  },
+  {
+    "nm": "vnd.otps.ct-kip+xml",
+    "typ": "application/vnd.otps.ct-kip+xml",
+    "cat": "Applicaton",
+    "ref": "Magnus_Nystrom"
+  },
+  {
+    "nm": "vnd.palm",
+    "typ": "application/vnd.palm",
+    "cat": "Applicaton",
+    "ref": "Gavin_Peacock"
+  },
+  {
+    "nm": "vnd.paos.xml",
+    "typ": "application/vnd.paos+xml",
+    "cat": "Applicaton",
+    "ref": "John_Kemp"
+  },
+  {
+    "nm": "vnd.parasolid.transmit.binary",
+    "typ": "model/vnd.parasolid.transmit-binary",
+    "cat": "model",
+    "ref": "Parasolid"
+  },
+  {
+    "nm": "vnd.parasolid.transmit.text",
+    "typ": "model/vnd.parasolid.transmit-text",
+    "cat": "model",
+    "ref": "Parasolid"
+  },
+  {
+    "nm": "vnd.pawaafile",
+    "typ": "application/vnd.pawaafile",
+    "cat": "Applicaton",
+    "ref": "Prakash_Baskaran"
+  },
+  {
+    "nm": "vnd.pcos",
+    "typ": "application/vnd.pcos",
+    "cat": "Applicaton",
+    "ref": "Slawomir_Lisznianski"
+  },
+  {
+    "nm": "vnd.pg.format",
+    "typ": "application/vnd.pg.format",
+    "cat": "Applicaton",
+    "ref": "April_Gandert"
+  },
+  {
+    "nm": "vnd.pg.osasli",
+    "typ": "application/vnd.pg.osasli",
+    "cat": "Applicaton",
+    "ref": "April_Gandert"
+  },
+  {
+    "nm": "vnd.piaccess.application-licence",
+    "typ": "application/vnd.piaccess.application-licence",
+    "cat": "Applicaton",
+    "ref": "Lucas_Maneos"
+  },
+  {
+    "nm": "vnd.picsel",
+    "typ": "application/vnd.picsel",
+    "cat": "Applicaton",
+    "ref": "Giuseppe_Naccarato"
+  },
+  {
+    "nm": "vnd.pmi.widget",
+    "typ": "application/vnd.pmi.widget",
+    "cat": "Applicaton",
+    "ref": "Rhys_Lewis"
+  },
+  {
+    "nm": "vnd.poc.group-advertisement+xml",
+    "typ": "application/vnd.poc.group-advertisement+xml",
+    "cat": "Applicaton",
+    "ref": "Sean_KelleyOMA_Push_to_Talk_over_Cellular_POC_Working_Group"
+  },
+  {
+    "nm": "vnd.pocketlearn",
+    "typ": "application/vnd.pocketlearn",
+    "cat": "Applicaton",
+    "ref": "Jorge_Pando"
+  },
+  {
+    "nm": "vnd.powerbuilder6",
+    "typ": "application/vnd.powerbuilder6",
+    "cat": "Applicaton",
+    "ref": "David_Guy"
+  },
+  {
+    "nm": "vnd.powerbuilder6-s",
+    "typ": "application/vnd.powerbuilder6-s",
+    "cat": "Applicaton",
+    "ref": "David_Guy"
+  },
+  {
+    "nm": "vnd.powerbuilder7",
+    "typ": "application/vnd.powerbuilder7",
+    "cat": "Applicaton",
+    "ref": "Reed_Shilts"
+  },
+  {
+    "nm": "vnd.powerbuilder7-s",
+    "typ": "application/vnd.powerbuilder7-s",
+    "cat": "Applicaton",
+    "ref": "Reed_Shilts"
+  },
+  {
+    "nm": "vnd.powerbuilder75",
+    "typ": "application/vnd.powerbuilder75",
+    "cat": "Applicaton",
+    "ref": "Reed_Shilts"
+  },
+  {
+    "nm": "vnd.powerbuilder75-s",
+    "typ": "application/vnd.powerbuilder75-s",
+    "cat": "Applicaton",
+    "ref": "Reed_Shilts"
+  },
+  {
+    "nm": "vnd.preminet",
+    "typ": "application/vnd.preminet",
+    "cat": "Applicaton",
+    "ref": "Juoko_Tenhunen"
+  },
+  {
+    "nm": "vnd.previewsystems.box",
+    "typ": "application/vnd.previewsystems.box",
+    "cat": "Applicaton",
+    "ref": "Roman_Smolgovsky"
+  },
+  {
+    "nm": "vnd.proteus.magazine",
+    "typ": "application/vnd.proteus.magazine",
+    "cat": "Applicaton",
+    "ref": "Pete_Hoch"
+  },
+  {
+    "nm": "vnd.publishare-delta-tree",
+    "typ": "application/vnd.publishare-delta-tree",
+    "cat": "Applicaton",
+    "ref": "Oren_Ben-Kiki"
+  },
+  {
+    "nm": "vnd.pvi.ptid1",
+    "typ": "application/vnd.pvi.ptid1",
+    "cat": "Applicaton",
+    "ref": "Charles_P._Lamb"
+  },
+  {
+    "nm": "vnd.pwg-multiplexed",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3391"
+  },
+  {
+    "nm": "vnd.pwg-xhtml-print+xml",
+    "typ": "application/vnd.pwg-xhtml-print+xml",
+    "cat": "Applicaton",
+    "ref": "Don_Wright"
+  },
+  {
+    "nm": "vnd.qcelp - DEPRECATED - Please see: audio/qcelp",
+    "typ": "audio/vnd.qcelp",
+    "cat": "audio",
+    "ref": "RFC3625"
+  },
+  {
+    "nm": "vnd.qualcomm.brew-app-res",
+    "typ": "application/vnd.qualcomm.brew-app-res",
+    "cat": "Applicaton",
+    "ref": "Glenn_Forrester"
+  },
+  {
+    "nm": "vnd.Quark.QuarkXPress",
+    "typ": "application/vnd.Quark.QuarkXPress",
+    "cat": "Applicaton",
+    "ref": "Hannes_Scheidler"
+  },
+  {
+    "nm": "vnd.quobject-quoxdocument",
+    "typ": "application/vnd.quobject-quoxdocument",
+    "cat": "Applicaton",
+    "ref": "Matthias_Ludwig"
+  },
+  {
+    "nm": "vnd.radgamettools.bink",
+    "typ": "video/vnd.radgamettools.bink",
+    "cat": "video",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.radgamettools.smacker",
+    "typ": "video/vnd.radgamettools.smacker",
+    "cat": "video",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.radiance",
+    "typ": "image/vnd.radiance",
+    "cat": "image",
+    "ref": "Randolph_FritzGreg_Ward"
+  },
+  {
+    "nm": "vnd.radisys.moml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-audit+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-audit-conf+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-audit-conn+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-audit-dialog+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-audit-stream+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-basic-layout",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-conf+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog-base+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog-fax-detect+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog-fax-sendrecv+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog-group+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog-speech+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.radisys.msml-dialog-transform+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5707"
+  },
+  {
+    "nm": "vnd.rainstor.data",
+    "typ": "application/vnd.rainstor.data",
+    "cat": "Applicaton",
+    "ref": "Kevin_Crook"
+  },
+  {
+    "nm": "vnd.rapid",
+    "typ": "application/vnd.rapid",
+    "cat": "Applicaton",
+    "ref": "Etay_Szekely"
+  },
+  {
+    "nm": "vnd.realvnc.bed",
+    "typ": "application/vnd.realvnc.bed",
+    "cat": "Applicaton",
+    "ref": "Nick_Reeves"
+  },
+  {
+    "nm": "vnd.recordare.musicxml",
+    "typ": "application/vnd.recordare.musicxml",
+    "cat": "Applicaton",
+    "ref": "Michael_Good"
+  },
+  {
+    "nm": "vnd.recordare.musicxml+xml",
+    "typ": "application/vnd.recordare.musicxml+xml",
+    "cat": "Applicaton",
+    "ref": "Michael_Good"
+  },
+  {
+    "nm": "vnd.RenLearn.rlprint",
+    "typ": "application/vnd.renlearn.rlprint",
+    "cat": "Applicaton",
+    "ref": "James_Wick"
+  },
+  {
+    "nm": "vnd.rhetorex.32kadpcm",
+    "typ": "audio/vnd.rhetorex.32kadpcm",
+    "cat": "audio",
+    "ref": "Greg_Vaudreuil"
+  },
+  {
+    "nm": "vnd.rig.cryptonote",
+    "typ": "application/vnd.rig.cryptonote",
+    "cat": "Applicaton",
+    "ref": "Ken_Jibiki"
+  },
+  {
+    "nm": "vnd.rip",
+    "typ": "audio/vnd.rip",
+    "cat": "audio",
+    "ref": "Martin_Dawe"
+  },
+  {
+    "nm": "vnd.route66.link66+xml",
+    "typ": "application/vnd.route66.link66+xml",
+    "cat": "Applicaton",
+    "ref": "Sybren_Kikstra"
+  },
+  {
+    "nm": "vnd.rs-274x",
+    "typ": "application/vnd.rs-274x",
+    "cat": "Applicaton",
+    "ref": "Lee_Harding"
+  },
+  {
+    "nm": "vnd.ruckus.download",
+    "typ": "application/vnd.ruckus.download",
+    "cat": "Applicaton",
+    "ref": "Jerry_Harris"
+  },
+  {
+    "nm": "vnd.s3sms",
+    "typ": "application/vnd.s3sms",
+    "cat": "Applicaton",
+    "ref": "Lauri_Tarkkala"
+  },
+  {
+    "nm": "vnd.sailingtracker.track",
+    "typ": "application/vnd.sailingtracker.track",
+    "cat": "Applicaton",
+    "ref": "Heikki_Vesalainen"
+  },
+  {
+    "nm": "vnd.sbm.cid",
+    "typ": "application/vnd.sbm.cid",
+    "cat": "Applicaton",
+    "ref": "Shinji_Kusakari"
+  },
+  {
+    "nm": "vnd.sbm.mid2",
+    "typ": "application/vnd.sbm.mid2",
+    "cat": "Applicaton",
+    "ref": "Masanori_Murai"
+  },
+  {
+    "nm": "vnd.scribus",
+    "typ": "application/vnd.scribus",
+    "cat": "Applicaton",
+    "ref": "Craig_Bradney"
+  },
+  {
+    "nm": "vnd.sealed.3df",
+    "typ": "application/vnd.sealed.3df",
+    "cat": "Applicaton",
+    "ref": "John_Kwan"
+  },
+  {
+    "nm": "vnd.sealed.csf",
+    "typ": "application/vnd.sealed.csf",
+    "cat": "Applicaton",
+    "ref": "John_Kwan"
+  },
+  {
+    "nm": "vnd.sealed.doc",
+    "typ": "application/vnd.sealed-doc",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.eml",
+    "typ": "application/vnd.sealed-eml",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.mht",
+    "typ": "application/vnd.sealed-mht",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.mpeg1",
+    "typ": "video/vnd.sealed.mpeg1",
+    "cat": "video",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.mpeg4",
+    "typ": "video/vnd.sealed.mpeg4",
+    "cat": "video",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.net",
+    "typ": "application/vnd.sealed.net",
+    "cat": "Applicaton",
+    "ref": "Martin_Lambert"
+  },
+  {
+    "nm": "vnd.sealed.png",
+    "typ": "image/vnd.sealed-png",
+    "cat": "image",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.ppt",
+    "typ": "application/vnd.sealed-ppt",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.swf",
+    "typ": "video/vnd.sealed-swf",
+    "cat": "video",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealed.tiff",
+    "typ": "application/vnd.sealed-tiff",
+    "cat": "Applicaton",
+    "ref": "John_KwanMartin_Lambert"
+  },
+  {
+    "nm": "vnd.sealed.xls",
+    "typ": "application/vnd.sealed-xls",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealedmedia.softseal.gif",
+    "typ": "image/vnd.sealedmedia.softseal-gif",
+    "cat": "image",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealedmedia.softseal.html",
+    "typ": "application/vnd.sealedmedia.softseal-html",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealedmedia.softseal.jpg",
+    "typ": "image/vnd.sealedmedia.softseal-jpg",
+    "cat": "image",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealedmedia.softseal.mov",
+    "typ": "video/vnd.sealedmedia.softseal-mov",
+    "cat": "video",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealedmedia.softseal.mpeg",
+    "typ": "audio/vnd.sealedmedia.softseal-mpeg",
+    "cat": "audio",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.sealedmedia.softseal.pdf",
+    "typ": "application/vnd.sealedmedia.softseal-pdf",
+    "cat": "Applicaton",
+    "ref": "David_Petersen"
+  },
+  {
+    "nm": "vnd.seemail",
+    "typ": "application/vnd.seemail",
+    "cat": "Applicaton",
+    "ref": "Steve_Webb"
+  },
+  {
+    "nm": "vnd.sema",
+    "typ": "application/vnd-sema",
+    "cat": "Applicaton",
+    "ref": "Anders_Hansson"
+  },
+  {
+    "nm": "vnd.semd",
+    "typ": "application/vnd.semd",
+    "cat": "Applicaton",
+    "ref": "Anders_Hansson"
+  },
+  {
+    "nm": "vnd.semf",
+    "typ": "application/vnd.semf",
+    "cat": "Applicaton",
+    "ref": "Anders_Hansson"
+  },
+  {
+    "nm": "vnd.shana.informed.formdata",
+    "typ": "application/vnd.shana.informed.formdata",
+    "cat": "Applicaton",
+    "ref": "Guy_Selzler"
+  },
+  {
+    "nm": "vnd.shana.informed.formtemplate",
+    "typ": "application/vnd.shana.informed.formtemplate",
+    "cat": "Applicaton",
+    "ref": "Guy_Selzler"
+  },
+  {
+    "nm": "vnd.shana.informed.interchange",
+    "typ": "application/vnd.shana.informed.interchange",
+    "cat": "Applicaton",
+    "ref": "Guy_Selzler"
+  },
+  {
+    "nm": "vnd.shana.informed.package",
+    "typ": "application/vnd.shana.informed.package",
+    "cat": "Applicaton",
+    "ref": "Guy_Selzler"
+  },
+  {
+    "nm": "vnd.si.simp - OBSOLETE",
+    "typ": "message/vnd.si.simp",
+    "cat": "message",
+    "ref": "Nicholas_Parks_Young"
+  },
+  {
+    "nm": "vnd.si.uricatalogue - OBSOLETE",
+    "typ": "text/vnd.si.uricatalogue",
+    "cat": "text",
+    "ref": "Nicholas_Parks_Young"
+  },
+  {
+    "nm": "vnd.SimTech-MindMapper",
+    "typ": "application/vnd.SimTech-MindMapper",
+    "cat": "Applicaton",
+    "ref": "Patrick_Koh"
+  },
+  {
+    "nm": "vnd.siren+json",
+    "typ": "application/vnd.siren+json",
+    "cat": "Applicaton",
+    "ref": "Kevin_Swiber"
+  },
+  {
+    "nm": "vnd.smaf",
+    "typ": "application/vnd.smaf",
+    "cat": "Applicaton",
+    "ref": "Hiroaki_Takahashi"
+  },
+  {
+    "nm": "vnd.smart.notebook",
+    "typ": "application/vnd.smart.notebook",
+    "cat": "Applicaton",
+    "ref": "Jonathan_Neitz"
+  },
+  {
+    "nm": "vnd.smart.teacher",
+    "typ": "application/vnd.smart.teacher",
+    "cat": "Applicaton",
+    "ref": "Michael_Boyle"
+  },
+  {
+    "nm": "vnd.software602.filler.form+xml",
+    "typ": "application/vnd.software602.filler.form+xml",
+    "cat": "Applicaton",
+    "ref": "Jakub_HytkaMartin_Vondrous"
+  },
+  {
+    "nm": "vnd.software602.filler.form-xml-zip",
+    "typ": "application/vnd.software602.filler.form-xml-zip",
+    "cat": "Applicaton",
+    "ref": "Jakub_HytkaMartin_Vondrous"
+  },
+  {
+    "nm": "vnd.solent.sdkm+xml",
+    "typ": "application/vnd.solent.sdkm+xml",
+    "cat": "Applicaton",
+    "ref": "Cliff_Gauntlett"
+  },
+  {
+    "nm": "vnd.spotfire.dxp",
+    "typ": "application/vnd.spotfire.dxp",
+    "cat": "Applicaton",
+    "ref": "Stefan_Jernberg"
+  },
+  {
+    "nm": "vnd.spotfire.sfs",
+    "typ": "application/vnd.spotfire.sfs",
+    "cat": "Applicaton",
+    "ref": "Stefan_Jernberg"
+  },
+  {
+    "nm": "vnd.sss-cod",
+    "typ": "application/vnd.sss-cod",
+    "cat": "Applicaton",
+    "ref": "Asang_Dani"
+  },
+  {
+    "nm": "vnd.sss-dtf",
+    "typ": "application/vnd.sss-dtf",
+    "cat": "Applicaton",
+    "ref": "Eric_Bruno"
+  },
+  {
+    "nm": "vnd.sss-ntf",
+    "typ": "application/vnd.sss-ntf",
+    "cat": "Applicaton",
+    "ref": "Eric_Bruno"
+  },
+  {
+    "nm": "vnd.stepmania.package",
+    "typ": "application/vnd.stepmania.package",
+    "cat": "Applicaton",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.stepmania.stepchart",
+    "typ": "application/vnd.stepmania.stepchart",
+    "cat": "Applicaton",
+    "ref": "Henrik_Andersson"
+  },
+  {
+    "nm": "vnd.street-stream",
+    "typ": "application/vnd.street-stream",
+    "cat": "Applicaton",
+    "ref": "Glenn_Levitt"
+  },
+  {
+    "nm": "vnd.sun.j2me.app-descriptor",
+    "typ": "text/vnd.sun.j2me.app-descriptor",
+    "cat": "text",
+    "ref": "Gary_Adams"
+  },
+  {
+    "nm": "vnd.sun.wadl+xml",
+    "typ": "application/vnd.sun.wadl+xml",
+    "cat": "Applicaton",
+    "ref": "Marc_Hadley"
+  },
+  {
+    "nm": "vnd.sus-calendar",
+    "typ": "application/vnd.sus-calendar",
+    "cat": "Applicaton",
+    "ref": "Jonathan_Niedfeldt"
+  },
+  {
+    "nm": "vnd.svd",
+    "typ": "application/vnd.svd",
+    "cat": "Applicaton",
+    "ref": "Scott_Becker"
+  },
+  {
+    "nm": "vnd.svf",
+    "typ": "image/vnd-svf",
+    "cat": "image",
+    "ref": "Jodi_Moline"
+  },
+  {
+    "nm": "vnd.swiftview-ics",
+    "typ": "application/vnd.swiftview-ics",
+    "cat": "Applicaton",
+    "ref": "Glenn_Widener"
+  },
+  {
+    "nm": "vnd.syncml+xml",
+    "typ": "application/vnd.syncml+xml",
+    "cat": "Applicaton",
+    "ref": "OMA_Data_Synchronization_Working_Group"
+  },
+  {
+    "nm": "vnd.syncml.dm+wbxml",
+    "typ": "application/vnd.syncml.dm+wbxml",
+    "cat": "Applicaton",
+    "ref": "OMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.dm+xml",
+    "typ": "application/vnd.syncml.dm+xml",
+    "cat": "Applicaton",
+    "ref": "Bindu_Rama_RaoOMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.dm.notification",
+    "typ": "application/vnd.syncml.dm.notification",
+    "cat": "Applicaton",
+    "ref": "Peter_ThompsonOMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.dmddf+wbxml",
+    "typ": "application/vnd.syncml.dmddf+wbxml",
+    "cat": "Applicaton",
+    "ref": "OMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.dmddf+xml",
+    "typ": "application/vnd.syncml.dmddf+xml",
+    "cat": "Applicaton",
+    "ref": "OMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.dmtnds+wbxml",
+    "typ": "application/vnd.syncml.dmtnds+wbxml",
+    "cat": "Applicaton",
+    "ref": "OMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.dmtnds+xml",
+    "typ": "application/vnd.syncml.dmtnds+xml",
+    "cat": "Applicaton",
+    "ref": "OMA-DM_Work_Group"
+  },
+  {
+    "nm": "vnd.syncml.ds.notification",
+    "typ": "application/vnd.syncml.ds.notification",
+    "cat": "Applicaton",
+    "ref": "OMA_Data_Synchronization_Working_Group"
+  },
+  {
+    "nm": "vnd.tao.intent-module-archive",
+    "typ": "application/vnd.tao.intent-module-archive",
+    "cat": "Applicaton",
+    "ref": "Daniel_Shelton"
+  },
+  {
+    "nm": "vnd.tcpdump.pcap",
+    "typ": "application/vnd.tcpdump.pcap",
+    "cat": "Applicaton",
+    "ref": "Guy_HarrisGlen_Turner"
+  },
+  {
+    "nm": "vnd.tmobile-livetv",
+    "typ": "application/vnd.tmobile-livetv",
+    "cat": "Applicaton",
+    "ref": "Nicolas_Helin"
+  },
+  {
+    "nm": "vnd.trid.tpt",
+    "typ": "application/vnd.trid.tpt",
+    "cat": "Applicaton",
+    "ref": "Frank_Cusack"
+  },
+  {
+    "nm": "vnd.triscape.mxs",
+    "typ": "application/vnd.triscape.mxs",
+    "cat": "Applicaton",
+    "ref": "Steven_Simonoff"
+  },
+  {
+    "nm": "vnd.trolltech.linguist",
+    "typ": "text/vnd.trolltech.linguist",
+    "cat": "text",
+    "ref": "David_Lee_Lambert"
+  },
+  {
+    "nm": "vnd.trueapp",
+    "typ": "application/vnd.trueapp",
+    "cat": "Applicaton",
+    "ref": "J._Scott_Hepler"
+  },
+  {
+    "nm": "vnd.truedoc",
+    "typ": "application/vnd.truedoc",
+    "cat": "Applicaton",
+    "ref": "Brad_Chase"
+  },
+  {
+    "nm": "vnd.ubisoft.webplayer",
+    "typ": "application/vnd.ubisoft.webplayer",
+    "cat": "Applicaton",
+    "ref": "Martin_Talbot"
+  },
+  {
+    "nm": "vnd.ufdl",
+    "typ": "application/vnd.ufdl",
+    "cat": "Applicaton",
+    "ref": "Dave_Manning"
+  },
+  {
+    "nm": "vnd.uiq.theme",
+    "typ": "application/vnd.uiq.theme",
+    "cat": "Applicaton",
+    "ref": "Tim_Ocock"
+  },
+  {
+    "nm": "vnd.umajin",
+    "typ": "application/vnd.umajin",
+    "cat": "Applicaton",
+    "ref": "Jamie_Riden"
+  },
+  {
+    "nm": "vnd.unity",
+    "typ": "application/vnd.unity",
+    "cat": "Applicaton",
+    "ref": "Unity3d"
+  },
+  {
+    "nm": "vnd.uoml+xml",
+    "typ": "application/vnd.uoml+xml",
+    "cat": "Applicaton",
+    "ref": "Arne_Gerdes"
+  },
+  {
+    "nm": "vnd.uplanet.alert",
+    "typ": "application/vnd.uplanet.alert",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.alert-wbxml",
+    "typ": "application/vnd.uplanet.alert-wbxml",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.bearer-choice",
+    "typ": "application/vnd.uplanet.bearer-choice",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.bearer-choice-wbxml",
+    "typ": "application/vnd.uplanet.bearer-choice-wbxml",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.cacheop",
+    "typ": "application/vnd.uplanet.cacheop",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.cacheop-wbxml",
+    "typ": "application/vnd.uplanet.cacheop-wbxml",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.channel",
+    "typ": "application/vnd.uplanet.channel",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.channel-wbxml",
+    "typ": "application/vnd.uplanet.channel-wbxml",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.list",
+    "typ": "application/vnd.uplanet.list",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.list-wbxml",
+    "typ": "application/vnd.uplanet.list-wbxml",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.listcmd",
+    "typ": "application/vnd.uplanet.listcmd",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.listcmd-wbxml",
+    "typ": "application/vnd.uplanet.listcmd-wbxml",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uplanet.signal",
+    "typ": "application/vnd.uplanet.signal",
+    "cat": "Applicaton",
+    "ref": "Bruce_Martin"
+  },
+  {
+    "nm": "vnd.uvvu.mp4",
+    "typ": "video/vnd.uvvu-mp4",
+    "cat": "video",
+    "ref": "http://www.iana.org/assignments/contact-people.htmll#Dolan"
+  },
+  {
+    "nm": "vnd.vcx",
+    "typ": "application/vnd.vcx",
+    "cat": "Applicaton",
+    "ref": "Taisuke_Sugimoto"
+  },
+  {
+    "nm": "vnd.vd-study",
+    "typ": "application/vnd.vd-study",
+    "cat": "Applicaton",
+    "ref": "Luc_Rogge"
+  },
+  {
+    "nm": "vnd.vectorworks",
+    "typ": "application/vnd.vectorworks",
+    "cat": "Applicaton",
+    "ref": "Lyndsey_FergusonBiplab_Sarkar"
+  },
+  {
+    "nm": "vnd.verimatrix.vcas",
+    "typ": "application/vnd.verimatrix.vcas",
+    "cat": "Applicaton",
+    "ref": "Petr_Peterka"
+  },
+  {
+    "nm": "vnd.vidsoft.vidconference",
+    "typ": "application/vnd.vidsoft.vidconference",
+    "cat": "Applicaton",
+    "ref": "Robert_Hess"
+  },
+  {
+    "nm": "vnd.visio",
+    "typ": "application/vnd.visio",
+    "cat": "Applicaton",
+    "ref": "Troy_Sandal"
+  },
+  {
+    "nm": "vnd.visionary",
+    "typ": "application/vnd.visionary",
+    "cat": "Applicaton",
+    "ref": "Gayatri_Aravindakumar"
+  },
+  {
+    "nm": "vnd.vividence.scriptfile",
+    "typ": "application/vnd.vividence.scriptfile",
+    "cat": "Applicaton",
+    "ref": "Mark_Risher"
+  },
+  {
+    "nm": "vnd.vivo",
+    "typ": "video/vnd-vivo",
+    "cat": "video",
+    "ref": "John_Wolfe"
+  },
+  {
+    "nm": "vnd.vmx.cvsd",
+    "typ": "audio/vnd.vmx.cvsd",
+    "cat": "audio",
+    "ref": "Greg_Vaudreuil"
+  },
+  {
+    "nm": "vnd.vsf",
+    "typ": "application/vnd.vsf",
+    "cat": "Applicaton",
+    "ref": "Delton_Rowe"
+  },
+  {
+    "nm": "vnd.vtu",
+    "typ": "model/vnd.vtu",
+    "cat": "model",
+    "ref": "Boris_Rabinovitch"
+  },
+  {
+    "nm": "vnd.wap.si",
+    "typ": "text/vnd.wap.si",
+    "cat": "text",
+    "ref": "WAP-Forum"
+  },
+  {
+    "nm": "vnd.wap.sic",
+    "typ": "application/vnd.wap.sic",
+    "cat": "Applicaton",
+    "ref": "WAP-Forum"
+  },
+  {
+    "nm": "vnd.wap.sl",
+    "typ": "text/vnd.wap.sl",
+    "cat": "text",
+    "ref": "WAP-Forum"
+  },
+  {
+    "nm": "vnd.wap.slc",
+    "typ": "application/vnd.wap-slc",
+    "cat": "Applicaton",
+    "ref": "WAP-Forum"
+  },
+  {
+    "nm": "vnd.wap.wbmp",
+    "typ": "image/vnd-wap-wbmp",
+    "cat": "image",
+    "ref": "Peter_Stark"
+  },
+  {
+    "nm": "vnd.wap.wbxml",
+    "typ": "application/vnd.wap-wbxml",
+    "cat": "Applicaton",
+    "ref": "Peter_Stark"
+  },
+  {
+    "nm": "vnd.wap.wml",
+    "typ": "text/vnd.wap-wml",
+    "cat": "text",
+    "ref": "Peter_Stark"
+  },
+  {
+    "nm": "vnd.wap.wmlc",
+    "typ": "application/vnd-wap-wmlc",
+    "cat": "Applicaton",
+    "ref": "Peter_Stark"
+  },
+  {
+    "nm": "vnd.wap.wmlscript",
+    "typ": "text/vnd.wap.wmlscript",
+    "cat": "text",
+    "ref": "Peter_Stark"
+  },
+  {
+    "nm": "vnd.wap.wmlscriptc",
+    "typ": "application/vnd.wap.wmlscriptc",
+    "cat": "Applicaton",
+    "ref": "Peter_Stark"
+  },
+  {
+    "nm": "vnd.webturbo",
+    "typ": "application/vnd.webturbo",
+    "cat": "Applicaton",
+    "ref": "Yaser_Rehem"
+  },
+  {
+    "nm": "vnd.wfa.p2p",
+    "typ": "application/vnd.wfa.p2p",
+    "cat": "Applicaton",
+    "ref": "Mick_Conley"
+  },
+  {
+    "nm": "vnd.wfa.wsc",
+    "typ": "application/vnd.wfa.wsc",
+    "cat": "Applicaton",
+    "ref": "Wi-Fi_Alliance"
+  },
+  {
+    "nm": "vnd.wfa.wsc",
+    "typ": "message/vnd.wfa.wsc",
+    "cat": "message",
+    "ref": "Mick_Conley"
+  },
+  {
+    "nm": "vnd.windows.devicepairing",
+    "typ": "application/vnd.windows.devicepairing",
+    "cat": "Applicaton",
+    "ref": "Priya_Dandawate"
+  },
+  {
+    "nm": "vnd.wmc",
+    "typ": "application/vnd.wmc",
+    "cat": "Applicaton",
+    "ref": "Thomas_Kjornes"
+  },
+  {
+    "nm": "vnd.wmf.bootstrap",
+    "typ": "application/vnd.wmf.bootstrap",
+    "cat": "Applicaton",
+    "ref": "Thinh_NguyenphuPrakash_Iyer"
+  },
+  {
+    "nm": "vnd.wolfram.mathematica",
+    "typ": "application/vnd.wolfram.mathematica",
+    "cat": "Applicaton",
+    "ref": "Wolfram"
+  },
+  {
+    "nm": "vnd.wolfram.mathematica.package",
+    "typ": "application/vnd.wolfram.mathematica.package",
+    "cat": "Applicaton",
+    "ref": "Wolfram"
+  },
+  {
+    "nm": "vnd.wolfram.player",
+    "typ": "application/vnd.wolfram.player",
+    "cat": "Applicaton",
+    "ref": "Wolfram"
+  },
+  {
+    "nm": "vnd.wordperfect",
+    "typ": "application/vnd.wordperfect",
+    "cat": "Applicaton",
+    "ref": "Kim_Scarborough"
+  },
+  {
+    "nm": "vnd.wqd",
+    "typ": "application/vnd.wqd",
+    "cat": "Applicaton",
+    "ref": "Jan_Bostrom"
+  },
+  {
+    "nm": "vnd.wrq-hp3000-labelled",
+    "typ": "application/vnd.wrq-hp3000-labelled",
+    "cat": "Applicaton",
+    "ref": "Chris_Bartram"
+  },
+  {
+    "nm": "vnd.wt.stf",
+    "typ": "application/vnd.wt.stf",
+    "cat": "Applicaton",
+    "ref": "Bill_Wohler"
+  },
+  {
+    "nm": "vnd.wv.csp+wbxml",
+    "typ": "application/vnd.wv.csp+wbxml",
+    "cat": "Applicaton",
+    "ref": "Matti_Salmi"
+  },
+  {
+    "nm": "vnd.wv.csp+xml",
+    "typ": "application/vnd.wv.csp+xml",
+    "cat": "Applicaton",
+    "ref": "John_Ingi_Ingimundarson"
+  },
+  {
+    "nm": "vnd.wv.ssp+xml",
+    "typ": "application/vnd.wv.ssp+xml",
+    "cat": "Applicaton",
+    "ref": "John_Ingi_Ingimundarson"
+  },
+  {
+    "nm": "vnd.xacml+json",
+    "typ": "application/vnd.xacml+json",
+    "cat": "Applicaton",
+    "ref": "David_Brossard"
+  },
+  {
+    "nm": "vnd.xara",
+    "typ": "application/vnd.xara",
+    "cat": "Applicaton",
+    "ref": "David_Matthewman"
+  },
+  {
+    "nm": "vnd.xfdl",
+    "typ": "application/vnd.xfdl",
+    "cat": "Applicaton",
+    "ref": "Dave_Manning"
+  },
+  {
+    "nm": "vnd.xfdl.webform",
+    "typ": "application/vnd.xfdl.webform",
+    "cat": "Applicaton",
+    "ref": "Michael_Mansell"
+  },
+  {
+    "nm": "vnd.xiff",
+    "typ": "image/vnd.xiff",
+    "cat": "image",
+    "ref": "Steven_Martin"
+  },
+  {
+    "nm": "vnd.xmi+xml",
+    "typ": "application/vnd.xmi+xml",
+    "cat": "Applicaton",
+    "ref": "Fred_Waskiewicz"
+  },
+  {
+    "nm": "vnd.xmpie.cpkg",
+    "typ": "application/vnd.xmpie.cpkg",
+    "cat": "Applicaton",
+    "ref": "Reuven_Sherwin"
+  },
+  {
+    "nm": "vnd.xmpie.dpkg",
+    "typ": "application/vnd.xmpie.dpkg",
+    "cat": "Applicaton",
+    "ref": "Reuven_Sherwin"
+  },
+  {
+    "nm": "vnd.xmpie.plan",
+    "typ": "application/vnd.xmpie.plan",
+    "cat": "Applicaton",
+    "ref": "Reuven_Sherwin"
+  },
+  {
+    "nm": "vnd.xmpie.ppkg",
+    "typ": "application/vnd.xmpie.ppkg",
+    "cat": "Applicaton",
+    "ref": "Reuven_Sherwin"
+  },
+  {
+    "nm": "vnd.xmpie.xlim",
+    "typ": "application/vnd.xmpie.xlim",
+    "cat": "Applicaton",
+    "ref": "Reuven_Sherwin"
+  },
+  {
+    "nm": "vnd.yamaha.hv-dic",
+    "typ": "application/vnd.yamaha.hv-dic",
+    "cat": "Applicaton",
+    "ref": "Tomohiro_Yamamoto"
+  },
+  {
+    "nm": "vnd.yamaha.hv-script",
+    "typ": "application/vnd.yamaha.hv-script",
+    "cat": "Applicaton",
+    "ref": "Tomohiro_Yamamoto"
+  },
+  {
+    "nm": "vnd.yamaha.hv-voice",
+    "typ": "application/vnd.yamaha.hv-voice",
+    "cat": "Applicaton",
+    "ref": "Tomohiro_Yamamoto"
+  },
+  {
+    "nm": "vnd.yamaha.openscoreformat",
+    "typ": "application/vnd.yamaha.openscoreformat",
+    "cat": "Applicaton",
+    "ref": "Mark_Olleson"
+  },
+  {
+    "nm": "vnd.yamaha.openscoreformat.osfpvg+xml",
+    "typ": "application/vnd.yamaha.openscoreformat.osfpvg+xml",
+    "cat": "Applicaton",
+    "ref": "Mark_Olleson"
+  },
+  {
+    "nm": "vnd.yamaha.remote-setup",
+    "typ": "application/vnd.yamaha.remote-setup",
+    "cat": "Applicaton",
+    "ref": "Takehiro_Sukizaki"
+  },
+  {
+    "nm": "vnd.yamaha.smaf-audio",
+    "typ": "application/vnd.yamaha.smaf-audio",
+    "cat": "Applicaton",
+    "ref": "Keiichi_Shinoda"
+  },
+  {
+    "nm": "vnd.yamaha.smaf-phrase",
+    "typ": "application/vnd.yamaha.smaf-phrase",
+    "cat": "Applicaton",
+    "ref": "Keiichi_Shinoda"
+  },
+  {
+    "nm": "vnd.yamaha.through-ngn",
+    "typ": "application/vnd.yamaha.through-ngn",
+    "cat": "Applicaton",
+    "ref": "Takehiro_Sukizaki"
+  },
+  {
+    "nm": "vnd.yamaha.tunnel-udpencap",
+    "typ": "application/vnd.yamaha.tunnel-udpencap",
+    "cat": "Applicaton",
+    "ref": "Takehiro_Sukizaki"
+  },
+  {
+    "nm": "vnd.yellowriver-custom-menu",
+    "typ": "application/vnd.yellowriver-custom-menu",
+    "cat": "Applicaton",
+    "ref": "Mr._Yellow"
+  },
+  {
+    "nm": "vnd.zul",
+    "typ": "application/vnd.zul",
+    "cat": "Applicaton",
+    "ref": "Rene_Grothmann"
+  },
+  {
+    "nm": "vnd.zzazz.deck+xml",
+    "typ": "application/vnd.zzazz.deck+xml",
+    "cat": "Applicaton",
+    "ref": "Micheal_Hewett"
+  },
+  {
+    "nm": "voice-message",
+    "typ": "",
+    "cat": "multipart",
+    "ref": "RFC2421RFC2423"
+  },
+  {
+    "nm": "voicexml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4267"
+  },
+  {
+    "nm": "vorbis",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5215"
+  },
+  {
+    "nm": "vorbis-config",
+    "typ": "",
+    "cat": "audio",
+    "ref": "RFC5215"
+  },
+  {
+    "nm": "vq-rtcpxr",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6035"
+  },
+  {
+    "nm": "vrml",
+    "typ": "",
+    "cat": "model",
+    "ref": "RFC2077"
+  },
+  {
+    "nm": "watcherinfo+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3858"
+  },
+  {
+    "nm": "whoispp-query",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2957"
+  },
+  {
+    "nm": "whoispp-response",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC2958"
+  },
+  {
+    "nm": "widget",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3CSteven_PembertonISO/IEC 19757-2:2003/FDAM-1"
+  },
+  {
+    "nm": "wita",
+    "typ": "application/wita",
+    "cat": "Applicaton",
+    "ref": "Larry_Campbell"
+  },
+  {
+    "nm": "wordperfect5.1",
+    "typ": "application/wordperfect5.1",
+    "cat": "Applicaton",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "wsdl+xml",
+    "typ": "application/wsdl+xml",
+    "cat": "Applicaton",
+    "ref": "W3C"
+  },
+  {
+    "nm": "wspolicy+xml",
+    "typ": "application/wspolicy+xml",
+    "cat": "Applicaton",
+    "ref": "W3C"
+  },
+  {
+    "nm": "x3d+xml",
+    "typ": "model/x3d+xml",
+    "cat": "model",
+    "ref": "Web3DWeb3DX3D"
+  },
+  {
+    "nm": "x3d-vrml",
+    "typ": "model/x3d-vrml",
+    "cat": "model",
+    "ref": "Web3DWeb3DX3D"
+  },
+  {
+    "nm": "x400-bp",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC1494"
+  },
+  {
+    "nm": "xacml+xml",
+    "typ": "application/xacml+xml",
+    "cat": "Applicaton",
+    "ref": "RFC7061"
+  },
+  {
+    "nm": "xcap-att+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4825"
+  },
+  {
+    "nm": "xcap-caps+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4825"
+  },
+  {
+    "nm": "xcap-diff+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC5874"
+  },
+  {
+    "nm": "xcap-el+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4825"
+  },
+  {
+    "nm": "xcap-error+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4825"
+  },
+  {
+    "nm": "xcap-ns+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4825"
+  },
+  {
+    "nm": "xcon-conference-info+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "draft-ietf-xcon-event-package"
+  },
+  {
+    "nm": "xcon-conference-info-diff+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "draft-ietf-xcon-event-package"
+  },
+  {
+    "nm": "xenc+xml",
+    "typ": "application/xenc+xml",
+    "cat": "Applicaton",
+    "ref": "Joseph_ReagleXENC_Working_Group"
+  },
+  {
+    "nm": "xhtml+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3236"
+  },
+  {
+    "nm": "xhtml-voice+xml - OBSOLETE",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "draft-mccobb-xplusv-media-type"
+  },
+  {
+    "nm": "xml",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC3023"
+  },
+  {
+    "nm": "xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3023"
+  },
+  {
+    "nm": "xml-dtd",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3023"
+  },
+  {
+    "nm": "xml-external-parsed-entity",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3023"
+  },
+  {
+    "nm": "xml-external-parsed-entity",
+    "typ": "",
+    "cat": "text",
+    "ref": "RFC3023"
+  },
+  {
+    "nm": "xmpp+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC3923"
+  },
+  {
+    "nm": "xop+xml",
+    "typ": "application/xop+xml",
+    "cat": "Applicaton",
+    "ref": "Mark_Nottingham"
+  },
+  {
+    "nm": "xslt+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "W3Chttp://www.w3.org/TR/2007/REC-xslt20-20070123/#media-type-registration"
+  },
+  {
+    "nm": "xv+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC4374"
+  },
+  {
+    "nm": "yang",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6020"
+  },
+  {
+    "nm": "yin+xml",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6020"
+  },
+  {
+    "nm": "zip",
+    "typ": "application/zip",
+    "cat": "Applicaton",
+    "ref": "Paul_Lindner"
+  },
+  {
+    "nm": "zlib",
+    "typ": "",
+    "cat": "Applicaton",
+    "ref": "RFC6713"
+  }
+]

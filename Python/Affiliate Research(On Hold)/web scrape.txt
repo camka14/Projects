@@ -1,0 +1,1975 @@
+﻿Are you looking to make a website? Starting a website can be a terrifying thought specially when you’re not techy. Don’t worry, you’re not alone. Having helped over 130,000+ people make a website with WordPress, we have decided to create the most comprehensive step by step guide on how to a make a website without learning how to code.
+
+How to make a website step by step
+
+This guide is useful for users of all ages and skill levels. However, if you need help, then you can contact our expert team to help you setup your website for free.
+
+→ Click Here to Get Your Free WordPress Website Setup! ←
+
+If you want to do it by yourself, then please continue to follow our step by step guide on how to make a website.
+
+Here is an overview from start to finish of all the steps we’ll walk you through in this guide.
+
+    How to find and register a domain name for free
+    Choosing the best web hosting
+    How to install WordPress
+    Installing a template to change your site’s design
+    Creating pages in WordPress
+    Customizing WordPress with addons and extensions
+    Resources to learn WordPress and get support
+    Taking it further, building websites with more features
+
+Before we start creating a website, let’s cover some of the most commonly asked questions that we get.
+What do I need to build a website?
+
+You’ll need the following three things to start your WordPress site.
+
+    A domain name – this is the name of your website such as google.com
+    WordPress hosting – this is where your website files are stored.
+    45 minutes of your undivided attention.
+
+How much does a WordPress website cost?
+
+The answer to this question really depends on what kind of website you are trying to build. We have written a 2000 word guide explaining how much does it really cost to build a website.
+
+A typical business website can cost as low as $100 per year and can go as high as $30,000 per year.
+
+We recommend all our users to start small and then add more features to your website as your business grows. This way you will save money and minimize potential losses and avoiding overspending.
+
+In this guide, we’ll show you how to build a website for less than $100.
+
+We will also show you how to take it further by adding more features to it in the future.
+Which is the best website platform?
+
+There are many website builders available that will help you setup a website. We recommend using self-hosted WordPress as your website platform.
+
+WordPress is the most popular website platform in the world. It powers nearly 28% of all websites on the internet.
+
+WordPress is free and comes with thousands of website designs and extensions. It is extremely flexible and works with almost every third-party tool and service available to website owners.
+
+We use WordPress to build all our websites including this one, WPBeginner.
+How to make the most of this create a website tutorial?
+
+This is a step by step tutorial on how to make a website. We have divided it into different steps, and we’ll walk you through everything from start to finish. Just follow along the instructions, and you’ll have a very professional looking website in the end.
+
+We will also point you in the right direction to take your website to the next level based on your needs.
+
+Have fun creating your website.
+
+Remember, if you need help, you can contact us and we will setup your website for free.
+
+Let’s get started.
+How to Create a Website Video Tutorial
+
+Subscribe to WPBeginner
+
+If you don’t like the video or need more instructions, then continue reading.
+Step 1. Setup
+
+One of the most common mistakes that beginners make is choosing the wrong website platform. Thankfully, you are here so you will not be making that mistake.
+
+For most users, a self-hosted WordPress.org site is the perfect solution. It comes with thousands of designs and addons which allow you to create any kind of website you can think of. For more on this topic, please see our guide on why you should use WordPress.
+
+WordPress is free for anyone to download and use to build any kind of website without any restrictions.
+
+If WordPress is free, then where is the cost coming from?
+
+WordPress is free because you’ll have to arrange your own domain name and hosting, which costs money. For more on this topic, see our article why is WordPress free?.
+
+A domain name is your website’s address on the internet. This is what your users will type in their browsers to reach your site (For example, wpbeginner.com or google.com).
+
+Next, you’ll need website hosting. All websites on the internet need hosting. This will be your website’s home on the internet.
+
+A domain name typically costs $14.99/year and hosting costs start from $7.99/month.
+
+This is A LOT for most people who are just starting out.
+
+Thankfully, Bluehost, has agreed to offer our users a free domain name and over 60% off on web hosting.
+
+→ Click here to Claim this Exclusive Bluehost offer ←
+
+Bluehost is one of the largest hosting companies in the world. They are also an official WordPress recommended hosting partner.
+
+They are working with WordPress since 2005, and are committed to give back to the community. That’s why they have promised us that if you cannot set up your website by following this tutorial, then our expert team will complete the process for you without any cost. They will compensate us, so you don’t have to. Feel free to contact us for free website setup help.
+
+Note: At WPBeginner, we believe in transparency. If you purchase hosting using our referral link, then we will get a small commission at no additional cost to you. In fact, you will get discount on hosting + a free domain name. We would get this commission for recommending any WordPress hosting company, but we only recommend products that we personally use and believe will add value to our readers.
+
+Let’s go ahead and purchase domain name and hosting.
+
+First, you’ll need to go to the Bluehost website in a new browser window and click on the green ‘Get Started Now’ button.
+
+Get started with Bluehost
+
+This will bring you to a pricing page where you will need to choose a pricing plan for your website. Basic and plus plans are the most popular choices among our users.
+
+Select your hosting plan
+
+You’ll need to click on select to choose the plan that you like and continue to the next step.
+
+On the next screen, you’ll be asked to select a new domain name.
+
+Select domain name
+
+Ideally you should stick to a .com domain name. Make sure that it is related to your business, easy to pronounce and spell, and easy to remember.
+
+Need help choosing a domain name for your website? See these tips and tools on how to choose the best domain name.
+
+After choosing your domain name, click on the next button to continue.
+
+Now you’ll be asked to provide your account information such as name, address, email, etc.
+
+On this screen, you will also see optional extras that you can purchase. We generally don’t recommend purchasing these extras. You can always add them later on, if you decide that you need them.
+
+Uncheck optional extras
+
+Next, you will add your payment information to finish the purchase.
+
+After completing your purchase, you’ll receive an email with details on how to login to your web hosting control panel (cPanel).
+
+This is your hosting dashboard where you manage everything like getting support, setting up emails, etc. Most importantly, this is where you’ll install WordPress.
+Step 2. Install WordPress
+
+You will find tons of icons to do different things on your hosting account dashboard (cPanel). You’ll never need to use 95% of them, so you can safely ignore them.
+
+Scroll down to the website section in cPanel and then click on the WordPress icon.
+
+Install WordPress
+
+You will now see Bluehost Marketplace Quick Install screen for WordPress. Click on the ‘Get Started’ button to continue.
+
+On the next screen, you will be asked to select the domain name where you want to install WordPress. Choose your domain from the dropdown field and then click Next.
+
+Select domain name
+
+Now you’ll need to enter your website name, admin username, and a password for your website. Don’t worry, you can change them later in WordPress settings if you need to.
+
+You’ll also need to check all the checkboxes on the screen and then click on the ‘Install’ button to continue.
+
+WordPress install settings
+
+Quick Install will now start installing WordPress on your website. Meanwhile, it will show you some website templates that you can install on your site.
+
+You don’t need to do that right now because we’ll show you how to find and install free WordPress template on your website later in this guide.
+
+Once the installation is over, you’ll see a success message in the top header.
+
+WordPress install successful
+
+Now you need to click on the ‘Installation Complete’ link, and it will take you to the screen with your WordPress login URL and password.
+
+WordPress login url and credentials
+
+Congratulations! You have created your first WordPress website.
+
+You can now head over to the WordPress login page. Your login URL will look like this:
+
+http://www.yourdomain.com/wp-admin
+
+You can login to your WordPress site using the admin username and password you entered earlier.
+
+WordPress login page
+
+Wasn’t that easy?
+
+Now let’s move on to the next step and choose a design for your website.
+Step 3. Select Your Theme
+
+The visual appearance of your WordPress site is controlled by a WordPress theme.
+
+WordPress themes are professionally designed templates that you can install on your website to change its appearance.
+
+By default, each WordPress site comes with a basic theme. If you visit your website, then it will look something like this:
+
+Default WordPress theme
+
+This is not very appealing for most users.
+
+But don’t worry, there are thousands of free and paid WordPress themes that you can install on your site.
+
+You can change your theme from the WordPress admin dashboard. Visit Appearance » Themes page and then click on the ‘Add New’ button.
+
+Change your WordPress theme
+
+On the next screen, you will able to search from 4,492 free WordPress themes that are available in the official WordPress.org themes directory. You can sort them by popular, latest, featured, as well as other feature filters (i.e industry, layout, etc).
+
+Searching for free WordPress themes
+
+Need help choosing a theme? Check out our list of these awesome free WordPress business themes.
+
+You may also want to take a look at our guide on how to select the perfect WordPress theme for your website.
+
+For the sake of this guide, we’ll be using Bento. It is a popular multi-purpose free WordPress theme with flexible design options for all kind of websites.
+
+If you know the name of the free theme you want to install, then you can look for it by entering its name in the search field.
+
+WordPress will show you the theme in search results. You will need to take your mouse over to the theme and then click on the Install button.
+
+Install WordPress theme
+
+Once you have installed your theme, you can customize it by clicking on the Customize link under the Appearance menu.
+
+This will launch the theme customizer where you will be able to change your theme settings with live preview of your website.
+
+Customizing your WordPress theme
+
+You don’t need to finalize all theme settings right away. You will be able to customize it much better once you have some content on your website.
+
+Let’s see how to add content to your WordPress site.
+Step 4. Add Content to Your Site
+
+WordPress comes with two default content types called posts and pages. Posts are part of a blog and appear in reverse-chronological order (newer items displayed first).
+
+On the other hand, pages are meant to be static “one-off” type content such as your about page, contact page, privacy policy, etc.
+
+By default, WordPress shows your blog posts on the front page of your website. You can change that, and make WordPress show any page as the front-page of your website (we’ll show you how to do that later in this guide).
+
+You can create a separate page for your blog or news section. In fact, you can create a website without any blog section at all.
+
+Having said that, let’s add some content to your website.
+
+You’ll start by adding a few pages to your WordPress site. Don’t worry if you don’t have enough content for these pages at the moment. You can always edit and update them.
+
+Head over to Pages » Add New page in WordPress admin area. This will bring you to the page editor screen, which looks like this:
+
+Adding a new page
+
+First you need to provide a title for your page, let’s call this page ‘Home’.
+
+After that you can add content in the text editor below. You can add text, links, images, embed videos, audio, etc.
+
+After adding content to your page, you can click on the publish button to make it live on your website.
+
+You can repeat the process by adding more pages for different sections of your website. For example, an about page, contact us, and a blog page to display blog posts.
+
+Now let’s add a few blog posts as well.
+
+Head over to Posts » Add New in your WordPress admin area.
+
+Adding a new post in WordPress
+
+You will see a screen much like you saw earlier when adding pages.
+
+You can add a post title and then add content in the visual post editor. You’ll also notice some extra options like post formats, categories and tags.
+
+You can click on the save button to store your post as a draft or click on the publish button to make it visible on your site.
+
+For more detailed instructions on how to utilize all these options on post and page edit screens, please see our guide on how to add a new post in WordPress.
+Step 5. Customizing and Tweaking Your Website
+
+Now that you have created some content on your website, you will be able to customize and put it all in a nice presentable shape on your website.
+
+Let’s start by setting up a static front Page.
+
+Setting up a Static Front Page
+
+You need to visit the Settings » Reading page in your WordPress admin area. Under the ‘Front page displays’ option click on the static front page and then select ‘Pages’ you created earlier for your home and blog pages.
+
+Static front page
+
+Don’t forget to click on the ‘Save Changes’ button at the bottom of the page to store your changes.
+
+WordPress will now use the page titled ‘Home’ as your site’s front page and ‘Blog’ page to display your blog posts.
+
+Change Site Title and Tagline
+
+During the installation you get to choose your site’s title. WordPress automatically adds a tag line to your site title that says ‘Just another WordPress site’.
+
+You can change both your site’s title and tagline at any time by visiting Settings » General page.
+
+Site title and tagline
+
+Your site title will be the name of your website like WPBeginner. The tag line is usually a single line that describes your website. You can also leave the tag line field blank if you want.
+
+Don’t forget to click on the save changes button to store your settings.
+
+Set up Comments Settings
+
+WordPress comes with a built-in comment system allowing your users to leave comments on your posts. This is great for user engagement, but it is targeted by spammers as well.
+
+To deal with this, you’ll need to enable comment moderation on your website.
+
+Visit Settings » Discussions page and scroll down to ‘Before a comment appears’ section. Check the box next to ‘Comment must be manually approved’ option.
+
+Enable comment moderation
+
+Don’t forget to click on the save changes button to store your settings.
+
+Create Navigation Menus
+
+Navigation menus allow your users to browse different pages or sections on your website. WordPress comes with a powerful navigation menu system, and your WordPress theme utilizes this system to display menus.
+
+Navigation menus on a website
+
+Let’s add a navigation menu to your website.
+
+First, you need to visit Appearance » Menus page. Enter a name for your navigation menu and click on the create menu button.
+
+Creating a new menu
+
+WordPress will now create your navigation menu. But it will be empty at the moment.
+
+Next, you need to select the pages you want to display in your menu and then click on add to menu button.
+
+Add pages to WordPress menu
+
+You will notice your selected pages filling the empty area of your navigation menu. You can move them up and down to rearrange their position in the menu.
+
+Select menu location
+
+Now you need to select a display location. These locations are defined by your WordPress theme. Usually, most WordPress themes have a primary menu that appears on top.
+
+Finally, click on the save menu button to store your navigation menu.
+
+You can now visit your website to see the menu in action.
+
+For more detailed instructions see our beginner’s guide on how to add navigation menu in WordPress.
+Step 6. Installing Plugins
+
+WordPress Plugins are like apps for your WordPress site. They allow you to add features to your WordPress site. Think contact form, photo galleries, etc.
+
+There are currently more than 49,000 free plugins available for WordPress. There are also paid plugins sold by third-party websites and developers.
+
+With this many plugins, how do you find which plugins to install? We got you covered there as well, see our guide on how to choose the best WordPress plugin.
+
+Here is our list of essential plugins that you should install on your site right away. All of them are free.
+
+Features
+
+    WPForms Lite – Allows you to add a contact form to your WordPress site.
+    Envira Gallery Lite – Add beautiful image galleries to your WordPress site
+    MonsterInsights – Connect your website with Google Analytics and see how visitors find and use your website, so you can keep them coming back.
+
+Website Optimization
+
+    Yoast SEO – Improve your WordPress SEO and get more traffic from Google
+    WP Super Cache – Improves your website speed by serving cached pages
+
+Security
+
+    Updraft Plus – Create automatic scheduled backups of your website
+    Sucuri – Website security audit and malware scanner
+
+Need help installing plugins? See our step by step guide on how to install a WordPress plugin.
+
+For more plugin recommendations check out our list of 24 must have WordPress plugins for business websites.
+Step 7. Mastering WordPress
+
+WordPress is easy to use yet extremely powerful. From time to time, you may find yourself looking for some quick answers.
+
+The good news is that there is plenty of free WordPress help available. See our guide on how to properly ask for WordPress support and get it.
+
+WPBeginner itself is the largest WordPress resource site on the internet. You will find the following resources on WPBeginner (all of them are completely free).
+
+    WPBeginner Blog – This is where we publish our WordPress tutorials, how tos, and step by step guides.
+    WPBeginner Videos – These step by step videos will help you learn WordPress FAST.
+    WPBeginner on YouTube – Need more video instructions? Subscribe to our YouTube channel with more than 52,000 subscribers and 7 Million+ views.
+    WPBeginner Dictionary – The best place for beginners to start and familiarize themselves with the WordPress lingo.
+    WPBeginner Blueprint – Check out plugins, tools, and services we use on WPBeginner.
+    WPBeginner Deals – Exclusive discounts on WordPress products and services for WPBeginner users.
+
+Here are few of our guides that you should bookmark right away. It will save you lots of time and money in the future.
+
+    25 Most common WordPress errors and how to fix them
+    Beginner’s guide to troubleshooting WordPress errors
+    How to fix common image issues in WordPress
+    The ultimate WordPress security guide (step by step)
+    Ultimate WordPress seo guide for beginners (step by step)
+
+Many of our users use Google to find answers on WPBeginner. Simply type keywords for what you are looking for and add wpbeginner.com at the end.
+
+Can’t find an answer? Send your question directly using our contact form and we will try our best to answer.
+Step 7. Taking it Further
+
+So far we have shown you how to make a website, add a theme, and install essential plugins.
+
+Want to take it even further?
+
+Using WordPress you can create powerful niche websites capable of doing a lot more.
+
+    Add an eCommerce store
+    Start your own podcast
+    Create a membership Website
+    Create a web directory
+    Create a coupons website
+    Build a reviews website
+    Create multilingual websites
+    Create a Job Board website
+    Create a question and answers website
+    Create a wiki knowledgebase website
+
+For more examples, check out our list of 19 types of websites you can create with WordPress
+Frequently Asked Questions (FAQs)
+
+Having helped thousands of people start a website, we have answered quite a lot of questions. Below are the answers to the most frequently asked questions about creating a website.
+
+Is WordPress the only way to create a website?
+
+No, there are a lot of other website builders out there. We believe that WordPress is the best and easiest platform to build a website.
+
+How do I make money from my website?
+
+After helping users create a website, this is by far the most commonly asked question. There are a lot of ways to make money online from your website.
+
+We have a list of 25 ways to make money online using WordPress. These aren’t get rich quick schemes. If you’re looking for a way to get rich quick by making money online, then sorry to break the bad news, there’s no such way.
+
+How do I start a website where I can sell products?
+
+You can easily add an online store to your WordPress website. We have created a list of the best eCommerce plugins for WordPress. You can also follow our step by step guide on how to start an online store.
+
+Do I need to know HTML / CSS to create and customize my website?
+
+No you don’t need to know HTML / CSS to build a website with WordPress. You can use one of the many drag & drop WordPress page builder plugins to easily customize your websites.
+
+How can I start a website for free?
+
+Some website builders may offer free options, but we don’t recommend using those. Often they will insert their branding and advertisement on your website which doesn’t look professional.
+
+It’s better to purchase your own domain name and hosting, so you have full ownership of your website. See what is the difference between domain name and web hosting.
+
+Can I start a website like eBay?
+
+Yes, you can easily create a website like eBay using an auction plugin for WordPress. We have a step by step guide on how to build an online auction website using WordPress that you can follow.
+
+Can I get a free domain for my website?
+
+Yes, some web hosting companies offer a free domain if you choose to start a website with them. Bluehost is an officially recommended WordPress hosting provider, and they’re offering WPBeginner users free domain + 60% off hosting if you choose to build your website using their service.
+
+Can I create a website like Facebook?
+
+Yes, you can absolutely use WordPress to turn your website into a social network. We have a step by step guide on how to make a website like Facebook using WordPress.
+
+Can I start a website with a discussion board / forum?
+
+Absolutely. You can use one of these forum plugins in WordPress to build a website with discussion board features.
+
+We hope this guide helped you learn how to make a website without hiring a developer or overspending money. You may also want to see our list of 19 actionable tips to drive traffic to your new WordPress site.
+
+If you liked this article, then please subscribe to our YouTube Channel for WordPress video tutorials. You can also find us on Twitter and Facebook.
+Not having a website means you’re losing out on potential customers. The excuse of websites being too complicated or too expensive to create is no longer valid. Bluehost offers you a domain, a business email, AND a professional WordPress website for just $2.95/month.
+
+Follow the 5 simple steps in this guide to have your small business website up and running in no time:
+Step 1: Choose and Register Your Small Business Website’s Domain Name
+
+The very first step is to decide what name you’ll give your website – for example, www.YourBusiness.com.
+
+First things first, you’ll want to check and see if your business name is available. To find out, enter it into the domain search tool below, powered by Bluehost. If you are taken straight to the registration page, it means your name is available, if you see a message that the domain is not available for registration, then you will have to adjust your business name.
+
+If the .COM version of your business name is available, consider using this for your website. Otherwise, try different phrases before settling for an alternate suffix, like .NET or .INFO. Consumers overwhelmingly use .COM when entering a web address. So even if you promote your .NET website, you could lose customers who typed in the .COM version instead.
+Tips for Finding Business Website Domains
+
+If your business name is taken, here are a few tips to keep in mind as you search for alternate names:
+
+    Domain names are important for search engines, like Google. Consider including words that people are likely to use when searching for your business. “ProStar Lawncare” is probably better than “ProStar USA.”
+    Domain names should be easy to pronounce and remember. Keep your name as short as possible and avoid punctuation like dashes. As a simple rule of thumb, make sure somebody can find your domain if they hear it spoken out loud.
+    Use location to find a unique URL. If all other options are taken, add your city/area name to the domain. For example, a company called Smith Plumbers based in Albany, NY, could try www.smithplumbersalbany.com. This, again, can help your website appear in Google since customers are likely to enter their city name when searching for a service.
+
+If you still need help choosing a domain name, see our Top 25 Domain Name Tips From The Pros.
+Step 2: Choose Which Platform & Host are Right for You
+
+Once you’ve chosen a domain, the next step is to decide where to host your website. A host is the service that actually stores your website and transmits it to visitors. In our experience, the two best host platforms are Bluehost and Weebly.
+Small Business Website: BluehostPrice: $2.95/mo
+Difficulty: Intermediate
+Uses: Serves huge range of businesses; templates for almost every industry
+Visit Bluehost
+small business website: WeeblyPrice: $12.00/mo
+Difficulty: Easy
+Uses: Simple informational websites, light blogging and ecommerce capability
+Visit Weebly
+
+ 
+
+Bluehost is the most versatile hosting option and the one that delivers the most value. You can register your domain, host your website, AND get a business email address for just $2.95 per month. Click here to check out Bluehost’s hosting plans.
+
+Weebly is a bit more user-friendly, and offers more personalized customer support. This can make it a better option for less tech-savvy users who only need a simple information website. However, the tradeoff is a higher price tag $12/mo, and this doesn’t include a domain or email account.
+
+Now let’s explore each of these options in more detail:
+Option 1: Create a WordPress Website using Bluehost ($2.95/month)
+
+If you are a little more technologically savvy, and want access to unlimited features and functionality, WordPress is the way to go. Bluehost offers affordable hosting plans and a free WordPress website (with a domain and business email account included) for just $2.95/month.
+
+You can also learn how to setup a WordPress site here.
+Getting Started with WordPress
+
+Just bear in mind: WordPress is an intermediate website builder. You won’t need any programming knowledge per se, but you will need to familiarize yourself with their backend menu. Unlike Weebly, which lets you edit the website just by dragging and dropping elements, WordPress has a more traditional edit menu.
+
+That said, we’ve written a few guides and recorded a video that explains how to create a WordPress website using Bluehost from start to finish. If you follow one of our guides and use the same theme, you should get most of the work done in less than an hour.
+
+Check out our WordPress guides below. For each of these, we use Bluehost, which gives you a WordPress website, domain and business email for just $2.95/month:
+
+    Create a Business Website (With Business template)
+    Create a Restaurant Website (With restaurant template)
+    Create a Salon Website (With Salon template)
+
+Option 2: Use a Website Builder like Weebly ($12/month)
+
+For small business owners who are short on time, are less technologically advanced, but are willing to pay a little bit more, we recommend using Weebly. Weebly is part of a new class of tools called website builders that utilize drag-and-drop interfaces to make it easier than ever to design a site
+
+With Weebly, you start by choosing a template, then customize with your own pages, text, images, etc.
+weebly-themes
+
+Examples of website templates from Weebly
+
+The editing process is very intuitive. If you’ve ever used Microsoft Word or PowerPoint, you’ll easily grasp the tool. Add elements by dragging them from the sidebar. Adjust the size by dragging from a corner, and change text by double clicking within the text box.
+
+It’s also very easy to add interactive features to your website. Most website builders will have a click-to-add option for Google Maps, YouTube/Vimeo embeds, web forms, and more. This makes your customers more likely to share and spend more time on your website.
+
+You can read how Weebly stacks up against Wix and WordPress in our website builder buyer’s guide, or go ahead and check out our step-by-step instructions on how to create a website using Weebly.
+When to Use a Website Builder Besides Weebly – Ecommerce Website ($15/month)
+
+If you’re just selling one or two products, Weebly has the capability to handle this. However, if the primary purpose of your website is to sell products, you may want to choose a website builder that specializes in creating an online store. Volusion is an all-in-one ecommerce software that helps you to create and manage your online store, sell your products, and market your business. It’s pricing is comparable to Weebly’s ecommerce plan at $15 per month and you can try it out for free for 14 days, no credit card required.
+
+Visit Volusion
+Step 3: Outline Your Website Content
+
+Now that you know which platform you are going to use, it’s time to decide what your website is going to say. Figuring out what to say on your website can be difficult, and one of the main reasons business owners put off creating one.
+
+The good news is you don’t have to say much at all. Business websites work best when they’re simple, featuring minimal text and just a single “option” on each page – i.e. submission form, or “contact us” button.
+
+Business websites also tend to follow a standard format, using these 4 essential pages. As you go through the list, don’t worry about formatting each page yet – just think about the text, images, and content you’ll include:
+
+    Homepage: On the homepage, you should include the name of your business, where you’re located, and a simplified pitch – a few lines about what makes you unique and/or why customers should choose your business.
+    Products and Services: A page with details about the products you sell or services your provide. On the page which you detail products or services, spend one to five sentences describing each type you offer and give the pricing.
+    About Us: Provide your company background and list organizational memberships like being part of the Better Business Bureau. Also include customer testimonials, which helps make your company seem more trustworthy and credible.
+    Contact Us: Your address, email, phone number, the hours you are open for business, and links to any social media accounts such as Twitter and Facebook should appear on this page. You should also embed a Google map of your location and include different ways of getting there (i.e. subway, train, car etc) if applicable.
+
+    sally-kane“Reviewing the types of pages featured on competitor sites can also give you ideas for content that you want to feature on your new site.”
+
+    — Sally Kane, Content Director, PaperStreet
+
+Special Tools for Mobile Websites
+
+These days, more than half of customers browse from their smartphones instead of a computer. As a small business owner, this means it’s imperative to have a mobile-friendly website.
+
+The good news is most of the top web-builders, including Weebly, automatically create mobile-optimized websites for you. Known as “responsive” themes, these websites can detect the type of device you’re browsing from and automatically shift the content to give you the optimal experience. WordPress also has multiple responsive themes available.
+mobile-website-essentials
+
+Thanks to G&B Coffee and Science Retail for sharing these mobile website tips
+
+That said, even if your website is responsive, it’s usually a good idea to make some additional adjustments for your mobile site. In general, you want to remove any excessive details. Your mobile website should focus entirely on your call-to-action – whether that’s getting users to call your business, fill-out a contact form, join a mailing list, or make an online order.
+
+Click-to-call buttons are especially helpful if you want mobile visitors to dial your business. This is a button that – when clicked from a mobile phone – automatically populates your business’ phone number into the visitor’s dialpad. An embedded Google Maps widget is also key for customers who are browsing on-the-go, as they can quickly bring up navigation to your store.
+Step 4: Decide on a Logo
+
+The colors, font, and style of your logo will affect the design of your website. This is because you want a consistent theme between your logo and web pages.
+
+If you already have a logo that you are using in the offline world, then perfect. Find the digital file, or create a high resolution scan to use on your website. If you do not already have a logo, or want to upgrade from your existing design, there are three key ways to create one:
+
+    Do it Yourself: There are a number of logo design software out there that will allow you to create your own logo. We recommend Tailor Brands if you want an easy way to create an appealing logo. Once you create your logo, you can subscribe and gain access to branding tools, including seasonal logos, branded social media posts, branding landing pages, and more. You can try it out for free, and if you find a design you like, you can download it for as little as $2.99. Click here to start designing your logo.
+
+Visit Tailor Brands
+Tailor Brands
+
+A Tailor Brands logo on multiple products
+
+    Use Fiverr.com: Fiverr.com is a site that matches you with all kinds of service providers who are willing to do projects, including logos, for just $5. If you use the $5 option you will have to wait a couple of weeks to get your logo. For around $20, you can generally get it that same week. If you find a designer with a portfolio you like, this is easily the best option for the money.
+    Use 99Designs.com: 99Designs.com runs contests where multiple designers compete for your logo and other design business. This is a great option because you get to see many different professional and creative designs (It’s how we found our logo at Fit Small Business!), yet only pay for the one you wind up choosing. The price on 99designs ranges from $299 to $799 depending on how many designers you want competing and the quality of those designers.
+
+Step 5: Design Your Website
+
+Now that you have all the pieces for your small business website ready, it’s time to put them all together into a nice looking website.
+
+It’s been shown that it takes someone less than 3 seconds to decide whether to stay or leave once they hit your website, so it is imperative that you make a good first impression. Here are a few tips to ensure your website is keeping people engaged:
+
+    Have clear navigation – You want people who visit your site to instantly know what your business is about and where to go to learn about your products or services, find pricing, and contact a representative. If your site is not clear, people will get frustrated and exit out.
+    Use call to action buttons – Implementing buttons with clear actions will immediately attract the user’s eye. This helps you to lead the person to take your desired action.
+    Make sure your site is loading quickly – People are impatient, and if your site takes even a fraction of a second too long to load, people will give up and look elsewhere. Make sure your web host provider, like Bluehost, has fast load times.
+    Keep it minimal – Don’t overdo it with the design and definitely don’t feel like you need to cover every square inch with information or a design. White space is your friend. By keeping the look minimal, you can focus attention on the things that you want people to really pay attention to.
+
+birds-and-stone
+
+Example of simple yet effective website from birdandstone.com.
+Consider Hiring a Professional to Build Your Small Business Website
+
+If you simply don’t have time to create a website, or if you want a unique design, there’s a few different ways to hire an expert.
+
+    tom-cameron“If you plan to outsource your website, make sure you haveaccess to it in case you need to make changes. Many of our clients have had their websites held hostage and charged exorbitant fees to make simple edits after a design has been approved. Control your digital assets by requesting account passwords for everything if you want to avoid this.”
+
+    — Tom J. Cameron, President, Digital Pudding, Inc.
+
+Hire a Designer on Upwork ($50-$300)
+
+If you’re just looking for a simple website (text, photos, videos, email capture forms, online store, etc.) you should find somebody to design it with a web builder, like Weebly. Freelance websites like UpWork have people who will design your site for around $10 – $20 per hour.
+Hire a Professional Designer with 99Designs ($1,000-$4,000)
+
+If you want to create an advanced website on WordPress and aren’t happy with any of the templates available, or don’t have the skills to customize one, hiring a designer is another option.
+
+Just as you can get a logo designed by 99Designs.com, you can also have your full website designed through this site. The concept is the same: you submit a brief on what you are looking for and get back anywhere from 20 to 60 designs. You only pay for the design you choose, and the price ranges from $599 to $1,599, depending on which package you go with. We used 99designs here at FitSmallBusiness.com for our own website – so if you want to see an example of a 99designs website, you’re looking at one!
+
+After you have chosen the winning design, you will need to find someone to code the design for your website. 99designs has coding partners that will be able to do this for you and who have experience working with templates from 99designs. Typically the cost to code 1 responsive page (a page that also works on mobile) is $300, and each inner page (all pages other than the homepage) costs around $150.
+
+To learn more about the costs involved when a professional creates your website, view our complete guide to website costs.
+Bottom Line
+
+To create a small business website, the least-expensive and most versatile option, by far, is to use Bluehost. You can get a domain, professional WordPress website and business email accounts for just $2.95/month.
+
+That said, those looking for a simpler and faster solution should consider Weebly. At still a very good price of $12/month (domain and email not included), Weebly gives you fantastic user-friendly system to design a website AND attentive customer support.
+
+At Colorlib we spend a great deal of time reviewing products and providing good reading content for our readership. Many of whom are familiar with the workings for a website running on WordPress. This guide is intended to help anyone who is creating their first website, likely with WordPress. It’s the platform we recommend and use for our website.
+
+A step by step tutorial – we start off with finding the right content management system, choosing a domain name, then the right web hosting service, adding the right themes, plugins and customizing your site’s appearance. By the time you are done with this how to make a WordPress website for beginners guide you’ll have a full fledged website ready to go!
+This guide contains three simple and easy-to-follow steps:
+STEP 1
+
+Choose the right platform for your website
+
+STEP 2
+
+Choose the right website name (domain) and hosting
+
+STEP 3
+
+Configure your newly created WordPress website
+
+Step 1
+Choose the right platform for your website
+What is a Content Management System?
+
+A content management system (CMS) in simple terms, is a platform of sorts or a mechanism which permits you to create your content and publish it on a website. Let’s say that it is a coat hanger stand with the coat being your content.
+
+It is software that is installed on your host’s server. Your host provider will likely have a one click installation process to help you get your CMS installed. Once it is installed, you can log in to your site as the admin and add photos, text and other content. You can use the content you’ve added to create blog posts and other forms of content like a product page or display a work portfolio on your website.
+
+A CMS is way more than just a means to an end, you can install a theme which is a modified template to suit the specific niche and purpose of your site. With the template added, you can customize the appearance of your site. You can add plugins to add function to your site, for example a social sharing plugin to help spread the word about your site via social networks.
+
+All of this and more can be accomplished with a Content Management System.
+Which CMS is best for you?
+
+An overwhelming majority of websites use WordPress. The other two options that lag way behind in comparison to WordPress (certainly in popularity) are Joomla and Drupal.
+WordPress
+
+The ideal option for someone who’s creating his or her first website. It has considerable scalability and works well with low and medium traffic websites. We receive 1.5 million views every month and we run WordPress, so that gives you an idea of what medium traffic constitutes if you were wondering. Even large websites such as TIME Magazine, CNN, TED, Techcrunch, NBC and others use WordPress to server millions of pageviews each day.
+
+WordPress has a great number of points that can be made in favor of its use.
+
+    Easy To Install: Most hosting services have one click installation options for WordPress given the number of people who use it.
+    Strong Community & Open Source: It is free and used by a lot of people. There are a plethora of free themes and plugins that you can leverage for your site. Apart from the freebies, premium themes and plugins are cheap and come with excellent support services from their providers. If you ever have a doubt or a problem a simple Google search can answer your query. If fact, I’ll go so far as to say you’ll find the answer to your doubts answered by the first three results of a Google search. A strong community will aid in your WordPress initiation process should you ever encounter any hiccups. And you can always drop your comments here either Aigars or me will be sure to respond to the at the earliest opportunity.
+    Ideal For Non tech savvy online entrepreneurs: Most of the products associated with WordPress, such as themes and plugins are fairly straightforward and intuitive to use. Installing a Content Management System like WordPress is only the first step of the process, there is much more to website creation beyond that. Like WordPress which is easy to install and configure, the tools that you’ll require to make your website whole are easy to handle.
+
+Two not so quite favorable things about WordPress
+
+    One drawback of WordPress, it may become unwieldy if your site grows far too large and receives an enormous amount of daily traffic. The cost of your hosting goes up. But we are talking about traffic in the order of millions here and it isn’t something you should let bother you for now.
+    Another potential problem is the quality of free plugins and themes. While most are good and have fairly high security standards, you’d should be wary of unknown third party plugins. WordPress is a secure platform out the box, but adding third party software while exercising poor judgement is a bad idea. That being said security vulnerabilities are generally fixed as soon as they are detected.
+
+As you can see WordPress is by far the most popular content management system and is used by 65% CMS powered websites worldwide.
+
+The thing you need to know is all CMSs have one drawback or the other. And for a new web admin, WordPress is the best way to go! But I’ll talk about Drupal and Joomla, all the same. You should certainly be aware of them, should you decide to switch your CMS at a later point in time. And it will also tell you why perhaps Joomla and Drupal are not best suited to the needs of beginner.
+Drupal
+
+Unlike WordPress, Drupal is not too well suited for the technically inept or a first time website developer. Drupal is an open source CMS and is largely utilized by big corporations with vast websites and high traffic loads. It has its own customization possibilities with themes and plugins created to add value to Drupal sites. Drupal websites are a bit faster and little less taxing on the host’s server resources.
+
+But if you’re new to web development, it isn’t for you. Why? It is more complicated than it needs to be to meet your requirements. It is designed for complex, vast websites with high traffic loads, which your new website will not be to begin with. Given that, there is no need to add to the difficulty of the website creation process unnecessarily.  And besides, you can always switch to Drupal at a later date.
+Joomla
+
+Open source and free like the previous two platforms. It is a tad better than the other two when it comes to creating a community of users (like a small social network or tight knit community for your readers) and is far more amenable to creating social websites with a lot of interaction and engagement from users. It is easier to handle than Drupal and offers more than WordPress in terms of performance and tweakability.
+
+And again my reasons are the same for not recommending it for you, unnecessary complication that you do not need.
+WordPress – Probably the best option for you!
+
+If you are starting off with a new domain name with no traffic so to speak of, you are better off with WordPress. It is exceedingly easy to use, it is free and comes with an enormous number of premium quality free themes and plugins. The cost of hosting is low and many hosts provide for easy one click installation of WordPress. And since a growing percentage of online entrepreneurs do not know how to program in HTML, CSS and PHP, WordPress is the best choice as it offers excellent customizability even to WordPress newbies.
+
+Now that you have chosen the best platform for your website you can proceed with the next step.
+
+Step 2
+Choose the right website name (domain) and hosting
+
+Before you choose a domain name, you’ll need be sure of the niche you’d like to concentrate on. Selecting a niche area to focus on, is an important task in and of itself. To create a revenue generating website it is critical that you research the target keyword pool and the niche it is derived from. For the time being, just make sure it is something you like and are genuinely passionate about. And ensure that you have reasonable expertise in the subject matter involved.
+
+You can literally register any available (not registered yet) domain name but here is something I recommend:
+
+    Business website – If you are making a website for your business it would be best to choose a domain name that is your company name or brand. An example domain name would be YourComapanyName.com or YourBrandName.com
+    Personal website – If it is going to be your personal website it would be great to go with com
+    Hobby website – The sky’s the limit 🙂
+
+Most popular domain names extensions (the end part of website address, like .com) are .com, .org, .net, but in recent years a huge amount of new domain extensions have been introduced (Wikipedia). Now you can register crazy domain names such as YourCompanyName.pizza, YourCompanyName.green, or YourName.ninja.
+
+However, for your first website I recommend to stick with .com, .net and .org. New domain extensions haven’t gone mainstream yet and might confuse your visitors. Even some social networks, services and apps have problems displaying these new domain names that’s why I advice to avoid them, at least for now.
+Choosing The Right Domain Name
+
+The next step in our process involves choosing a domain name. A domain name is basically the URL one types into a browser’s address bar to visit a particular website.
+
+Getting the right domain name is crucial. A few things you need to keep in mind while considering domain name choices.
+
+    Short – Shorter names work better when it comes to remembrance and are easy to type as well.
+    Brandable – Remember your domain also runs to your brand, make sure it isn’t memorable for all the wrong reasons.
+    Memorable – People forget easily, come up with a name that first time visitors to your site are likely to remember.
+    Catchy – You want a domain name that rolls off the tongue and describes what you do.
+    Easy to type.
+    Includes keyword (optional) – Identify the right keywords or combination of keywords. The closer your domain name is to your site’s niche, the better for search engine optimization (SEO)
+    Niche specific (optional) – If you are writing a website about a specific niche check if there are popular abbreviations that you can use. For example, in WordPress there are many highly ranked websites with “wp” as part of their name. WPEngine.com, a managed hosting service for WordPress.
+
+Funny domain name mistakes
+
+Here are some domain names someone have registered without realizing what a huge mistake they have made:
+
+    Speedofart.com – Speed of Art
+    Choosespain.com – Choose Spain
+    Gotahoe.com – Go Tahoe
+
+Hosting
+
+You really have two options when it comes to hosting provider types recommended for WordPress newbies.
+
+    Shared Hosting
+    Managed WordPress Hosting
+
+I do not recommend anything other than a shared hosting plan for first time webmasters. All other forms of hosting that you may have heard of like Virtual Private Hosting (requires reasonable technical know how), managed WordPress hosting (too costly) might not be the right choice for your first website. As your knowledge and business grows you might consider VPS or fully managed WordPress hosting but let’s leave that for another post.
+
+Shared hosting is the way to go and later we can talk about upgrading your host. We’ve recommended two shared hosting services and have also added elaborate installation processes for WordPress with both of them. Both hosting providers offers domain registration and website hosting and that’s exactly what we need to create an awesome website.
+BlueHost
+
+To make WordPress installation process easier we have created a short video that will guide you through installation process.
+
+Click here to visit Bluehost and proceed with your first website setup.
+
+If you had some problems understanding setup process outlined in video you can follow steps below.
+
+    Choose the right hosting page. I’d suggest the starter package. It offers plenty of speed, performance, functionality and storage for your first website. You can upgrade your hosting plan as your website grows>
+
+    bluehost pricing options
+    You will be prompted to choose a domain name as you can see in example below. Double check your domain name to avoid typos.
+
+    bluehost - choose your website name
+    And on the next screens, enter your personal information and credit card details. And complete payment.
+
+    signup-to-bluehost-hosting
+    In Bluehost cPanel (administration panel), find a button which says Install WordPress
+
+    bluehost-cpanel-demo
+    Click on a green Install button to proceed with WordPress installation
+
+    one-click-bluehost-wordpress-instal
+    Now select if you want to use your website with or without “www.” at front of your website name (www.YourWebsite.com or YourWebsite.com). If you can’t decide you can leave it as is. It can be easily changed afterwards.
+
+    choose-www-domain-name
+    The details for the WordPress installation like email ID, username and password can be set. And tick all the necessary conditions under a licence agreement.
+
+    advanced-wordpress-bluehost-setup
+    And install.
+
+    WordPress installation in progress
+    Once installation is complete you will see a clear message on top saying “Your Install is Complete!” and button saying “View Credentials”
+
+    wordpress login info bluehost
+    By clicking on that button you will be sent to a page where you will be able to find your newly installed WordPress login credentials.
+
+    WordPress login credential reveal on Bluehost
+    Now you can login on your website by clicking link that says YourWebsitName.com/wp-admin.
+
+SiteGround
+
+SiteGroud’s shared hosting plan has a similar, equally easy to use WordPress installation and domain registration process. The site asks you whether you have a domain name or need to register one, in our case since you are creating your first site you need to register a domain.
+
+Following the domain registration you can follow this easy to use this three step tutorial for a guided WordPress installation. It is best to select “Get WordPress Preinstalled in this account” and you will not need to get your hands dirty. You’ll need to set admin email ID, username and password, you’re set!
+SiteGround vs BlueHost
+
+Really anyone’s pick, I suggest that you have a look at both and decide based on which ever domain registration and WordPress installation process seems easier. But personally I feel it doesn’t matter much and you shouldn’t worry too much over which of the two hosting services to go with.
+
+If you’d like a far more elaborate list of shared hosting service providers, check out our WordPress hosting guide.
+
+Now that your domain is registered, hosting paid for and your WordPress installed. What’s next?
+
+Step 3
+Configure your newly created WordPress website
+WordPress Admin Screens
+
+    Go to yourwebsitename.com/wp-admin.
+    Type in the username and password you previously entered during the WordPress installation process.
+
+wordpress login screen
+
+Your WordPress admin menu is available on the left side of the screen. Allowing your cursor to linger over them will open sub menus.
+
+    Dashboard
+    Posts
+    Media
+    Links
+    Pages
+    Comments
+    Appearance
+    Plugins
+    Users
+    Tools
+    Settings
+
+That is a lot of stuff which you deal with. But I’ve promised to get your site up and running. So for the purposes of this post I will not be talking about Settings, Tools, Users or Your Dashboard.
+
+I will talk about the rest of the menu options which are part of your WordPress menu. Let’s get started.
+Customizing your site’s Appearance and activating a WordPress Theme
+Themes (Appearances > Themes)
+
+    Open Appearances > Themes. From here on have a look at the heading of each subsection if you have doubts with regards to accessing a particular part of the WordPress menu from the admin screen.
+
+    install new wordpress theme
+    And click on the “Add New” button on the top. And choose from one of the themes displayed or search for a specific theme. For a list of awesome free themes you should check this page.
+
+    install-sparkling-theme
+    Install a new theme that you fancy and activate it.
+
+    wordpress-theme-instalation-process
+    The next part involves customization of a theme. You can access this under from Appearance > Customize. You can do a number of things to your site’s appearance from here. But that’s not the crux of this post, a theme is sufficient to start a website.
+
+    wordpress-theme-customizer
+
+Widgets (Appearances > Widgets)
+
+Widgets are preset modules or pieces of code that add to a certain function which will prove useful for your website in some capacity or the other. Your sidebars, footers and headers can be loaded with widgets.
+
+wordpress-widget-manager
+
+As you can see in the above screenshot, there 6 widgets in the sidebar.  These widgets include a search bar, a recent posts widget, recent comments, archives, categories and meta. Then you can see 4 footer areas where you can add widgets just the same. The number of footer, header and sidebar areas available to you depends on the theme you are using.
+
+Widgets are not plugins, but they are small chunks of code that add a bit of function. Sometimes it may help with navigation, sometimes with social media, you can even use to add HTML to a text widget which will function as coded to do so. So widgets are a very useful tool but you need to learn a bit about them before you can use them to the fullest.
+Menus (Appearances > Menu)
+
+Menus are an extremely important for any website. They offer a means to navigate your site and its content. After all, what’s the point in creating captivating content if your visitor can not find it easily on your site. Bad menus and navigation can lead to a high bounce rate (the number of visitors as a percentage who leave your site after just viewing just one page).
+
+You may have seen websites with menus on the top or the side and even at the bottom. We can do all of this.
+
+You’d like to include pages like “About”, “Blog”, “Contact” and “Our Services” as part of your primary menu. Any page you’d like displayed on your menu can be added. The number of menus and their placement on your site depends on your WordPress theme.
+
+You can add all the stuff that you see on the left to the menu ranging from pages to products as part of your menu. Again what you can include as part of the menu depends on your WordPress theme.
+
+wordpress-menu-manager
+
+A good menu,
+
+    Is concise and minimal.
+    It is a representation of all your site’s offerings.
+    Very intuitive to use and maneuver around your site.
+
+Keep that in mind and you should be fine.
+Background (Appearances > Background)
+
+Many website choose to have plain single color background and I am big fan of that.
+
+The Colorlib blog has a plain white background and it keeps things simple. But the homepage of the site is pretty awesome with a purple background and our tagline.
+
+wordpress-background-color
+
+ 
+
+Websites that are media heavy, examples would include photography sites or portfolio websites have great backgrounds. If you want your website to send across a powerful visual cue to your audience use a powerful background image. Else you can simply opt for a plain color which is appropriate for any blog that emphasizes readability.
+
+A background should not be confused with a slider image which is basically a constantly changing image that moves across or your screen or changes with fancy animation.
+Adding New Plugins (Plugins > Add New)
+
+Plugins are a scripts or pieces of code written to perform a very specific function or set of functions on your website.
+
+A simple example would be social sharing plugin, it helps share your content across different social platforms and helps get the word out that your content is awesome. Similarly, people have developed plugins for search engine optimization, security purposes, creating and maintaining a portfolio of images, to create contact forms, for caching the list is endless.
+
+If you want to read a detailed list of plugins that we think is absolutely essential, read this comprehensive list of essential plugins.
+Adding Pages (Pages > Add New)
+
+Pages on a website help divide your website into a requisite number of pieces to present the different sections of your site’s content. Pages are to themes like widgets are to plugins. With pages you can create specific template styles that can be called on command for different purposes that require the same or similar design. Pages are more than posts and are used for specific purposes on your site. You can create pages specifically to cater to the requirements of a Contact Us Page or perhaps create landing page.
+
+add-new-page-wordpress
+
+And you are greeted by a New Page, which you can now fill up. From this new screen, you can create a new page and assign page attributes.
+
+If you either need to create a template that you’re likely to use often or need to recreate a section of your site for a specific purpose, creating a page is the way to go.
+Comments (Access from WordPress menu)
+
+Websites need readers to make them successful. Comments are a very powerful means to establish a great debate on your site and this only further adds value to your site. Hardly, one percent of the traffic that visits your site will ever comment. And that is assuming that the content is great to begin with. Driving interaction with passive readers on your site is difficult and takes time and effort.
+
+A great post with a pre-existing comment history helps your site receive more comments. Aigars wrote an awesome post on Colorlib a while back, yet till this day it still keeps receiving comments and continues to be a great source of traffic.
+
+WordPress-comments-preview
+
+And remember, WordPress allows you to link your site when you comment on another person’s blog. And this may send visitors your way, if you play your cards right and make genuine attempts to offer something constructive. For this same reason, many people will leave their comments on your blog as well.
+
+If I feel your content is great and a particular post that you’ve written is awesome, then I’ll almost jump at the chance to leave my comment first and best anyone else to first comment. Because I know eventually it will lead a few visitors back to my site.
+
+Comments are a great way to build an awesome readership and a loyal following for your site.
+Adding Content
+
+Content is king may be a cliched line. But it is true now more so than ever before. There are many more websites now than there ever were before. You name a niche, any niche and it is bound to be saturated to the hilt with websites producing content about said niche. WordPress is a very profitable niche. Why? 50% of websites use it and many of them are new to WP. WordPress newbies and even intermediate level users require a few resources to help them get started up and make changes to their WordPress sites, not too dissimilar to the content on Colorlib 😉 But a website like Colorlib works well and generates revenue only when we offer value to our readers.
+
+We publish a great number of articles on premium WordPress themes and should you choose to buy one of them after clicking on our links we receive a small commission on your purchase. But truth be told, our most popular and widely read articles aren’t the ones that describe premium WordPress themes or plugins, rather they are WordPress tutorials and posts dedicated to free themes, plugins and other WordPress related articles. Because it is only when we offer value to readers that our site grows.
+
+So based on your site’s niche and your expertise,  you need to produce content that genuinely offers value to would be readers. If you intend to create your site purely for monetary purposes, it will not be successful in the long run. No wait a minute, it may still be profitable but certainly not as successful as it could have been had you tried to genuinely help your audiences. So focus on good content.
+
+Pick your niche and offer great value to your readers. And watch your traffic grow steadily and if you are lucky, perhaps even go through the roof!
+
+So how do you publish your content on WordPress? What are the formats available to you apart from just plain ol’ text?
+Posts (Posts > Add New)
+
+The beating heart of your site or most sites anyway. At the end of this tutorial when all’s said and done, you’ll be here to populate your site with posts. WordPress has a very easy to use posting mechanism and this one of the reasons, it is so popular.
+
+You have two ways in which you can write your posts: one is the visual editor and the other is HTML editor. You can opt to use the visual editor to begin with, but you should know the HTML editor (referred to as text editor) is a very powerful tool to help you create the right formatting for your posts. The sooner you are comfortable with the text editor, the better of you will be. You may notice I am using the visual editor and truth be told, once I’ve added all the necessary formatting I prefer the visual editor.
+
+add-blog-post-to-wordpress
+
+The visual editor is very much similar to most text editors and permits you to add bold / italic effects to your text, change its font, add bulleted lists and numbered lists, align content differently and add hyperlinks. There is also a distraction free writing mode which gives you a fullscreen version of the editor.
+Categories (Posts > Categories)
+
+Categories are a means to divide your content. Categories are important when your site publishes content on a number of issues. You can add categories from your Post editor or you can access it under Posts > Categories.
+
+wordpress-categories
+
+Now you can name the category to create one and then you can add a slug which is basically a URL add on of sorts for all your site’s posts on that specific category. For example, if I know that Colorlib produces a lot of theme collection content, I can Google search Colorlib + collections and the first search result link is – https://colorlib.com/wp/category/collections/ . With this I can view only the posts that have been published under the category, “Collections”.
+
+So it is a very effective way to divide your site’s content and make finding stuff on your site much easier for a visitor.
+Tags (Posts > Tags)
+
+Tags are very similar to categories, except each post generally has its own set of tags. Tags are a tad more specific than categories but that apart they are the same and they aid in helping visitors find your content more easily.
+Media (Media >Add New)
+
+Media as in photos and videos are important to normal websites. They are even more so for media heavy websites. Adding media is easy with WordPress. You can either add media from Posts or you can add media directly to the media library.
+
+You can add the image title, a caption, description to the image. But it is also important you also add the alt text which helps search engines identify your image. It is a small step in ensuring good search engine optimization.
+
+There a lot of effects and stuff you can do to your imagery like make it pop up or use a lightbox with WordPress plugins. But that’s for another day.
+Your Profile
+
+Setting up your WordPress profile. This is rather easy to deal with. You can edit your profile from the “Edit Your Profile” on your WordPress admin screen on the top right hand corner. You can describe yourself and add the necessary social media links as well.
+
+And to add a profile picture for your WordPress ID, you’ll need to get a Gravatar account. You’ll need an account from WordPress.com with which you can login to your site’s admin panel.
+Just Start!
+
+We have far too many inhibitions, starting stuff is one of them. It opens the door to failure.
+
+Creating the website and generating revenue is no joke. It is hard work, sometimes seemingly unrewarding work.
+
+Over the next few weeks and months, we’ll be launching our “Getting Started With WordPress” post series to help you out.
+
+And apart from that if you need anything else, do let us know in the comments below! Aigars and I will always be happy to help you out.
+
+
+Table Of Contents
+
+This article will be quite lengthy, so I thought it would be easier for you to see what we’ll be talking about in advance. If you already know about some of these, use it as navigation to skip to the parts you’re interested in.
+
+    All about domain names
+    WordPress.com and WordPress.org
+    Choosing a hosting package
+    Setting up a domain
+    Installing WordPress
+    A note about WordPress
+    Choosing a theme and plugins
+    Essential plugins
+    Keeping WordPress secure
+    Essential pages
+    Website analytics
+
+All About Domain Names
+
+The domain name identifies your website to users. Smashing Magazine’s domain name is smashingmagazine.com. The domain name shouldn’t be confused with the URL — domain names are a part of URLs.
+
+To further our understanding, let’s analyze a URL that has all components and see what’s what.
+
+
+http://www.blog.mywebsite.com:80/post/awesomeness.php?edit=false&view=true#comment-5
+Copy
+
+This URL has five distinct parts:
+
+    http:// is the protocol that tells browsers how to retrieve data. Some well-known ones are http, https and ftp.
+    blog. is a subdomain that allows you to segment your website into different bits and pieces. You could use mywebsite.com/blog/ as well; it really depends on what you’re trying to achieve.
+    mywebsite.com is the domain name. The www (which comes before the subdomain, if any) is optional; you’ll need to decide on that. For the most part, it’s a matter of preference, but it can have an impact on large websites. The end of the domain name (in this case, .com) is called a top-level domain (TLD). Others are .net and .org, country-specific ones such as .co.uk, .hu and .me and brand new ones like .xyz, .news and .media.
+    80 is the port number used to gain access to the resource on the server. This is 80 for HTTP and 443 for HTTPS, by default, which is why you can omit it in URLs. Ports are most often seen in local development environments.
+    /post/awesomeness.php is the path to the resource on the server. In this case, there may well be a folder named articles and a file named awesomeness.php, but the path doesn’t necessarily point to an actual file on the server. More often than not, the server and/or the code will figure out what you need based on the URL, rather than the URL linking to an actual file.
+    ?edit=false&view=true are parameters — two of them, actually. The first key-value parameter is preceded by a question mark; all subsequent pairs are preceded by ampersands. The server-side code picks up on these values, and the values can be used to modify views or save data, for example.
+    #comment-5 is an anchor that can be used to take the user to a specific place on the page right away. If you visit the link above, you will be taken lower down on the page to a specific comment.
+
+If you don’t understand all of that, don’t worry about it; a lot of this isn’t relevant in everyday use. The only part you’ll need to focus on is the domain name because this is how users will refer to your website.
+Choosing The Right Name
+
+Choosing a domain name might be difficult, especially considering that the top tips for domains always include keeping it short and easy to type. If you already have a brand consisting of proper English words — like “Vintage Shoes” — then the domain name will probably already be taken.
+
+You can find all sorts of tips on choosing a domain name, but it almost always boils down to keeping it short and memorable. This is definitely good advice, but always have a brand strategy in mind as well.
+
+Smashing Magazine has a long-ish domain name, yet it is unlikely that much traffic is lost due to this — or that more could be gained by switching to smashingmag.com. Branding is, ultimately, the most important factor. A short and sweet domain name is great, but in the end, what you do with it is what counts.
+
+One last note of caution: Make sure not to infringe on any copyrights with your domain name. Nolo has a good read on avoiding trademark infringement when choosing a domain.
+
+    Slack
+    All the tools your team needs in one place. Slack: Where work happens.
+    Learn More
+
+Buying A Domain Name
+
+Most of the places where you can buy a domain name also allow you to grab hosting. As a rule of thumb for security, keep your domain and hosting separate.
+
+I have to confess that I don’t always do that, for convenience’s sake, but the rationale is this: If someone can get into your hosting account, then they can steal files and data. If your domain is registered in the same place, then they could potentially transfer the domain away, leaving you with nothing.
+
+If this is your first project, I suggest buying a domain name with the hosting provider you’ll be using (see further below for hosting tips). It will make the process easier, and you can always transfer the domain to another company if needed.
+
+Most hosts have an easy interface for buying domain names: Just search for something and follow the on-screen instructions. When buying a domain, keep two things in mind.
+
+If you’re serious about branding and you have the funds, you might want to buy a number of TLDs with the same name. That is, if you are registering mydomain.com, then you might want to buy the .net, .org, .info and the local version as well (such as .co.uk).
+
+You will also have the option to choose the length of your registration, the default being one year. There has been some debate and uncertainty about how domain age and registration factor into search engine optimization (SEO). Matt Cutts, a Google engineer, has said, “I wouldn’t worry too much about that,” which probably means you really shouldn’t. Again, if you have the funds, registering for five or six years is a lot more convenient.
+Wordpress website: A number of domains in my Media Temple cart
+A number of domains in my Media Temple cart. (View large version)
+The Difference Hosting and Domain Registration
+
+Before moving on, I want to make the distinction between domain registration and hosting very clear. They are two completely separate things; many companies just happen to offer both as a service.
+
+The situation is similar to city parking garages that also offer cars for sale. You could buy a car from one of them and also store your car in their garage, but you could also store your car in another garage because the car is legally yours.
+
+    DigitalOcean
+    Do more with Droplets, the scalable compute platform that has add-on storage, security, and monitoring capabilities.
+    GET STARTED
+
+Hosting is essentially a place to put your website’s files. Registering a domain means you’ve gained legal ownership of a piece of Internet real estate.
+WordPress.com And WordPress.org
+
+If you’re new to this, you might be confused about the difference between WordPress.com and WordPress.org. To clear this up, let’s start with what WordPress is.
+
+WordPress is an open-source software package and is free to everyone around the world.
+
+WordPress.org is the central location for the WordPress software project. You can download it, view the documentation, ask and answer questions in the forums and more.
+
+WordPress.com is a service that offers websites that run on WordPress. You can sign up for a free account and get a fully functioning website. You will only be able to use a WordPress.com subdomain — such as mywebsite.wordpress.com — but for a first-time user, the restrictions are minimal.
+
+The situation is somewhat similar to digging a water well. In my country, it is fairly common to have water close to ground level, which is great for watering your garden for free and not stressing the municipal water system.
+
+You could dig a well for yourself if you have the machinery and the know-how, but you could also get a professional to do it. You’re not actually paying for the water or the well itself — you’re paying for the service of forming the well.
+
+This is just like WordPress.com. You’re not paying to use WordPress the software. You’re paying for use of a subdomain, file hosting and management of the software (which is kept up to date automatically).
+
+If you want to test the waters and get started with WordPress with minimal fuss, then WordPress.com is a great way to go!
+Plans available from WordPress.com
+Plans available from WordPress.com. (View large version)
+
+The free version gives you everything you need. When you’re ready to step into the realm of advanced customization, with your own domain name and other options, then you can go for the premium version or get your own hosting plan elsewhere.
+Choosing A Hosting Package
+
+Choosing a hosting package can be difficult, even for seasoned veterans of the ’net. In this article, I’ll omit options that are clearly for huge websites or ones with highly customized needs. Switching hosts is easy enough, so you can change at any time.
+
+There are three ways to go if you’re looking for a good package:
+
+    shared hosting,
+    VPS hosting,
+    managed WordPress hosting.
+
+The one you pick will depend on your website’s needs and your funds. Let’s look at what these are and their pros and cons.
+shared hosting
+
+shared hosting is an attractive option because of economies of scale. A single server can house hundreds of websites, which translates to hundreds of users. A single server is not that expensive to run, so the costs can be split between all users of the server.
+
+Because of this, you will see shared plans for around $5 a month. While this is a great price to get started, there are numerous downsides — the largest of which is the bad-neighbor effect.
+
+Because hundreds of websites are running from the same hardware, what happens if there’s a coding bug in one of them that causes it to use up to 80% of available memory? The remaining websites (which could be hundreds) will grind to a halt and could become unavailable. The same issue arises with security; some attacks aim for a single website and end up affecting all of the other websites on the same server.
+
+This boils down to decreased security and poorer uptime. What’s most frustrating is that these problems are unpredictable.
+
+The only reason to use shared hosting is if you are on a very tight budget and every dollar counts. It can work just fine, and your website will probably not go down for hours or days on end. Still, your website going down just as a potential client is viewing it could ruin a potential deal.
+
+If you think shared hosting is for you, then a number of companies are available to choose from. I recommend testing the support services of these companies; with shared hosts, these can be your most important asset.
+
+    MediaTemple
+    GoDaddy
+    A Small Orange
+    SiteGround
+
+VPS Hosting
+
+A virtual private server (or VPS) is similar to a shared environment, without the negative side effects. The hardware is still shared, but usually among a few users only, and the hardware is partitioned equally.
+
+Another account on the same server cannot use up to 80% of the resources. If four accounts are on the server, each one may use only 25% of the assets. This effectively takes care of the unpredictability issues.
+
+Attackers also have much more trouble accessing other accounts on the server through a single website. It is possible in very rare cases, but it is not something you should worry about.
+
+Because you have your own corner of a server, you are free to do more with your account than you can with a shared host. This includes more server administration options, installation of tools, SSH access and more.
+
+While some VPS accounts cost $5, you will generally pay around $15 to $20 per month. If you have the money, then definitely do choose either managed WordPress hosting or a VPS over a shared environment.
+
+VPS gives you the most flexibility out of the bunch. If you plan on trying out other content management systems, such as Joomla, Drupal or Laravel, then managed WordPress hosting is out of the question because it supports only WordPress.
+
+In a nutshell, if you’d like to be able to meddle with your server, install other packages and learn about your server, then go for a VPS.
+
+A bunch of VPS providers are out there. Here are some of the best-reviewed ones:
+
+    Vultr
+    MediaTemple
+    A Small Orange
+    Linode
+    SiteGround
+
+Managed WordPress Hosting
+
+Managed WordPress hosting is a bit different because it’s not a different way of using server technology. A managed WordPress package is actually very similar to getting a website from WordPress.com, which itself can be considered a managed WordPress host.
+
+In this case, the server’s entire architecture is tuned to work with WordPress as efficiently as possible. From memory to processors to server software and server-level caching, everything is geared to a single software package: WordPress.
+
+This makes your website a lot faster and more secure as well. Automatic updates, server-level caching and truly professional WordPress-specific support are just some of the benefits of managed WordPress hosting.
+
+The downside is a minor loss of flexibility. You can’t install any other platforms on these systems, and some plugins might be disabled by the host, usually for reasons of security or optimization. In short, you have less leg room than with a VPS. Again, if you’re new to websites, you needn’t worry much about this.
+
+If you don’t want to meddle with server settings and you just need a well-oiled WordPress website that is maintained for you, then this hosting solution is a great option.
+
+You won’t need to muck about with installing WordPress and making sure it is safe, secure and fast; all of that is built right in. You can start creating content within minutes and focus on what really matters.
+
+WordPress hosts are becoming increasingly popular. The best-known and best-rated ones are these:
+
+    Kinsta
+    WPEngine
+    Flywheel
+    Pantheon
+    MediaTemple
+
+Setting Up A Domain
+
+By now, you should have a hosting package and a domain name. If you’ve bought a domain through your hosting provider, then you can probably skip this step because it is taken care of automatically.
+
+The domain needs to be pointed to the hosting provider so that when someone accesses it through their browser, they are directed to the appropriate server. This is most often done using nameservers, sometimes referred to as account DNS.
+
+You’ll need to log into the website that you registered your domain with and change the nameservers for the domain. With Media Temple, you can add nameservers using a simple form.
+The nameserver modification form with Media Temple
+The nameserver modification form with Media Temple. (View large version)
+
+Your host will tell you what nameservers to specify. My SiteGround account has the following information:
+
+ns1.am20.siteground.biz (107.6.152.202)
+ns2.am20.siteground.biz (181.224.143.216)
+Copy
+
+Whenever you change your nameservers, you will have to wait up to 72 hours for them to take effect. The lag will also depend on where you are relative to the server.
+
+I’ve found that if the server is in the US and I’m in Europe, the website will work fine within a couple of hours when viewed from within the US. The changes usually take more time to propagate overseas.
+Websites and Domains
+
+Nowadays, especially with managed WordPress hosting, you might be a bit confused about how to add a website to your host. You might be able to add multiple WordPress installations without ever seeing a screen asking “What domain do you want?”
+
+This can work in many ways. Let’s look at a specific way to understand the difference between websites and domains.
+
+Let’s assume you have a fresh managed WordPress account. You can probably add multiple websites, and all you’d be asked is the name of the WordPress installation and your user details.
+
+Once this website is created, it can already be reached, usually through a subdomain, like wnub234.wpengine.com. This allows you to fully set up the website without even owning a domain.
+
+If you want to refer to the website with your own domain, like awesomesite.com instead of the ugly wnub234.wpengine.com, then you will need to add a domain and assign it to the website.
+
+The last step is to make sure you set the nameservers of your domain to the nameservers of your host. This way, users will be routed to the correct website when accessing the domain.
+Installing WordPress
+
+If you have a managed WordPress host, you’ll be able to do this by filling out a simple form. Depending on your account type, you might be able to add any number of WordPress installations to your account. With Kinsta, you’d fill out a quick form and then you’d be done:
+Creating a new website on Kinsta
+Creating a new website on Kinsta. (View large version)
+
+If you have a shared or a VPS account, then you have two choices: one-click installation or manual installation. Many hosts offer WordPress installation tools to minimize the work in this step.
+Apps available for automated installation
+Apps available for automated installation. (View large version)
+
+If you need to take the manual root, don’t worry: It’s not difficult! All you’ll need to do is download WordPress, upload all of the files to your domain’s folder, create a database, point your browser to the domain and follow the on-screen instructions.
+
+The WordPress Codex has a complete installation guide. If you’re stuck or need help creating a database, take a look at it and you’ll be done in no time!
+A Note About WordPress
+
+It’s time to get our hands dirty and start setting up our actual website from within WordPress. First, I want to mention a couple of things about how WordPress works.
+
+I’m sure you’ll notice that many people say they dislike WordPress for various reasons, such as bad security, a theme not working or their website becoming very slow.
+
+In reality, WordPress is a great system — just like many other systems, no matter how small or large the website. The problems you hear about, like poor security, pages grinding to a halt or a bad user interfaces on the front end, are almost exclusively due to poorly coded plugins and themes.
+
+As a result, the theme and plugins you choose matter a lot. You know how some people have really slow computers and complain about them all day? Then you take a look and see that they’ve installed every single piece of shady software available? The situation is kind of like that.
+
+Coming across a theme or a plugin with malicious intent is pretty rare. More often than not, the problems one creates are caused by sloppiness or insufficient knowledge of coding standards.
+
+What this all boils down to is this: Look for a theme and plugins with good reviews, a sizeable user base and an active development team. This will negate or minimize any negative impact on your website.
+Choosing A Theme And Plugins
+
+Choosing a theme is, in many ways, the most difficult task of all. Plugins are usually more specific: You install one to perform a single task. While themes “simply” add the visuals for the front page, testing them can be more complex.
+
+A theme has parts you might not think of testing, such as the 404 page, the search page, the archive and so on. In addition, some themes boast a lot of features, like support for WooCommerce, bbPress and so on.
+
+Code quality affects the speed of your website, which, along with the design, affects your users directly.
+
+Depending on what type of website you have (a personal blog, a store, a forum, etc.), you will also need some plugins. These work in conjunction with your theme and WordPress’ back end to provide specific functionality. Let’s go over a few common setups.
+E-commerce
+
+WooCommerce has become the standard plugin to use for e-commerce. It contains everything you need to start an online business right out of the box.
+WooCommerce is one of the most powerful e-commerce solutions
+WooCommerce is one of the most powerful e-commerce solutions. (View large version)
+Forums
+
+bbPress is a powerful — if somewhat old-fashioned — plugin for forums. Once it’s installed, you and your users can create categories and threads and post replies. Management is easy from within WordPress’ administrative back end.
+The basic implentation of a forum in the Twenty Fifteen theme
+The basic implementation of a forum in the Twenty Fifteen theme. (View large version)
+Social Network
+
+WordPress even allows you to create your own social network with BuddyPress. You get many of the same features you’re used to on Facebook: profiles, groups, activity streams, notifications, friend connections, private messages and so on.
+The basic look of BuddyPress using the Matheson theme
+The basic look of BuddyPress using the Matheson theme. (View large version)
+Selecting a Theme
+
+Once you have your base plugins (you can use any number of them together), I recommend adding some content in the back end. This will make it much easier to gauge your theme.
+
+If you’re using bbPress, create some forums, threads and answers. Create multiple users and answer different questions with each of them. If you’re using WooCommerce, add some products with nice images and fill out the details.
+
+One limitation is that you won’t know the capabilities of these plugins. This makes testing nearly impossible, especially if you’re also trying to get to grips with a theme. My recommendation is this. If you are new to WordPress or a particular plugin, always test it using a default theme, such as Twenty Fifteen. Twenty Fifteen is particularly good because it is a clean, minimal theme that is coded by the WordPress team and supports all plugins.
+
+Not all features will look perfect, but functionality-wise you will be able to test everything. Once you understand the theme and the plugin, you can choose a different theme and test the waters there. You’ll notice any missing functionality and any unstyled elements.
+
+What I’ve noticed during my 10 years of working with WordPress is that there is almost no such thing as a perfect theme, just as there is no such thing as a perfect line of clothing in a large apparel store. You might like a coat better if it was an inch longer or like your shoes more if they had a subtly different curve. The only way to get truly perfect clothes is to have them made specifically for you, which is extremely expensive.
+
+The same with WordPress themes. The reason they are usually not perfect is because they are made to serve a large user base. If a theme is perfect for you, then it probably lacks features for other people. You can get a perfect theme if you get a developer to make one for you, but that is expensive.
+
+At the beginning, I suggest settling for a 90% perfect theme. In many cases, what a website owner perceives as being imperfect does not make much of a difference to users. Website speed and easy navigation count for far more than visual perfection.
+
+Get a theme that is close enough, and tweak it using settings and plugins. Perhaps get a developer to make tiny modifications, but don’t dwell on it too much. You can always switch themes or get a theme made for you when you have the funds.
+
+There are some guidelines for choosing a good theme, many of which you can tick off with some research. The basics are these:
+
+    good design, including strong readability and easy navigation;
+    solid, secure and speedy code;
+    compatibility with the latest version of WordPress;
+    active development;
+    compatibility with popular plugins;
+    support and documentation.
+
+Premium and Free Themes
+
+Contrary to popular belief, free themes aren’t of lower quality than premium themes. You’ll find amazing and horrible themes in both categories. It comes down to the effort of the coding team behind the theme, not the price tag.
+
+In many cases, assessing the quality of a premium theme is easier. Because people have paid money for it, they will be much more likely to rate and comment on the theme than users of free themes.
+
+Many premium marketplaces also have open forums where themes can be discussed. You can even talk to the seller before buying their theme. This makes it a bit easier to evaluate.
+
+If you’d like to look at some premium theme marketplaces, here are some popular ones:
+
+    ThemeForest
+    Elegant Themes
+    WordPress.com
+    Mojo Themes
+    Creative Market
+
+Essential Plugins
+
+In this section, I thought I’d show you some great plugins that many WordPress users install without thinking. Some of these are great for displaying content, some of them add social features, some of them secure your website, and some are just plain helpful.
+All in One SEO Pack
+
+If you’d like to optimize your content to maximize the search-engine love it receives, then you’ll need an SEO plugin, and All in One SEO Pack is a great choice.
+
+Once it’s installed, you can set a lot of meta information for your website and for individual posts. You’ll be able to preview how a page looks in Google results and various other important bits and pieces that go into optimizing content.
+Some post settings in All in One SEO Pack
+Some post settings in All in One SEO Pack. (View large version)
+Dropbox Backup and Restore
+
+Backing up and restoring will be a large part of your efforts related to security. Dropbox Backup & Restore automates this task for you. It creates a full backup of all of your files and your database, either locally or to Dropbox.
+
+Whatever backup solution you use, make sure to store your backups off the server. If the hard drive of your server fails, then your backups will disappear as well, of course.
+Dropbox Backup & Restore in action
+Dropbox Backup & Restore in action. (View large version)
+VaultPress
+
+While not free, my favourite plugin for backing up is VaultPress. It was created by the good people at Automattic, the company that manages WordPress, which means it integrates with the system completely.
+
+It ties together with a backup service that takes care of everything automatically. You don’t even have to click “Back up”; the task runs on schedule, and you can restore everything with a single click.
+
+Plans start at $5 a month, which is a bargain if you rely on your website to make money. In addition to the backup service, the plugin also keeps tabs on your website’s security and visitor statistics.
+VaultPress' dashboard
+VaultPress’ dashboard. (View large version)
+Akismet
+
+Akismet comes preinstalled with all WordPress installations. It is a plugin tied to a service that ensures your website’s comments section remains spam free.
+
+The power of Akismet is that it is cloud-based. It uses data gathered about spammers across millions of websites to provide more effective spam protection than anything you could do locally.
+
+Using Akismet is free, but please consider going for the paid option if you rely on your website to make money. Akismet is a great service and deserves some love, too!
+Akismet's spam-fighting statistics
+Akismet’s spam-fighting statistics. (View large version)
+W3 Total Cache
+
+Caching can speed up a website considerably by serving static pages instead of dynamic ones. A single post will generally not change, unless you update the post or someone posts a comment.
+
+This kind of page can be saved as is, and WordPress will be able to serve the saved version much faster than by assembling the page using server-side code and database queries each time. Whenever the page does change, the saved version is updated.
+
+W3 Total Cache is a well-known and high-performance caching solution that brings the best out of your website.
+
+Note that you can tweak a lot of settings, and in rare cases some of them could slow down your website. If you look at the documentation and manipulate only a few things at a time, everything will be just fine.
+The number of subpages shows how many options there are!
+The number of subpages shows how many options there are! (View large version)
+Jetpack
+
+Jetpack is a monster plugin that has become so feature-rich that it actually takes up more space than WordPress itself. This is not a problem because it provides some genuinely great functionality.
+
+From contact forms to social-sharing buttons to improved galleries, Jetpack offers a huge range of features.
+Masonry-style gallery, enabled by Jetpack
+Masonry-style gallery, enabled by Jetpack. (View large version)
+Ninja Forms
+
+If you want to add a contact form or any sort of information-gathering form to your website, you have a number of options, one of which is Ninja Forms.
+
+You can set up all of the fields you need, add CAPTCHAs and other security measures, and then wait for the responses to flow. Best of all, responses are not only sent your way via email; they are stored in WordPress for future reference!
+The contact form on my website is powered by Ninja Forms
+The contact form on my website is powered by Ninja Forms. (View large version)
+iThemes Security
+
+One aspect of security is backing up; another is actively preventing threats. This is where a plugin like iThemes Security comes in.
+
+It monitors user logins, adds two-factor authentication, sets passwords to expire, monitors files for changes, obscures parts of the website to hide them from malicious code and much more!
+
+Most features are set-and-forget, so you can set up the plugin once and be a lot safer as a result!
+16-security-opt-small
+iThemes Security rates alerts according to priority. (View large version)
+The List Goes On
+
+Thousands upon thousands of plugins are in the repository for any scenario you could think of. Every plugin I’ve mentioned has dozens of alternatives that you might like better. It pays to try new things and keep your eyes open!
+
+Look at reviews, the latest release date, the developer’s website, documentation and the product itself to gauge whether one is right for you. And don’t forget: You can change a plugin any time if you aren’t happy!
+Keeping WordPress Secure
+
+We’ve covered many of the basics with the backup and security plugins mentioned above, but I want to dedicate a section to some simple rules to follow, because getting this right is so important.
+
+Hackers always follow the path of least resistance. They look for common flaws that are easy to exploit. In fact, you can probably get by all right by following these two simple rules:
+
+    Always keep WordPress and all plugins and themes up to date.
+    Always use strong passwords, and change your passwords every couple of months.
+
+If you follow these rules, you will bypass 99% of all attempts on your website. To circumvent the remaining 1%, you can use a variety of tactics, some of them simple, some requiring a bit more work.
+
+Smashing Magazine has a pretty extensive article on securing your WordPress website. If you are worried about security or want to do more, take a look.
+Essential Pages
+
+Now that everything is set up, you can finally start adding content! While what you add is up to you, there are some usual bits of content, even some that you may be forced to have by law.
+Home Page
+
+The home page is the most difficult to make. WordPress allows you to create a static page or a dynamic page. The default is a dynamic page that lists your ten most recent posts.
+
+If you’re creating an online resume or a corporate website, then you might prefer to present details about yourself or the company. In this case, create a page in WordPress and set it as the home page in the “Settings” → “Reading” section.
+About Page
+
+An “About” page appears on almost all websites. For a personal website or blog, it can be used to tell your story, allowing users to get to know you. For a corporate website, it would contain more information about the company.
+
+Don’t underestimate the power of this page! While you might not think that the information on there is fun, important or useful, your followers and fans might well think otherwise.
+
+If you’re applying for a job or working as a freelancer, your employer might just have a look. If they are looking for someone detail-oriented, then they will look at every nook and cranny of your website to make sure it all holds up!
+Contact Page
+
+If you want people to reach you, then a contact page could well be the way to go. You can use Ninja Forms to create a form and show your basic contact information.
+
+Many pages use Google Maps to indicate a location. This is available via a plugin such as Simple Google Maps Short Code, or you can use Google Maps’ embedding functionality.
+Required E-Commerce Pages
+
+If you want to sell products online, you might be required by law or by your payment processor to publish certain pages. These usually include the following:
+
+    terms of service,
+    refund policy,
+    privacy policy,
+    contact details.
+
+Some of this information can be added to a single page, but one thing’s for sure: Many payment providers will not approve your website unless they see this information somewhere.
+
+In addition to appeasing payment processors, you should actually give this content a close read and make sure you can deliver on your promises. Visitors will feel safer knowing they are protected by a privacy and refund policy.
+Cookie Handling
+
+In the European Union, a “cookie law” has been passed that requires websites to provide visitors with information about how cookies are used. You could phrase it to convey that usage of the website implies consent, but an information page about cookies is a good idea.
+
+If you need information about the cookie law, Optanon’s page has everything you need to understand and comply with this law.
+
+A bunch of plugins display a cookie information bar on your website without much hassle. Take a look and implement one if you’re based in the EU.
+Website Analytics
+
+Analytics for websites are a multi-pronged tool. They can be used to approach potential advertisers, to increase the value of your website and to provide insight into your visitors (which can lead to optimization) — and they’re fun!
+
+Advanced tools such as Google Analytics track the number of visitors, where they come from, how long they stay, how many pages they visit and so on.
+Location analytics in Google Analytics
+Location analytics in Google Analytics. (View large version)
+
+You can create an account with Google Analytics for free and use a plugin such as Google Analytics Dashboard for WP to add your tracking code and to display analytics data right there in the back end.
+Using Analytics Data
+
+Using analytics data and acting on it could be (and is) the subject of multiple books. Instead, I just want to share some basic thoughts on how to start using it.
+
+Once some data is coming in, you’ll start to notice trends. You’ll see when your website tends to get the most visits and when it gets the least. Use this data to your advantage. Post new content when you get a lot of visitors, and schedule maintenance and downtime during off periods.
+
+If you’ve made a change to your website or published a particularly promising bit of content, keep track of your statistics to see the effect. If visits go up, then you know you’ve done something right; if they go down, something might be wrong.
+
+If you’re interested in learning more, Smashing Magazine has a guide to Google Analytics ready for you!
+Summary
+
+Creating the perfect website is not an easy task, nor is it a done deal. The perfect website requires time and continual work to keep it that way.
+
+There’s always something to optimize, trends to keep up with, security issues to worry about. If you plan on being in business for years to come, prepare yourself. Your website will go down at some point for some unknown reason; the code and design will get old at some point; and you will find bugs with time.
+
+Perfecting a website entails putting services in place to handle such problems: a content and database backup, a maintenance theme, a good developer and designer, and so on.
+
+Don’t worry if you don’t have everything in place to make your website perfect. Start out as best as you can. Above all else, a perfect website requires experience, which you can only get by giving things a go and sticking around.
+
+Simple WordPress website themes come with several benefits that make them an attractive choice: 
+
+    Faster Loading Times - Due to their often minimal design, simple website themes will have a positive impact on your site’s loading time.
+    Quick and Easy Setup - Simple website design themes are far from being boring or difficult to personalize. Their setup and the customization options are usually just a click away and require no coding.
+    Better SEO - Another benefit of simple website templates is that they will improve your search engine rankings because your site will load faster.
+    More Focus on Your Content - As mentioned before, the minimalistic site design will put your content front and center, which is perfect if you want your call-to-action to stand out.
+
+Want to design your own website simply with WordPress
+Want to design your own website simply with WordPress? (graphic source)
+3 Key Features to Look For in a Simple Website Theme Design
+
+If you’re looking for a simple way to setup your website, you might be wondering how to choose the right template and whether you should go with an HTML template or a WordPress theme. While HTML templates are usually easy to install, keep in mind that you'll need to know basic HTML and CSS if you want to customize them.
+
+On top of that, if you want your website to have a blog, then you’d have to update the template each and every time with your post written in HTML.
+
+Unlike HTML templates, there is no coding needed with a premium WordPress theme. For starters, WordPress allows you to insert your posts and pages using a post editor that has a word processor-like interface. WordPress themes are also easier to customize as most of them come with a theme settings page where you can use sliders and drop-down menus to choose colors, fonts, and more easy website design options.
+
+If you’ve decided to go with a simple to use WordPress theme, here are a few essential features that you need to look for:
+1. Minimalistic Design
+
+Simple WP site themes are not only easy to setup, they are characterized by a minimalistic and simple design with bold and eye-catching typography. Whitespace is prominent on all the pages and the content has plenty of space to stand out and draw the attention of website visitors.
+2. One Click Demo Import
+
+If you want a guarantee that your theme will be simple to use, look for one that has a one-click demo import feature. This allows you to install the theme and then import the demo content and layout with the click of a mouse. 
+
+Instead of spending hours trying to figure out how to re-create the layout you’ve seen in the demo version, all you have to do is edit the pages with your own content and customize the colors and fonts.
+One Click demo import for simple WordPress website design setup
+One click demo import - for simple WordPress website design setup.
+3. Simple Customization Options
+
+Speaking of customization options, simple website theme designs will have the settings grouped in one location and you will be able to change the colors, the fonts, and everything else using sliders or dropdown menus, without having to write any of the custom CSS.
+Before You Get Started
+
+We’ll cover how to setup a simple WordPress theme to create your website design quickly in the next section. For the purpose of the tutorial, we’ll be using the Smart WordPress theme. It’s a minimal portfolio and business WP theme with plenty of whitespace and quick setup thanks to the one-click demo import feature.
+Smart WordPress theme with simple website design setup
+Smart WordPress theme with simple website design setup.
+
+Before starting with your site, you’ll need to buy a domain name, choose a secure hosting plan, select a great website theme, and write the content that will go on your site: 
+1. Killer Domain Name
+
+Picking a domain name is the first step. Depending on the purpose of your site, you might choose to go with your business name or the name if your site will be more of a personal portfolio or a personal blog. Another option is to use keywords that are related to the topic and categories you plan to write about.
+
+In most cases, you'll want to choose a domain name that ends in .COM as this is the most popular extension. However, using a domain extension such as .ME or .NET is a good choice if the desired name paired with a .COM is already taken.
+2. Pro Hosting Plan
+
+Once you have your domain name picked out, the next step is to purchase a hosting plan. Hosting plans start as low as $5/month, but you’ll want to do your research and choose a company that has good reviews and reliable uptime. 
+
+You can take a look at the hosting recommendations on WordPress’ website. 
+3. Premium WordPress Theme
+
+With the domain name and the hosting plan out of the way, you need to decide on the appropriate theme for your site. There are plenty of premium simple WordPress themes to choose from that offer benefits such as support from the theme author and an attractive, responsive design.
+4. Content
+
+Finally, you’ll need to plan and write the content for your site. Make a list of all the pages you want to have on your site a write a couple of paragraphs for each of them. You may want to consider adding a services page that lists your packages if your website is business oriented. Don’t forget to include a Contact page as well as an About page so your visitors can learn more about you and have a way of contacting you.
+How to Create Your New WordPress Website Design (Quickly)
+
+Once you have everything in place, it’s time to move to the next step and setup your new site. We’ll cover the steps to install WordPress, your theme, required plugins, and create your pages. 
+1. Installing WordPress
+
+First, you’ll need to install WordPress. When you purchase a hosting plan, your hosting provider will email you the details needed to login to the backend of your account. Use the username and password they send you and visit the link to your account’s dashboard or cPanel.
+
+Once in your dashboard, look for the WordPress icon. Most web hosts nowadays have a one-click WordPress install but if your host doesn’t have it, look for a section called Website Installers, Softaculous, or One Click Installers. Find WordPress, select it, and click Install.
+
+You will be presented with a form where you need to enter the username and password you’ll use to login to your WordPress dashboard. You’ll also need to enter your email address, site name and description, and choose a directory where to install WordPress.
+
+Unless you have a very good reason not to do it, leave the directory field empty and then click the Install button.
+
+After the installation has finished, you will see a message that WordPress has been installed. You can now login to your WordPress dashboard with the username and password you selected during the installation process.
+2. Installing Your WordPress Theme
+
+After you have logged in to your WordPress dashboard, go to Appearance > Themes > Add new. Then, click Upload Theme.
+
+From there, you just have to select the zipped folder that contains the theme’s files and upload it. Wait for the installation to complete, then click Activate.
+3. Installing Required WordPress Plugins
+
+With the theme activated, your next step is to install any required plugins. You’ll notice a notification in your dashboard telling you which plugins are required along with a link taking you directly to the installation screen.
+Required WordPress plugins
+Install the required plugins.
+
+Select all the plugins and choose Install from the dropdown menu. When the plugins have been installed, go to Plugins > All Plugins and select Inactive plugins then choose Activate from the dropdown menu.
+Customizing Your Simple Website Design
+
+Once the WordPress theme has been activated and all the required plugins installed, it’s time to customize your website design, content appearance, and quickly set up your pages.
+1. Importing and Adding Your Content
+
+The fastest way to set up your site is to import the demo content. In your dashboard, navigate to Appearance > Import Demo Data. Click the button and wait for the import process to finish. The tool will import all the pages, blog posts, and theme settings.
+Editing a page in WordPress Visual Composer
+Editing a page easily with Visual Composer.
+
+After all the content has been imported, go to Pages > All pages and click to view each page so you can find a layout appropriate for your site’s purpose. When you’ve found a layout for the homepage that you like, go to Settings > Reading and choose that page to be your homepage. Do the same for the posts page. Then, click on Save settings.
+WordPress Theme settings
+WordPress theme Settings
+
+To replace the demo content with your own, simply click on Edit with Visual Composer. This will allow you to easily replace the content or add new elements with a quick drag-and-drop.
+Editing elements in WordPress theme
+Editing elements with Visual Composer.
+
+If you want to add more pages or if you want to create a page from scratch, go to Pages > Add New. Name your page and then use the Visual Composer to quickly create a layout, and add elements such as rows, columns, sliders, and more.
+2. Setting Up Menus
+
+After you’ve setup all the pages, you need to add a navigation menu so visitors can find their way around your site and locate the information they need.
+
+Still in your dashboard, go to Appearance > Customize > Menus. Since you’ve imported the demo content, several menus have already been created. For this tutorial, I’ve chosen the Primary demo.
+customizing menu
+Customizing a website menu in your simple WordPress theme design.
+
+To add pages to your site, click on the + sign and select all the pages you want to appear in the main navigation. Remember to keep the navigation simple and add only the most important pages to make browsing your site easy.
+
+You’ll also need to check the box next to Primary navigation and then save the changes.
+Advertisement
+3. Styling Your Simple Website Theme
+
+This is the last step is to customize your new website design. In your dashboard, go to Smart Options menu in the sidebar. From here, you can upload your logo and favicon, enter a description and title for your site, customize blog settings, and more.
+
+Styling options will allow you to choose the colors for your theme as well as the fonts.
+
+Lastly, don’t forget to configure your footer. You can link your social media profiles by going to Footer options and entering the link for the desired profile in the Footer Link box and the social media site’s name in the Footer Text Link box.
+Design your own simple website
+Skip the coding and make your website with a simple WordPress theme design. (graphic source)
+Create Your Site Quickly With a Simple WordPress Theme
+
+Using a simple WordPress template to create your website design is a great way to get your site up and running quickly without getting overwhelmed with all the design options and spending too much time on customizations.
+
+The Smart WordPress theme is just one example of a simple WordPress theme with premium design options, with many more available on ThemeForest. Browse through our collection of simple WordPress themes to find the one that catches your eye and use it to get your site up and running as fast as possible.
+
+And be sure to use a premium WordPress hosting provider to setup your site securely, with quick installation and theme setup assistance.
+
+A tutorial walkthrough on how to turn any plain HTML website into a customizable website or blog.
+
+You know HTML, CSS, and JavaScript. You can make beautiful websites. Maybe you’ve heard about WordPress, but aren’t entirely sure how to implement it, or why you might need it. Maybe a client asked for WordPress, but you’re not really familiar with it. Maybe you’ve worked with it before, but don’t know how to make your own theme from scratch. Whatever the case, this article is for you.
+Prerequisites
+
+All you need to start is a website. Any website will do. You don’t need to know any PHP, or have any prior experience with WordPress. Your website can be custom, or built on Bootstrap/some other framework.
+
+You do need to know how to set up a local server environment. Fortunately, if you don’t know how, I wrote a short, sweet article about getting set up with one. It will only take a few minutes, so go ahead and do that first.
+Goals
+
+    Install WordPress locally
+    Take an existing HTML website and convert it into a custom WordPress theme
+
+Parts
+
+I’ve made additional tutorials to add on to this one.
+
+    Part 2: Pagination, Comments, Single Post, Functions, & Custom Posts (intermediate)
+    Part 3: Custom Posts, Custom Fields and Meta Boxes (advanced)
+
+What can WordPress do for me?
+
+WordPress was originally built as a blogging platform, but is now what is known as a CMS – Content Management System.
+
+Any website that you intend to make updates to can benefit from a CMS. If it’s a blog, you want to be able to add posts. If it’s a restaurant website, you want to be able to add and update menus. If it’s a company website, you want to be able to update prices, packages, and so on. This website is a custom theme running on WordPress. (Open source, too!)
+
+If someone is paying you to make a website, it’s because they don’t know how or don’t have time to deal with code. It needs to be as simple as possible for the client. WordPress can help with all this and more.
+Getting started: The design
+
+I can’t stress enough how much it doesn’t matter what you use for your design – Bootstrap, Foundation, Skeleton, custom CSS. The point is that you have a website and you like how it looks.
+
+I’m going to take an existing simple starter template and convert it into WordPress for this article.
+
+Bootstrap Blog Template
+
+This is one of the default themes on Bootstrap’s official website.
+
+I have conveniently set up a GitHub repository of the code that you can pull to a local directory and follow along with me.
+
+    Don’t know how to use Git/GitHub? You can remedy that by reading my Getting Started with Git article. If you just want to get started without dealing with Git, just create a directory on your computer with index.html and blog.css and you’re ready to go.
+
+Installing WordPress
+
+There are plenty of articles out there about how to install WordPress. They make the process seem long and scary, and the first time you do it, it can definitely be a bit confusing. Here is the official guide to getting set up.
+
+Since we’re using a local server and MAMP, I already know you have all the prerequisites to installation, and FTP is not necessary.
+Create a place for WordPress to live
+
+Make an empty directory on your computer somewhere, and point your localhost or virtual host to that directory.
+Download WordPress
+
+Go to the WordPress download page and download the latest version of WordPress.
+Unzip WordPress
+
+Unzip WordPress and place the contents of the folder into your directory.
+Create a database
+
+Update 2017: The latest versions of MAMP do not come with phpMyAdmin preinstalled. Instead, you’ll download SequelPro on a Mac, or SQLYog on Windows, both free programs. To enter the database after downloading, login to the host locahost (or 127.0.0.1), with username root and password root. The rest of the instructions will be the same.
+
+Now, if you go to your local server in the browser, assuming the servers are on and everything is pointed to the right direction, you’ll get this message.
+
+You’ll learn to love that message. In MAMP, click Open WebStart page. Find this near the top:
+
+Click on phpMyAdmin. Click Databases > create database. I’m going to call mine startwordpress. That’s all you need to do in phpMyAdmin!
+
+Configure WordPress
+
+Alright, final step. Find wp-config-sample.php in your directory.
+
+It will look exactly like this.
+
+Don’t be nervous. Change the database name, username, and password, from this:
+wp-config.php
+
+/** The name of the database for WordPress */
+define('DB_NAME', 'database_name_here');
+/** MySQL database username */
+define('DB_USER', 'username_here');
+/** MySQL database password */
+define('DB_PASSWORD', 'password_here');
+
+to this:
+wp-config.php
+
+/** The name of the database for WordPress */
+define('DB_NAME', 'startwordpress');
+/** MySQL database username */
+define('DB_USER', 'root');
+/** MySQL database password */
+define('DB_PASSWORD', 'root');
+
+Find this:
+
+$table_prefix  = 'wp_';
+
+And change it to literally anything else with numbers and letters. For security. xyz_ or 735hjq9_, etc.
+
+$table_prefix  = 'xyz77_';
+
+Go to https://api.wordpress.org/secret-key/1.1/salt and replace the entire ‘put your unique phrase here’ with that generated code.
+
+Save the file as wp-config.php in your directory.
+
+Now, when you go back to your website and refresh, you should see this screen.
+
+You’ll have to input a few things – username, password, e-mail address, and then you’re done. Congratulations, you have successfully installed WordPress! You will be redirected to /wp-login.php, where you can input your credentials to log into the backend. If you go to your main URL, You will see the default WordPress blog and “Hello, World!” post.
+Creating your custom theme
+
+Outside of configuring WordPress, almost everything you do in WordPress will be in the wp-content folder; everything else is core code, and you don’t want to mess with that.
+
+From this point on, the WordPress Codex and StackOverflow will become your best friends. I’ll show you how to build a basic theme, but how you choose to customize your themes beyond that is totally up to you.
+
+In Finder, follow the path of wp-content > themes to arrive at your themes folder. You’ll see the WordPress default themes – twentyfifteen, twentyfourteen, twentythirteen – and index.php. Create a new directory for your theme; I called mine startwordpress.
+
+    A WordPress theme needs only two files to exist – style.css and index.php.
+
+In your custom theme folder, create style.css. It simply contains a comment that alerts WordPress that a theme exists here. Change the name, author, description, and so on.
+style.css
+
+/*
+Theme Name: Start WordPress
+Author: Tania Rascia
+Description: Bootstrap Blog template converted to WordPress
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+Remember the Bootstrap blog source code from earlier in the article? Move those two files – index.html and blog.css – to your custom theme folder. Rename index.html to index.php.
+
+Your theme has now been created. Go to the WordPress dashboard, and click on Appearance > Themes. You’ll see the theme in the collection with all the default themes.
+
+Activate the theme and go back to your main URL. Yep, it’s that simple. You’ve technically created a custom theme already. Of course, it doesn’t do anything yet beyond what a static HTML site can do, but you’re all set up now.
+
+There is one thing you might notice – blog.css is not being loaded. Bootstrap’s main CSS and JS files are loading via CDN, but my local css file isn’t loading. Why?
+
+My local URL may be startwordpress.dev, but it’s really pulling from wp-content/themes/startwordpress. If I link to blog.css with <link href="blog.css">, it tries to load startwordpress.dev/blog.css, which does not exist. Learn right now that you can never link to anything in a WordPress page without some PHP.
+
+    Note: Chrome no longer allows .dev local URLs. This example will use .dev, but you can use .test or something else of your choice.
+
+Fortunately, this is easily remedied. There’s a few ways to do this, but I’ll show you the easiest way to start.
+
+Locate where you linked to the CSS stylesheet in the head of index.php. This is what it looks like right now, but we’ll have to change it.
+
+<link href="blog.css" rel="stylesheet">
+
+We need to tell it to dynamically link to the themes folder. Replace the above code with the below code.
+
+<link href="<?php echo get_bloginfo('template_directory'); ?>/blog.css" rel="stylesheet">
+
+If you reload the page, you’ll see that CSS is now loading in. If it is not loading in, please do a hard refresh. The concept will be the same for images, javascript, and most other files you have in the themes folder, except PHP files.
+
+If you were not successfully able to get the CSS to load, click on “View Source” and find the path of your CSS file in the code. It should be startwordpress.dev/wp-content/themes/startwordpress/blog.css. Make sure blog.css is saved in the correct location.
+
+    Note that this is not the most correct way to load scripts into your site. It’s the easiest to understand and it works, so it’s how we’ll do it for now.
+
+Dividing your page into sections
+
+Right now, everything is in index.php. But obviously we want the header, footer and sidebar on all the pages to be the same, right? (Maybe some pages will have slight customization, but that comes later.)
+
+We’re going to divide index.php into four sections – header.php, footer.php, sidebar.php and content.php.
+
+Here’s the original index.php. Now we start cutting and pasting.
+
+Everything from <!DOCTYPE html> to the main blog header will be in the header file. The header usually contains all the necessary head styles and the top navigation to the website. The only addition I will make to the code is adding <?php wp_head(); ?> right before the closing </head>.
+header.php
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Blog Template for Bootstrap</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	<link href="<?php echo get_bloginfo( 'template_directory' );?>/blog.css" rel="stylesheet">
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<?php wp_head();?>
+</head>
+
+<body>
+
+	<div class="blog-masthead">
+		<div class="container">
+			<nav class="blog-nav">
+				<a class="blog-nav-item active" href="#">Home</a>
+				<a class="blog-nav-item" href="#">New features</a>
+				<a class="blog-nav-item" href="#">Press</a>
+				<a class="blog-nav-item" href="#">New hires</a>
+				<a class="blog-nav-item" href="#">About</a>
+			</nav>
+		</div>
+	</div>
+	
+	<div class="container">
+
+		<div class="blog-header">
+			<h1 class="blog-title">The Bootstrap Blog</h1>
+			<p class="lead blog-description">The official example template of creating a blog with Bootstrap.</p>
+		</div>
+
+Same deal for the footer as the header. It will include whatever visible footer you have, your JS links (for now) and <?php wp_footer(); ?> right before </body>. Since I included the .container div in the header, I’m going to close it in the footer.
+footer.php
+
+    </div> <!-- /.container -->
+
+		<footer class="blog-footer">
+      <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+      <p>
+        <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<?php wp_footer(); ?> 
+  </body>
+</html>
+
+Most websites, especially blogs, will have a side area for including content such as archives, tags, categories, ads, and whatnot. (Content removed for brevity.)
+sidebar.php
+
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+	<div class="sidebar-module sidebar-module-inset">
+		<h4>About</h4>
+		<p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+	</div>
+	<div class="sidebar-module">
+		<h4>Archives</h4>
+		<ol class="list-unstyled">
+			<li><a href="#">March 2014</a></li>
+			<!-- More archive examples -->
+		</ol>
+	</div>
+	<div class="sidebar-module">
+		<h4>Elsewhere</h4>
+		<ol class="list-unstyled">
+			<li><a href="#">GitHub</a></li>
+			<li><a href="#">Twitter</a></li>
+			<li><a href="#">Facebook</a></li>
+		</ol>
+	</div>
+</div><!-- /.blog-sidebar -->
+
+If the sidebar is where all the secondary information goes, the content is where all the articles and main content of the website go. (Content removed for brevity.)
+content.php
+
+<div class="blog-post">
+	<h2 class="blog-post-title">Sample blog post</h2>
+	<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+
+	<p>This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
+	<hr>
+
+<!-- the rest of the content -->
+
+</div><!-- /.blog-post -->
+
+Index
+
+The index file should be pretty sparse now. In fact, it should only be this:
+
+<div class="row">
+	<div class="col-sm-8 blog-main">
+	</div> <!-- /.blog-main -->
+</div> 	<!-- /.row -->
+
+Now we’re going to add everything back in. Here’s your new index.php.
+index.php
+
+<?php get_header(); ?>
+
+	<div class="row">
+
+		<div class="col-sm-8 blog-main">
+
+			<?php get_template_part( 'content', get_post_format() ); ?>
+
+		</div> <!-- /.blog-main -->
+
+		<?php get_sidebar(); ?>
+
+	</div> <!-- /.row -->
+
+<?php get_footer(); ?>
+
+Even if you’ve never used PHP before, this code is all very self explanatory. get_header();, get_sidebar(); and get_footer(); are all functions that look for their respective .php files and insert the code. Of course, they all go inside their own <?php ?> tags to let the server know to parse them as HTML. The content function is slightly different, but it does the same thing.
+
+If you re-load your URL, your entire site is now loaded, just as before. You will notice a top bar if you’re logged in to the back end.
+Main Settings
+
+Before we start pulling in posts and pages, we need to configure some main settings of WordPress. For example, my title right now is “The Bootstrap Blog”, hard coded in HTML. I want the <title> and <h1> of my site to be changeable through the back end.
+
+In your dashboard, go to Settings > General. Set your title.
+
+In header.php, change the contents of the title tag and main h1 tag to this code:
+
+<?php echo get_bloginfo( 'name' ); ?>
+
+And the description to this one.
+
+<?php echo get_bloginfo( 'description' ); ?>
+
+Finally, I want the title to always take me back to the main blog page. bloginfo('wpurl'); is the code that will do that.
+
+<a href="<?php echo get_bloginfo( 'wpurl' );?>"><!-- site title --></a>
+
+Here’s the full code in case you’re confused.
+
+<div class="blog-header">
+	<h1 class="blog-title"><a href="<?php echo get_bloginfo( 'wpurl' );?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>
+	<p class="lead blog-description"><?php echo get_bloginfo( 'description' ); ?></p>
+</div>
+
+We’ve finally made the first dynamic change to the page. The front end should reflect what you put in your settings.
+
+Now go to Settings > Permalinks. By default, WordPress is set to Day and name, which is a really ugly URL structure. Click on Post name and apply the changes.
+The Loop
+
+The most exciting part is being able to dynamically insert content, and in WordPress we do that with The Loop. It’s the most important function of WordPress. All of your content is generated through a loop.
+
+In the dashboard, if you click on Posts, you will see a “Hello, world!” post in there by default. Our goal is to display that post in the blog.
+
+The Loop itself is quite simple.
+
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+
+<!-- contents of the loop -->
+
+<?php endwhile; endif; ?>
+
+It explains itself – IF there are posts, WHILE there are posts, DISPLAY the post. Anything inside the loop will be repeated. For a blog, this will be the post title, the date, the content, and comments. Where each individual post should end is where the loop will end. We’re going to add the loop to index.php.
+
+Here’s your new index file.
+index.php
+
+<?php get_header(); ?>
+
+	<div class="row">
+
+		<div class="col-sm-8 blog-main">
+
+			<?php 
+			if ( have_posts() ) : while ( have_posts() ) : the_post();
+  	
+				get_template_part( 'content', get_post_format() );
+  
+			endwhile; endif; 
+			?>
+
+		</div> <!-- /.blog-main -->
+
+		<?php get_sidebar(); ?>
+
+	</div> <!-- /.row -->
+
+<?php get_footer(); ?>
+
+The only thing inside your loop is content.php, which will contain the contents of one single post. So open content.php and change the contents to this:
+
+<div class="blog-post">
+	<h2 class="blog-post-title"><?php the_title(); ?></h2>
+	<p class="blog-post-meta"><?php the_date(); ?> by <a href="#"><?php the_author(); ?></a></p>
+
+ <?php the_content(); ?>
+
+</div><!-- /.blog-post -->
+
+It’s amazingly simple! the_title(); is the title of the blog post, the_date(); shows the date, the_author(); the author, and the_content(); is your post content. I added another post to prove at the loop is working.
+
+Awesome. Let’s make the sidebar dynamic, as well. There should be a description and archive list in the sidebar. In the dashboard, I’m going to edit my user description to say “Front end web developer and professional nerd.”
+
+Delete all the <li>s under Archives and change it to this code.
+sidebar.php
+
+<h4>Archives</h4>
+<ol class="list-unstyled">
+	<?php wp_get_archives( 'type=monthly' ); ?>
+</ol>
+
+For my description, I’m going to pull in metadata from my user account.
+
+<h4>About</h4>
+<p><?php the_author_meta( 'description' ); ?> </p>
+
+Now this content is being pulled in dynamically as well.
+
+Here’s my blog so far.
+
+Menu and Pages
+
+Okay. Now we know how to make a blog, and edit some sidebar content. Only one main aspect of this page remains – the navigation, and where it leads. Well, there are two main aspects to WordPress – Posts and Pages. They’re very similar in that they both use the Loop. However, pages are where you put content that isn’t a blog post. This is where the CMS aspect of WordPress comes in – each individual page can be as customized as you want.
+
+In the dashboard, I added a page so we can see two. First, we’re going to edit the navbar so that the links lead to the pages. Back in header.php, find and change this code.
+header.php
+
+<div class="blog-masthead">
+	<div class="container">
+		<nav class="blog-nav">
+			<a class="blog-nav-item active" href="#">Home</a>
+			<?php wp_list_pages( '&title_li=' ); ?>
+		</nav>
+	</div>
+</div>
+
+wp_list_pages(); will list all the pages you have in an unordered list. 'title_li=' is telling the code not to add a “Pages” title before the list. Unfortunately for us, this looks terrible; the original blog.css has the links coded in a tags, not li tags.
+
+Fortunately, this is a very easy fix. I’m just going to apply the style from one to the other. Add this to blog.css
+blog.css
+
+.blog-nav li {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 500;	
+}
+.blog-nav li a {
+    color: #fff;
+}
+
+Now it should show up correctly. However, if the CSS is not applying, please View the source of your HTML output and find out what the URL of your CSS is. It should be startwordpress.dev/wp-content/themes/startwordpress/blog.css. Make sure to do a hard refresh.
+
+Much better.
+Pages
+
+I want the pages to have a different layout than the blog posts; I don’t want sidebars on them. Think of index.php as the blog-index and page.php as the page-index. I’m going to create page.php, which will be very similar to the index except have a full 12-wide grid instead of an 8-wide content and 4-wide sidebar.
+page.php
+
+<?php get_header(); ?>
+
+	<div class="row">
+		<div class="col-sm-12">
+
+			<?php 
+				if ( have_posts() ) : while ( have_posts() ) : the_post();
+  	
+					get_template_part( 'content', get_post_format() );
+  
+				endwhile; endif; 
+			?>
+
+		</div> <!-- /.col -->
+	</div> <!-- /.row -->
+
+<?php get_footer(); ?>
+
+When I click on my sample page, the layout is now different than the blog post layout.
+
+Conclusion
+
+There is much, much more to learn about WordPress. I sincerely hope this article opened a world of possibilities to you. Now you know that any website can be converted into a WordPress theme – without using plugins, widgets, or someone else’s theme.
+
+If something was unclear, please let me know. If I’ve posted any blatantly incorrect information, please let me know! Any feedback is greatly appreciated! My aim was to make the article I wish I had in front of me when I first started learning how to use WordPress and PHP. 

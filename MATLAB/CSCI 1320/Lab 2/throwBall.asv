@@ -1,0 +1,9 @@
+clear,clc
+h = 1.5;
+g = 9.8;
+v = input('Please input the velocity in m/s\n');
+ang = input('Please input the angle in degrees\n');
+t = linspace(0,20,10000);
+x = v*cosd(ang).*t;
+y = h+v*sind(ang).*t-1/2*g.*t.^2;
+find(y>0,1)
