@@ -1,3 +1,8 @@
-vec = linspace(32,64,33);
+fun = @(x) x-cos(x);
+gfun = @(x) cos(x);
+eps = 10^(-(2+1));
+x = 0.5;
 
-d = vec([15:19])
+while fun(x) ~= eps
+    x = gfun(x);
+end

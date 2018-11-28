@@ -1,0 +1,34 @@
+clear,clc,close all
+Cd   = 0.8;
+CD   = 0.5;
+G    = 1.4;
+Px0  = 0;                                     % m
+Pz0  = 0.25;                                  % m
+At   = pi * (0.021/2)^2;                      % m^2
+Ab   = pi * (0.105/2)^2;                      % m^2
+v0   = 0.001;                                 % m^3
+vb   = 0.002;                                 % m^3
+rhow = 1000;                                  % kg/m^3
+rhoa = 0.961;                                 % kg/m^9
+Pa   = 12.1 *6894.76;                         % Pa
+P0   = Pa + 50*6894.76;                       % Pa
+Pe   = P0*(v0/vb)^G;                          % Pa
+Vx0  = 0;                                     % m/s
+Vz0  = 0;                                     % m/s
+t    = [0 5];                                 % s
+R    = 287;                                   % J/kg*K
+T    = 300;                                   % K
+Te   = T*(v0/vb)^(G-1);                       % K
+Mb   = 0.15;                                  % kg
+M0   = Mb + rhow*(vb - v0) + (rhoa/(R*T))*v0; % kg
+Ma0   = (rhoa/(R*T))*v0;                      % kg
+theta0 = pi/4;                                % rad
+g = 9.81;
+inits = [v0,Ma0,M0,Vx0,Vz0,Px0,Pz0];
+
+[t,VM] = ode45(@(t,X) VM_int(t,X,Cd,CD,G,At,Ab,rhow,rhoa,v0,P0,Pa,Te,Pe,Ma0,vb,R,theta0,g),t,inits);
+
+hold on
+grid on
+plot(VM(:,6),VM(:,7))
+ylim([0 30])

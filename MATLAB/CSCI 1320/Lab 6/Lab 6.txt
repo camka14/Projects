@@ -1,0 +1,30 @@
+Name: Samuel Razumovskiy
+ID: 109343605
+Course: CSCI 1320
+Lab: 6
+Recitation: 108
+
+1. Type "mkdir cppProjects" and press enter
+
+2. Type "cd cppProjects" and press enter. Then type "touch cheat.cpp"
+
+3. Type "mkdir Lab6" press enter. type "mkdir assignment6" press enter.
+
+4. Type "touch hello.cpp" press enter.
+
+5. Type "rm hello.cpp" press enter.
+
+6. Type "cd Lab6" press enter. Type "touch razumovskiyLab6.cpp" press enter
+
+7. Type "ls" press enter.
+
+8. Double-click the file name in the file tab to enter.
+Open the myNameIs.cpp file and copy its contents. Open the lab file and paste.
+
+9. Type into the terminal "g++ razumovskiyLab6.cpp -o labcomp" press enter.
+
+10. Type "./labcomp" press enter.
+
+11. Type "zip -r lab6.zip razumovskiyLab6.cpp" press enter.
+
+12. Right-click on the lab6.zip file in the files tab. Click download.
