@@ -1,15 +1,11 @@
-function dp_dt = VM_int(t,X,Cd,CD,G,At,Ab,rhoW,rhoAa,v0,P0,Pa,Te,Pend,Ma0,vb,R,theta0,g)
+function dT_dt = Thrust(t,X,Cd,CD,G,At,Ab,rhoW,rhoAa,v0,P0,Pa,Te,Pend,Ma0,vb,R,theta0,g)
 
 va = X(1);
 Ma = X(2);
 Mr = X(3);
-Vx = X(4);
-Vz = X(5);
-x  = X(6);
-z  = X(7);
 
 if z <= 0
-    dp_dt = zeros(7,1);
+    dT_dt = zeros(3,1);
     return
 end
 
@@ -17,10 +13,11 @@ if va < vb
     P = P0*(v0/va)^G;
     dva_dt = Cd*At*sqrt(2/rhoW*(P-Pa));
     dma_dt = 0;
-    dmr_dt = -Cd*At*sqrt(2*rhoW*(P-Pa));
+    dm_dt = Cd*At*sqrt(2*rhoW*(P-Pa));
+    dmr_dt = -dm_dt;
     
     T = 2*Cd*At*(P-Pa);
-else
+elseif va >= vb
     P = Pend*(Ma/Ma0)^G;
     if P > Pa
         Pc    = P*(2/(G+1))^(G/(G-1));
@@ -50,22 +47,5 @@ else
     end
 end
 
-V = sqrt(Vx^2+Vz^2);
-
-if sqrt(x^2+z^2) < 0.5
-    hx = acos(theta0);
-    hz = asin(theta0);
-else
-    hx = acos(Vx/V);
-    hz = acos(Vz/V);
-end
-
-D = rhoAa/2*V^2*CD*Ab;
-F = T - D;
-dVx_dt = F*hx/Mr;
-dVz_dt = F*hz/Mr - g;
-
-dx_dt = Vx;
-dz_dt = Vz;
-dp_dt = [dva_dt;dma_dt;dmr_dt;dVx_dt;dVz_dt;dx_dt;dz_dt];
+dT_dt = [dva_dt;dma_dt;dmr_dt];
 end
