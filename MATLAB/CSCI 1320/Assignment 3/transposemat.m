@@ -6,8 +6,8 @@ function Y = transposemat(your_matrix)
 % sara6569@colorado.edu
 % returns the transpose of matrix x
 [r,c]=size(your_matrix);
-for col = [1:r]
-    for row = [1:c]
+for col = 1:r
+    for row = 1:c
         Y(row,col) = your_matrix(col,row);
     end
 end

@@ -9,7 +9,8 @@ g = 9.8;
 t = linspace(0,maxTime,10000);
 x = v*cosd(theta).*t;
 y = h+v*sind(theta).*t-1/2*g.*t.^2;
-if find(y<0,1); %Finds the value of x when y is negative
+y<0,1
+if find(y<0,1) %Finds the value of x when y is negative
     isTrue = true;
 else
     isTrue = false;

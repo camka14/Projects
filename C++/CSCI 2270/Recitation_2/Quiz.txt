@@ -1,0 +1,6 @@
+1. a) memory address to index 2
+   b) 3
+   c) 1
+   d) error
+
+2. it is passed as a memory address to the first element
