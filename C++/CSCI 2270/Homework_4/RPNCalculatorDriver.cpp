@@ -46,25 +46,28 @@ int main()
     cout << "#> ";
 
     getline(cin,input);
-
-    if(isNumber(input)){
-      calc.push(stof(input));
-    }else if(!isNumber(input)){
-      calc.compute(input);
+    if(input != "="){
+      if(isNumber(input)){
+        calc.push(stof(input));
+      }else if(!isNumber(input)){
+        calc.compute(input);
+        
+        if(calc.isEmpty()){
+          cout << "No operands: Nothing to evaluate" << endl;
+          return 0;
+        }
+      }
     }
-
   }
-
 
   if(calc.isEmpty()){
     cout << "No operands: Nothing to evaluate" << endl;
     return 0;
   }
-
   Operand *temp = calc.peek();
   float num = temp->number;
   calc.pop();
-  if(calc.isEmpty())
+  if(!calc.isEmpty())
     cout << "Invalid expression" << endl;
   else
     cout << num << endl;

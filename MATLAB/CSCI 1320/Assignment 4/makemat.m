@@ -5,7 +5,7 @@ vl2=length(vec2); %Stores the lengths of vec 1 and 2 as variables
 
 [r1,c1]=size(vec1);
 [r2,c2]=size(vec2);
-if (r1 > 1 && c1 > 1) || (r2 > 1 && c2 > 1%Checks if any input is a matrix
+if (r1 > 1 && c1 > 1) || (r2 > 1 && c2 > 1) %Checks if any input is a matrix
     error("Function does not accept matrix as argument, please input vectors")
 end
 if c1 > 1

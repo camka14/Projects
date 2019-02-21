@@ -63,38 +63,40 @@ bool RPNCalculator::compute(string symbol)
 	float ans;
 
 	if(symbol == "+"){
-		num1 = stackHead->number;
 		if(isEmpty()){
 			cout << "err: not enough operands" << endl;
 			return false;
 		}
+		num1 = stackHead->number;
 		pop();
-		num2 = stackHead->number;
 		if(isEmpty()){
 			cout << "err: not enough operands" << endl;
 			push(num1);
 			return false;
 		}
+		num2 = stackHead->number;
 		pop();
 		ans = num1+num2;
 		push(ans);
 		return true;
 	}else if(symbol == "*"){
-		num1 = stackHead->number;
 		if(isEmpty()){
 			cout << "err: not enough operands" << endl;
 			return false;
 		}
+		num1 = stackHead->number;
 		pop();
-		num2 = stackHead->number;
 		if(isEmpty()){
 			cout << "err: not enough operands" << endl;
 			push(num1);
 			return false;
 		}
+		num2 = stackHead->number;
 		pop();
 		ans = num1*num2;
 		push(ans);
+		return true;
+	}else if(symbol == "="){
 		return true;
 	}else{
 		cout << "err: invalid operation" << endl;
