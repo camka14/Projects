@@ -1,0 +1,10 @@
+clear,clc,close all
+
+dz_dx1 =@(t) (0.2-0.25.*(1-cos(t))).*cos(2.*t);
+dz_dx2 =@(t) (0.0888-0.111.*(1-cos(t))).*cos(2.*t);
+dz_dx3 =@(t) (0.2-0.25.*(1-cos(t))).*cos(t);
+dz_dx4 =@(t) (0.0888-0.111.*(1-cos(t))).*cos(t);
+
+Cm = 1/2*(integral(dz_dx1,0,1.369)+integral(dz_dx2,1.369,pi)-integral(dz_dx3,0,1.369)-integral(dz_dx4,1.369,pi));
+
+Xcp = 1/4*(1+2*(integral(dz_dx3,0,1.369)+integral(dz_dx4,1.369,pi)0integral(dz_dx1,

@@ -1,0 +1,443 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>ASEN 3111 - Computational Assignment 01 - Main</title><meta name="generator" content="MATLAB 9.7"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2019-09-19"><meta name="DC.source" content="Matlab_Main_CA1_Razumovskiy_Samuel.m"><style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outine:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+html { min-height:100%; margin-bottom:1px; }
+html body { height:100%; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#000; line-height:140%; background:#fff none; overflow-y:scroll; }
+html body td { vertical-align:top; text-align:left; }
+
+h1 { padding:0px; margin:0px 0px 25px; font-family:Arial, Helvetica, sans-serif; font-size:1.5em; color:#d55000; line-height:100%; font-weight:normal; }
+h2 { padding:0px; margin:0px 0px 8px; font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#000; font-weight:bold; line-height:140%; border-bottom:1px solid #d6d4d4; display:block; }
+h3 { padding:0px; margin:0px 0px 5px; font-family:Arial, Helvetica, sans-serif; font-size:1.1em; color:#000; font-weight:bold; line-height:140%; }
+
+a { color:#005fce; text-decoration:none; }
+a:hover { color:#005fce; text-decoration:underline; }
+a:visited { color:#004aa0; text-decoration:none; }
+
+p { padding:0px; margin:0px 0px 20px; }
+img { padding:0px; margin:0px 0px 20px; border:none; }
+p img, pre img, tt img, li img, h1 img, h2 img { margin-bottom:0px; } 
+
+ul { padding:0px; margin:0px 0px 20px 23px; list-style:square; }
+ul li { padding:0px; margin:0px 0px 7px 0px; }
+ul li ul { padding:5px 0px 0px; margin:0px 0px 7px 23px; }
+ul li ol li { list-style:decimal; }
+ol { padding:0px; margin:0px 0px 20px 0px; list-style:decimal; }
+ol li { padding:0px; margin:0px 0px 7px 23px; list-style-type:decimal; }
+ol li ol { padding:5px 0px 0px; margin:0px 0px 7px 0px; }
+ol li ol li { list-style-type:lower-alpha; }
+ol li ul { padding-top:7px; }
+ol li ul li { list-style:square; }
+
+.content { font-size:1.2em; line-height:140%; padding: 20px; }
+
+pre, code { font-size:12px; }
+tt { font-size: 1.2em; }
+pre { margin:0px 0px 20px; }
+pre.codeinput { padding:10px; border:1px solid #d3d3d3; background:#f7f7f7; }
+pre.codeoutput { padding:10px 11px; margin:0px 0px 20px; color:#4c4c4c; }
+pre.error { color:red; }
+
+@media print { pre.codeinput, pre.codeoutput { word-wrap:break-word; width:100%; } }
+
+span.keyword { color:#0000FF }
+span.comment { color:#228B22 }
+span.string { color:#A020F0 }
+span.untermstring { color:#B20000 }
+span.syscmd { color:#B28C00 }
+
+.footer { width:auto; padding:10px 0px; margin:25px 0px 0px; border-top:1px dotted #878787; font-size:0.8em; line-height:140%; font-style:italic; color:#878787; text-align:left; float:none; }
+.footer p { margin:0px; }
+.footer a { color:#878787; }
+.footer a:hover { color:#878787; text-decoration:underline; }
+.footer a:visited { color:#878787; }
+
+table th { padding:7px 5px; text-align:left; vertical-align:middle; border: 1px solid #d6d4d4; font-weight:bold; }
+table td { padding:7px 5px; text-align:left; vertical-align:top; border:1px solid #d6d4d4; }
+
+
+
+
+
+  </style></head><body><div class="content"><h1>ASEN 3111 - Computational Assignment 01 - Main</h1><!--introduction--><p>We are trying to find the effect of the number of integration points or panels on the accuracy of the lift and drag of objects.</p><pre class="language-matlab">Author: Samuel Razumovskiy
+Collaborators: None
+Date: 9/5/2019 (last revised: 9/19/2019)
+</pre><!--/introduction--><h2>Contents</h2><div><ul><li><a href="#1">Problem 1</a></li><li><a href="#2">Problem 2</a></li><li><a href="#3">Functions Called</a></li></ul></div><h2 id="1">Problem 1</h2><pre class="codeinput">clear,clc,close <span class="string">all</span>
+
+toL = zeros(997);
+toD = zeros(997);
+i = 1;
+found = false;
+panels = 4:1000;
+<span class="comment">% N is the number of panels</span>
+
+<span class="keyword">for</span> N=panels
+    <span class="comment">% N since we want half the panels for upper and lower and twice as many</span>
+    <span class="comment">% sub panels as panels +1 for the extra point</span>
+    thetaUp = linspace(0,pi,N+1);
+    thetaLo = linspace(pi,2*pi,N+1);
+    rho = 1.225; <span class="comment">% kg/m^3</span>
+    V = 30; <span class="comment">% m/s</span>
+    pfree = 101.3*10^3; <span class="comment">% Pa</span>
+
+    <span class="comment">% Pressure distribution calculations</span>
+    pUp = (1-4*sin(thetaUp).^2).*(1/2*rho*V^2)+pfree;
+    pLo = (1-4*sin(thetaLo).^2).*(1/2*rho*V^2)+pfree;
+
+    <span class="comment">% Seting up the integration equations given in the book for lift and</span>
+    <span class="comment">% drag</span>
+    intLup = pUp.*cos(pi/2-thetaUp); <span class="comment">% Pa</span>
+    intLlo = pLo.*cos(-pi/2-thetaLo); <span class="comment">% Pa</span>
+
+    intDup = pUp.*sin(pi/2-thetaUp); <span class="comment">% Pa</span>
+    intDlo = pLo.*sin(-pi/2-thetaLo); <span class="comment">% Pa</span>
+
+    <span class="comment">% Integrating the lift and drag</span>
+    toLup = mySimp(N,intLup); <span class="comment">% N/m</span>
+    toLlo = mySimp(N,intLlo); <span class="comment">% N/m</span>
+
+    toDup = mySimp(N,-intDup);
+    toDlo = mySimp(N,intDlo);
+
+    <span class="comment">% Since L=N and D=A this calculation is valid</span>
+    toL(i) = toLlo-toLup; <span class="comment">% N/m</span>
+    toD(i) = toDlo+toDup; <span class="comment">% N/m</span>
+    <span class="keyword">if</span> i ~= 1
+        <span class="keyword">if</span> abs(toL(i)-toL(i-1))&lt;0.001 &amp;&amp; abs(toD(i)-toD(i-1))&lt;0.001 &amp;&amp; found ~= true
+            noPanels = N;
+            found = true;
+        <span class="keyword">end</span>
+    <span class="keyword">end</span>
+    i = i+1;
+<span class="keyword">end</span>
+
+figure(1)
+plot(panels,toD)
+xlabel(<span class="string">"Panels"</span>)
+ylabel(<span class="string">"Lift (N)"</span>)
+title(<span class="string">"Lift error"</span>)
+figure(2)
+plot(panels,toL)
+xlabel(<span class="string">"Panels"</span>)
+ylabel(<span class="string">"Drag (N)"</span>)
+title(<span class="string">"Drag Error"</span>)
+
+<span class="comment">% Since L = 0</span>
+panels = (find(abs(toL)&lt;0.001,1)+7)/2;
+fprintf(<span class="string">"The number of panels required to get an accuracy of 0.001N is %d"</span>,panels)
+</pre><pre class="codeoutput">The number of panels required to get an accuracy of 0.001N is 4</pre><img vspace="5" hspace="5" src="Matlab_Main_CA1_Razumovskiy_Samuel_01.png" alt=""> <img vspace="5" hspace="5" src="Matlab_Main_CA1_Razumovskiy_Samuel_02.png" alt=""> <h2 id="2">Problem 2</h2><pre class="codeinput">clear,clc,close <span class="string">all</span>
+load <span class="string">Cp</span>
+
+<span class="comment">% Initializing values</span>
+j = 1;
+p5 = false;
+p1 = false;
+
+<span class="comment">% Givens</span>
+c = 2; <span class="comment">% m</span>
+alpha = 9; <span class="comment">% deg</span>
+V = 30; <span class="comment">% m/s</span>
+rho = 1.225; <span class="comment">% kg/m^3</span>
+pinf = 101.3*10^3; <span class="comment">% Pa</span>
+t = 12/100; <span class="comment">% /c</span>
+
+<span class="comment">% Range of integration points</span>
+points = 5:5000;
+
+<span class="comment">% Initializing lift and drag vectors</span>
+L = zeros(size(points));
+D = zeros(size(points));
+
+<span class="keyword">for</span> p=points
+    <span class="comment">% Base of trapazoid for integration</span>
+    base = c/p;
+    x = linspace(0,c,p); <span class="comment">% m</span>
+    y = t/.2.*c.*(0.2969.*sqrt(x./c)-0.1260.*(x./c)-0.3516.*(x./c).^2+<span class="keyword">...</span>
+        0.2843.*(x./c).^3-0.1036.*(x./c).^4); <span class="comment">% m</span>
+    theta = zeros(size(x));
+    <span class="comment">% An inital theta of -pi/2 since it is the leading edge</span>
+    theta(1) = -pi/2;
+    <span class="keyword">for</span> i=1:length(x)-1
+        theta(i+1) = -atan((y(i+1)-y(i))/(x(i+1)-x(i)));
+    <span class="keyword">end</span>
+
+    <span class="comment">% Calculation of the coefficient of pressure</span>
+    cPup = fnval(Cp_upper,x./c);
+    cPlo = fnval(Cp_lower,x./c);
+
+    <span class="comment">% Calculation of the pressure upper and lower</span>
+    Pup = cPup*1/2*rho*V^2+pinf;
+    Plo = cPlo*1/2*rho*V^2+pinf;
+
+    <span class="comment">% Set up for Normal and Axial force integration, not actual Normal</span>
+    <span class="comment">% and Axial forces</span>
+    NPup = Pup.*cos(theta);
+    NPlo = Plo.*cos(theta);
+
+    APup = -Pup.*sin(theta);
+    APlo = Plo.*sin(theta);
+
+    <span class="comment">% Integrating for the Normal and Axial forces</span>
+    N = myTrapz(base,NPlo)-myTrapz(base,NPup);
+    A = myTrapz(base,APlo)+myTrapz(base,APup);
+
+    <span class="comment">% Calculating Lift and Drag from Axial and Normal</span>
+    L(j) = N*cosd(alpha)-A*sind(alpha);
+    D(j) = N*sind(alpha)+A*cosd(alpha);
+
+    j = j+1;
+<span class="keyword">end</span>
+
+<span class="comment">% Finding the number of integration points needed for the given relative</span>
+<span class="comment">% errors</span>
+<span class="keyword">for</span> i = 1:numel(L)
+    <span class="keyword">if</span> p5 == false &amp;&amp; abs(L(end)-L(i))/L(end) &lt; 0.05
+        error5 = i+4;
+        lift5 = L(i);
+        p5 = true;
+    <span class="keyword">elseif</span> p1 == false &amp;&amp; abs(L(end)-L(i))/L(end) &lt; 0.01
+        error1 = i+4;
+        lift1 = L(i);
+        p1 = true;
+    <span class="keyword">elseif</span> abs(L(end)-L(i))/L(end) &lt; 0.001
+        error10th = i+4;
+        lift10th = L(i);
+        <span class="keyword">break</span>
+    <span class="keyword">end</span>
+<span class="keyword">end</span>
+
+fprintf(<span class="string">"Using 5000 points for the 'Actual' lift you would need\n"</span>)
+fprintf(<span class="string">"%d points to get an accuracy of  5%%\n"</span>,error5)
+fprintf(<span class="string">"%d points to get an accuracy of  1%%\n"</span>,error1)
+fprintf(<span class="string">"%d points to get an accuracy of  0.1%%\n"</span>,error10th)
+
+figure(3)
+hold <span class="string">on</span>
+plot(points,L)
+plot(error5,lift5,<span class="string">'*'</span>)
+plot(error1,lift1,<span class="string">"*"</span>)
+plot(error10th,lift10th,<span class="string">"*"</span>)
+xlabel(<span class="string">"Integration Points"</span>)
+ylabel(<span class="string">"Lift (N)"</span>)
+title(<span class="string">"Airfoil Integration Error"</span>)
+legend(<span class="string">"Calculated Lift"</span>, <span class="string">"5% error"</span>, <span class="string">"1% error"</span>,<span class="string">"0.1% error"</span>,<span class="string">"location"</span>,<span class="string">"southeast"</span>)
+</pre><pre class="codeoutput">Using 5000 points for the 'Actual' lift you would need
+73 points to get an accuracy of  5%
+313 points to get an accuracy of  1%
+1819 points to get an accuracy of  0.1%
+</pre><img vspace="5" hspace="5" src="Matlab_Main_CA1_Razumovskiy_Samuel_03.png" alt=""> <h2 id="3">Functions Called</h2><p>The following functions were built and called as part of this assignment.</p><pre class="language-matlab">
+<span class="keyword">function</span> [Out] = mySimp(N,pres)
+<span class="comment">%mySimp Uses the composite Simpson's rule to integrate around a circle</span>
+<span class="comment">% Takes an input of the number of panels and a pressure distribution, then</span>
+<span class="comment">% uses a composite Simpson's rule for a line integral over a circle</span>
+tot = zeros(length(pres),1);
+h = 2*pi/N;
+<span class="keyword">for</span> k=2:2:N
+   tot = pres(k-1)+4*pres(k)+pres(k+1);
+<span class="keyword">end</span>
+Out = sum(tot)*h/3*.5;
+<span class="keyword">end</span>
+
+
+<span class="keyword">function</span> [Out] = myTrapz(base,height)
+<span class="comment">%myTrapz Use the composite trapazoidal rule to integrate anything</span>
+<span class="comment">%   Given the width between each point and a vector of heights the function</span>
+<span class="comment">%   uses the trapazoidal rule to give an approximate solution to the </span>
+<span class="comment">%   integral of the given values</span>
+
+out = zeros(size(height));
+<span class="keyword">for</span> i=1:length(height)-1
+    out(i) = base/2*(height(i)+height(i+1));
+<span class="keyword">end</span>
+
+Out = sum(out);
+<span class="keyword">end</span>
+
+
+</pre><p class="footer"><br><a href="https://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2019b</a><br></p></div><!--
+##### SOURCE BEGIN #####
+%% ASEN 3111 - Computational Assignment 01 - Main
+% We are trying to find the effect of the number of integration points or
+% panels on the accuracy of the lift and drag of objects.
+%
+%   Author: Samuel Razumovskiy
+%   Collaborators: None
+%   Date: 9/5/2019 (last revised: 9/19/2019)
+%% Problem 1
+clear,clc,close all
+
+toL = zeros(997);
+toD = zeros(997);
+i = 1;
+found = false;
+panels = 4:1000;
+% N is the number of panels
+
+for N=panels
+    % N since we want half the panels for upper and lower and twice as many
+    % sub panels as panels +1 for the extra point
+    thetaUp = linspace(0,pi,N+1);
+    thetaLo = linspace(pi,2*pi,N+1);
+    rho = 1.225; % kg/m^3
+    V = 30; % m/s
+    pfree = 101.3*10^3; % Pa
+    
+    % Pressure distribution calculations
+    pUp = (1-4*sin(thetaUp).^2).*(1/2*rho*V^2)+pfree;
+    pLo = (1-4*sin(thetaLo).^2).*(1/2*rho*V^2)+pfree;
+    
+    % Seting up the integration equations given in the book for lift and
+    % drag
+    intLup = pUp.*cos(pi/2-thetaUp); % Pa
+    intLlo = pLo.*cos(-pi/2-thetaLo); % Pa
+    
+    intDup = pUp.*sin(pi/2-thetaUp); % Pa
+    intDlo = pLo.*sin(-pi/2-thetaLo); % Pa
+    
+    % Integrating the lift and drag
+    toLup = mySimp(N,intLup); % N/m
+    toLlo = mySimp(N,intLlo); % N/m
+    
+    toDup = mySimp(N,-intDup);
+    toDlo = mySimp(N,intDlo);
+    
+    % Since L=N and D=A this calculation is valid
+    toL(i) = toLlo-toLup; % N/m
+    toD(i) = toDlo+toDup; % N/m
+    if i ~= 1
+        if abs(toL(i)-toL(i-1))<0.001 && abs(toD(i)-toD(i-1))<0.001 && found ~= true
+            noPanels = N;
+            found = true;
+        end
+    end
+    i = i+1;
+end
+
+figure(1)
+plot(panels,toD)
+xlabel("Panels")
+ylabel("Lift (N)")
+title("Lift error")
+figure(2)
+plot(panels,toL)
+xlabel("Panels")
+ylabel("Drag (N)")
+title("Drag Error")
+
+% Since L = 0
+panels = (find(abs(toL)<0.001,1)+7)/2;
+fprintf("The number of panels required to get an accuracy of 0.001N is %d",panels)
+
+%% Problem 2
+clear,clc,close all
+load Cp
+
+% Initializing values
+j = 1;
+p5 = false;
+p1 = false;
+
+% Givens
+c = 2; % m
+alpha = 9; % deg
+V = 30; % m/s
+rho = 1.225; % kg/m^3
+pinf = 101.3*10^3; % Pa
+t = 12/100; % /c
+
+% Range of integration points
+points = 5:5000;
+
+% Initializing lift and drag vectors
+L = zeros(size(points));
+D = zeros(size(points));
+
+for p=points
+    % Base of trapazoid for integration
+    base = c/p;
+    x = linspace(0,c,p); % m
+    y = t/.2.*c.*(0.2969.*sqrt(x./c)-0.1260.*(x./c)-0.3516.*(x./c).^2+...
+        0.2843.*(x./c).^3-0.1036.*(x./c).^4); % m
+    theta = zeros(size(x));
+    % An inital theta of -pi/2 since it is the leading edge
+    theta(1) = -pi/2;
+    for i=1:length(x)-1
+        theta(i+1) = -atan((y(i+1)-y(i))/(x(i+1)-x(i)));
+    end
+    
+    % Calculation of the coefficient of pressure
+    cPup = fnval(Cp_upper,x./c);
+    cPlo = fnval(Cp_lower,x./c);
+    
+    % Calculation of the pressure upper and lower
+    Pup = cPup*1/2*rho*V^2+pinf;
+    Plo = cPlo*1/2*rho*V^2+pinf;
+    
+    % Set up for Normal and Axial force integration, not actual Normal
+    % and Axial forces
+    NPup = Pup.*cos(theta);
+    NPlo = Plo.*cos(theta);
+    
+    APup = -Pup.*sin(theta);
+    APlo = Plo.*sin(theta);
+    
+    % Integrating for the Normal and Axial forces
+    N = myTrapz(base,NPlo)-myTrapz(base,NPup);
+    A = myTrapz(base,APlo)+myTrapz(base,APup);
+    
+    % Calculating Lift and Drag from Axial and Normal
+    L(j) = N*cosd(alpha)-A*sind(alpha);
+    D(j) = N*sind(alpha)+A*cosd(alpha);
+
+    j = j+1;
+end
+
+% Finding the number of integration points needed for the given relative
+% errors
+for i = 1:numel(L)
+    if p5 == false && abs(L(end)-L(i))/L(end) < 0.05
+        error5 = i+4;
+        lift5 = L(i);
+        p5 = true;
+    elseif p1 == false && abs(L(end)-L(i))/L(end) < 0.01
+        error1 = i+4;
+        lift1 = L(i);
+        p1 = true;
+    elseif abs(L(end)-L(i))/L(end) < 0.001
+        error10th = i+4;
+        lift10th = L(i);
+        break
+    end
+end
+
+fprintf("Using 5000 points for the 'Actual' lift you would need\n")
+fprintf("%d points to get an accuracy of  5%%\n",error5)
+fprintf("%d points to get an accuracy of  1%%\n",error1)
+fprintf("%d points to get an accuracy of  0.1%%\n",error10th)
+
+figure(3)
+hold on
+plot(points,L)
+plot(error5,lift5,'*')
+plot(error1,lift1,"*")
+plot(error10th,lift10th,"*")
+xlabel("Integration Points")
+ylabel("Lift (N)")
+title("Airfoil Integration Error")
+legend("Calculated Lift", "5% error", "1% error","0.1% error","location","southeast")
+
+%% Functions Called
+% The following functions were built and called as part of this assignment.
+%
+% <include>mySimp.m myTrapz.m</include>
+
+
+##### SOURCE END #####
+--></body></html>

@@ -3,7 +3,6 @@ f=@(t) (t+2./t).^2;
 error=5e-8;
 results=10;
 n=0;
-p=0;
 while abs(erf(x)-results)>error
     n=n+1;
     p=n*2;

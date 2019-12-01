@@ -1,0 +1,21 @@
+function V = DifData(dataUp,dataDo)
+%UNTITLED2 Summary of this function goes here
+%   Detailed explanation goes here
+
+rhoUp = dataUp(:,3);
+q_infUp = dataUp(:,6);
+yUp = dataUp(:,end);
+
+rhoDo = dataDo(:,3);
+q_infDo = dataDo(:,6);
+yDo = dataDo(:,end);
+
+VUp = sqrt(q_infUp.*2./rhoUp);
+VDo = sqrt(q_infDo.*2./rhoDo);
+
+if numel(VUp) > numel(VDo)
+    VDo = interp1(yUp,VD,yDo);
+
+V = VUp-VDo;
+end
+
