@@ -1,7 +1,8 @@
+%% Header
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Author: Samuel Razumovskiy
-% Date written: 11/14/19
-% Date modified: 11/21/19
+% Date written: 11/22/19
+% Date modified: 12/5/19
 % 
 % Purpose: Finding the eigenvalues of a 737 and observing its lateral 
 % flight characteristics
@@ -68,6 +69,7 @@ A = [        Yvp/m,          Ypp/m,        Yr/m-u0, g;...
 
 [V,D] = eig(A);
 
+% Specifying the fancy letter values
 Yv = A(1,1); Yp = A(1,2); Yr = A(1,3);
 Lv = A(2,1); Lp = A(2,2); Lr = A(2,3);
 Nv = A(3,1); Np = A(3,2); Nr = A(3,3);
@@ -75,6 +77,7 @@ Nv = A(3,1); Np = A(3,2); Nr = A(3,3);
 Re = real(D);
 Im = imag(D);
 
+% Roll approximation
 RollAp = A(2,2);
 e = g*(Lv*Nr-Lr*Nv);
 d = -g*Lv+Yv*(Lr*Np-Lv*Np)+Yr*(Lp*Nv-Lv*Np);
@@ -82,6 +85,7 @@ SpiralAp = -e/d;
 
 %% Question 2 a
 
+% Coefficients from the book are multiplied against a conversion matrix
 Coeff = [    0, -1.368e-2, -1.973e-4;...
         0.1146,  6.976e-3,   -0.1257];
 conv = [1/2*rho*u0^2*S, 1/2*rho*u0^2*S*b, 1/2*rho*u0^2*S*b;...
@@ -95,6 +99,7 @@ Ldr = dim(2,2);
 Nda = dim(1,3);
 Ndr = dim(2,3);
 
+% B matrix
 B = [          Yda/m,              Ydr/m;
     Lda/Ixp+Izxp*Nda, Ldr/Ixp+Izxp*Ndr;
     Izxp*Lda+Nda/Izp, Izxp*Ldr+Ndr/Izp;
@@ -102,11 +107,14 @@ B = [          Yda/m,              Ydr/m;
 
 %% Question 2 b
 
+% Augmenting the A and B matricies
 Aaug = [A(1,:),0,0;A(2,:),0,0;A(3,:),0,0;A(4,:),0,0;0,0,1,0,0,0;1,0,0,0,u0,0];
 
 Baug = [B(1,:);B(2,:);B(3,:);B(4,:);0,0;0,0];
 
 %% Question 3
+
+% Setting all the variations
 Ddaphi = 0:0.01:10;
 Ddap = -(0:0.01:10);
 Ddar = -(0:0.01:10);
@@ -116,14 +124,15 @@ Ddrp = -(0:0.01:2);
 Ddrr = 0:0.01:5;
 Ddrphi = -(0:0.01:5);
 Ddrpsi = 0:0.01:5;
-name = ['Case a','Case b','Case c','Case d','Case e','Case f','Case g',...
-    'Case h','Case i'];
+name = {'Case a';'Case b';'Case c';'Case d';'Case e';'Case f';'Case g';...
+    'Case h';'Case i'};
 
-K = {{   0, Ddap,    0,      0,      0,0;...
+% Creating all the K matrices for each case
+K = {{   0,    0,    0, Ddaphi,      0,0;...
+         0,    0,    0,      0,      0,0},...
+     {   0, Ddap,    0,      0,      0,0;...
          0,    0,    0,      0,      0,0},...
      {   0,    0, Ddar,      0,      0,0;...
-         0,    0,    0,      0,      0,0},...
-     {   0,    0,    0, Ddaphi,      0,0;...
          0,    0,    0,      0,      0,0},...
      {   0,    0,    0,      0, Ddapsi,0;...
          0,    0,    0,      0,      0,0},...
@@ -137,15 +146,16 @@ K = {{   0, Ddap,    0,      0,      0,0;...
          0,    0,    0, Ddrphi,      0,0},...
       {  0,    0,    0,      0,      0,0;...
          0,    0,    0,      0, Ddrpsi,0}};
-     
+
+% Loops through all the cases and plots the eigenvalues
 for i = 1: numel(K)
-    PlotEig(Aaug,Baug,K{i},name(i))
+    PlotEig(Aaug,Baug,K{i},name{i})
 end
 
 %% Functions Called
 % The following functions were built and called as part of this assignment.
 %
-% <include>linearized_Aircraft_ODE.m</include>
+% <include>PlotEig.m</include>
 
 
 

@@ -1,0 +1,187 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>ASEN 3111 - Computational Assignment 03 - Main</title><meta name="generator" content="MATLAB 9.7"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2019-12-12"><meta name="DC.source" content="Matlab_Main_Design_Lab_Samuel_Razumovskiy.m"><style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outine:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+html { min-height:100%; margin-bottom:1px; }
+html body { height:100%; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#000; line-height:140%; background:#fff none; overflow-y:scroll; }
+html body td { vertical-align:top; text-align:left; }
+
+h1 { padding:0px; margin:0px 0px 25px; font-family:Arial, Helvetica, sans-serif; font-size:1.5em; color:#d55000; line-height:100%; font-weight:normal; }
+h2 { padding:0px; margin:0px 0px 8px; font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#000; font-weight:bold; line-height:140%; border-bottom:1px solid #d6d4d4; display:block; }
+h3 { padding:0px; margin:0px 0px 5px; font-family:Arial, Helvetica, sans-serif; font-size:1.1em; color:#000; font-weight:bold; line-height:140%; }
+
+a { color:#005fce; text-decoration:none; }
+a:hover { color:#005fce; text-decoration:underline; }
+a:visited { color:#004aa0; text-decoration:none; }
+
+p { padding:0px; margin:0px 0px 20px; }
+img { padding:0px; margin:0px 0px 20px; border:none; }
+p img, pre img, tt img, li img, h1 img, h2 img { margin-bottom:0px; } 
+
+ul { padding:0px; margin:0px 0px 20px 23px; list-style:square; }
+ul li { padding:0px; margin:0px 0px 7px 0px; }
+ul li ul { padding:5px 0px 0px; margin:0px 0px 7px 23px; }
+ul li ol li { list-style:decimal; }
+ol { padding:0px; margin:0px 0px 20px 0px; list-style:decimal; }
+ol li { padding:0px; margin:0px 0px 7px 23px; list-style-type:decimal; }
+ol li ol { padding:5px 0px 0px; margin:0px 0px 7px 0px; }
+ol li ol li { list-style-type:lower-alpha; }
+ol li ul { padding-top:7px; }
+ol li ul li { list-style:square; }
+
+.content { font-size:1.2em; line-height:140%; padding: 20px; }
+
+pre, code { font-size:12px; }
+tt { font-size: 1.2em; }
+pre { margin:0px 0px 20px; }
+pre.codeinput { padding:10px; border:1px solid #d3d3d3; background:#f7f7f7; }
+pre.codeoutput { padding:10px 11px; margin:0px 0px 20px; color:#4c4c4c; }
+pre.error { color:red; }
+
+@media print { pre.codeinput, pre.codeoutput { word-wrap:break-word; width:100%; } }
+
+span.keyword { color:#0000FF }
+span.comment { color:#228B22 }
+span.string { color:#A020F0 }
+span.untermstring { color:#B20000 }
+span.syscmd { color:#B28C00 }
+
+.footer { width:auto; padding:10px 0px; margin:25px 0px 0px; border-top:1px dotted #878787; font-size:0.8em; line-height:140%; font-style:italic; color:#878787; text-align:left; float:none; }
+.footer p { margin:0px; }
+.footer a { color:#878787; }
+.footer a:hover { color:#878787; text-decoration:underline; }
+.footer a:visited { color:#878787; }
+
+table th { padding:7px 5px; text-align:left; vertical-align:middle; border: 1px solid #d6d4d4; font-weight:bold; }
+table td { padding:7px 5px; text-align:left; vertical-align:top; border:1px solid #d6d4d4; }
+
+
+
+
+
+  </style></head><body><div class="content"><h1>ASEN 3111 - Computational Assignment 03 - Main</h1><!--introduction--><p>Produces the lift coefficients and pressure distributions about four NACA airfoils and compares them to thin airfoils</p><pre class="language-matlab">Author: Samuel Razumovskiy
+Collaborators: A.Elsayed
+Date: 11/8/2019 (last revised: 11/21/2019)
+</pre><!--/introduction--><h2>Contents</h2><div><ul><li><a href="#1">(Knock knock) House keeping</a></li><li><a href="#2">Problem 1</a></li></ul></div><h2 id="1">(Knock knock) House keeping</h2><pre class="codeinput">clear,clc,close <span class="string">all</span>
+</pre><h2 id="2">Problem 1</h2><pre class="codeinput">T = readtable(<span class="string">'Cl and Cd.xlsx'</span>,<span class="string">'Range'</span>,<span class="string">'D:E'</span>);
+
+m = 0;
+p = 0;
+t = 12;
+c = 1;
+N = 150;
+M = N-2;
+v_inf = 52.06373;
+[x,y,yc] = NACA_Airfoils(m,p,t,c,N);
+alphas = linspace(0,15);
+    <span class="keyword">for</span> j = 1:numel(alphas)
+        alpha = alphas(j)*pi/180;
+        [cl(j)] = Vortex_Panel(alpha,v_inf,c,x,y,M);
+    <span class="keyword">end</span>
+
+<span class="comment">% Calculating the dz_dx</span>
+dz_dx = 0;
+<span class="comment">% Calculating theta</span>
+theta = acos(1-2*x(1:N/2)/c);
+<span class="comment">% Finding the midpoints of theta</span>
+thetamid = (theta(2:end)+theta(1:end-1))/2;
+<span class="comment">% Calculating the thin airfoil alpha L=0</span>
+thinalpha = 1/pi.*trapz(thetamid,dz_dx.*(cos(thetamid)-1));
+<span class="comment">% Finding the slope and y intercept of the thick airfoil data</span>
+fun = polyfit(alphas*pi/180,cl,1);
+<span class="comment">% Finding the x intercept of the thick airfoil data</span>
+alphal0 = (-fun(2)/fun(1));
+
+<span class="comment">% Slope of the CFD data</span>
+a = polyfit(T.AoA(6:end)*pi/180,T.Cl(6:end),1);
+[maxCl,I] = max(T.Cl);
+maxAlpha = T.AoA(I);
+fprintf(<span class="string">'Lift slope of the CFD data = %1.2f\n'</span>,a(1))
+fprintf(<span class="string">'Stall angle of attack = %1.2f\n'</span>,maxAlpha)
+fprintf(<span class="string">'Maximum Cl = %1.2f\n'</span>,maxCl)
+
+
+thinCl = 2*pi.*alphas*pi/180;
+
+figure
+hold <span class="string">on</span>
+plot(alphas,cl)
+plot(alphas,thinCl)
+plot(T.AoA,T.Cl)
+title(<span class="string">'C_l vs. \alpha'</span>)
+xlabel(<span class="string">'\alpha'</span>)
+ylabel(<span class="string">'C_l'</span>)
+legend(<span class="string">'Vortex Panel'</span>,<span class="string">'Thin Airfoil'</span>,<span class="string">'RANS'</span>,<span class="string">'location'</span>,<span class="string">'southeast'</span>)
+</pre><pre class="codeoutput">Lift slope of the CFD data = 5.91
+Stall angle of attack = 17.00
+Maximum Cl = 1.61
+</pre><img vspace="5" hspace="5" src="Matlab_Main_Design_Lab_Samuel_Razumovskiy_01.png" alt=""> <p class="footer"><br><a href="https://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2019b</a><br></p></div><!--
+##### SOURCE BEGIN #####
+%% ASEN 3111 - Computational Assignment 03 - Main
+% Produces the lift coefficients and pressure distributions about four NACA
+% airfoils and compares them to thin airfoils
+%
+%   Author: Samuel Razumovskiy
+%   Collaborators: A.Elsayed
+%   Date: 11/8/2019 (last revised: 11/21/2019)
+%% (Knock knock) House keeping
+clear,clc,close all
+%% Problem 1
+T = readtable('Cl and Cd.xlsx','Range','D:E');
+
+m = 0;
+p = 0;
+t = 12;
+c = 1;
+N = 150;
+M = N-2;
+v_inf = 52.06373;
+[x,y,yc] = NACA_Airfoils(m,p,t,c,N);
+alphas = linspace(0,15);
+    for j = 1:numel(alphas)
+        alpha = alphas(j)*pi/180;
+        [cl(j)] = Vortex_Panel(alpha,v_inf,c,x,y,M);
+    end
+
+% Calculating the dz_dx
+dz_dx = 0;
+% Calculating theta
+theta = acos(1-2*x(1:N/2)/c);
+% Finding the midpoints of theta
+thetamid = (theta(2:end)+theta(1:end-1))/2;
+% Calculating the thin airfoil alpha L=0
+thinalpha = 1/pi.*trapz(thetamid,dz_dx.*(cos(thetamid)-1));
+% Finding the slope and y intercept of the thick airfoil data
+fun = polyfit(alphas*pi/180,cl,1);
+% Finding the x intercept of the thick airfoil data
+alphal0 = (-fun(2)/fun(1));
+
+% Slope of the CFD data
+a = polyfit(T.AoA(6:end)*pi/180,T.Cl(6:end),1);
+[maxCl,I] = max(T.Cl);
+maxAlpha = T.AoA(I);
+fprintf('Lift slope of the CFD data = %1.2f\n',a(1))
+fprintf('Stall angle of attack = %1.2f\n',maxAlpha)
+fprintf('Maximum Cl = %1.2f\n',maxCl)
+
+
+thinCl = 2*pi.*alphas*pi/180;
+
+figure
+hold on
+plot(alphas,cl)
+plot(alphas,thinCl)
+plot(T.AoA,T.Cl)
+title('C_l vs. \alpha')
+xlabel('\alpha')
+ylabel('C_l')
+legend('Vortex Panel','Thin Airfoil','RANS','location','southeast')
+##### SOURCE END #####
+--></body></html>
