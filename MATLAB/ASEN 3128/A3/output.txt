@@ -1,0 +1,58 @@
+Board: 
+       
+
+
+Input x position: 1
+Input y position: 1
+Board:
+X
+
+
+Input x position: 2
+Input y position: 2
+Board: 
+X
+  O
+
+Input x position: 1
+Input y position: 3
+Board: 
+X   X
+  O
+
+Input x position: 1
+Input y position: 2
+Board: 
+X O X
+  O
+
+Input x position: 3
+Input y position: 2
+Board: 
+X O X
+  O
+  X
+Input x position: 2
+Input y position: 1
+Board: 
+X O X
+O O
+  X
+Input x position: 2
+Input y position: 3
+Board: 
+X O X
+O O X
+  X
+Input x position: 3
+Input y position: 3
+Board: 
+X O X
+O O X
+  X O
+Input x position: 3
+Input y position: 1
+Board: 
+X O X
+O O X
+X X O

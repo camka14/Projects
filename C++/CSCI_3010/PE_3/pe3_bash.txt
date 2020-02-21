@@ -1,0 +1,18 @@
+1. pwd
+2. touch empty.txt
+3. ls empty*
+4. ls *.txt | wc -w
+5. echo Samuel >> empty.txt
+6. mv empty.txt notempty.txt
+7. mkdir pe3_bash
+8. cd pe3_bash/
+9. mkdir ../pe3_bash_number2
+10. cd !$ (last command must be 'mkdir ../pe3_bash_number2;)
+11. brings up the previous command used
+12. brings up the next command used if looking at a previous one
+13. brings up the last command matching the characters you provide
+14. Vim, Nano
+14.1 vim
+14.2 :w
+14.3 :q or :wq
+15. They would be nice to use if I'm in a directory and don't want to open a file from the file explorer.
