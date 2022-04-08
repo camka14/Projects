@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:gh" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nvpstr" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pribalta" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sharatht" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="843bb7b0-0114-4c13-bbd7-f97248c1161f" name="Default Changelist" comment="" />
+    <list default="true" id="843bb7b0-0114-4c13-bbd7-f97248c1161f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/Copter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/MainSimLoop.slx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/SimscapeHexacopterModel.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/Startup.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/FpCg-t7a31BHxPPcBaM07Wai_FEd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/FpCg-t7a31BHxPPcBaM07Wai_FEp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/TiNurPpQYCuGjA2t9Smfb5sXKBcd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/TiNurPpQYCuGjA2t9Smfb5sXKBcp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/KAXfQgCar2Yb8zOxgvf9hdmLP1E/Q-Q2_WrmX3bX_ML2vJOQgZTBvfQd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/KAXfQgCar2Yb8zOxgvf9hdmLP1E/Q-Q2_WrmX3bX_ML2vJOQgZTBvfQp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/A5PYhlmRxX32TstG3pD6XGWLPo8d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/A5PYhlmRxX32TstG3pD6XGWLPo8p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TkuCUM-3dPIjE_Ds1CW9KByRnXcd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/TkuCUM-3dPIjE_Ds1CW9KByRnXcp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ufq8hSeVCn0GiO99OnONreRQvrEd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/ufq8hSeVCn0GiO99OnONreRQvrEp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/rootp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATLAB/RiBBIT/Simscape Hexacopter Model/resources/project/uuid-c6cbd7d7-1262-4b15-aca5-ebb62ac8681b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bitcoin Stuff/Bigquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bitcoin Stuff/file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../C++/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A4/linearized_FB_quadcopter_ODE.asv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A5/Assignment_5_QuadCopter.m" beforeDir="false" afterPath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A5/Assignment_5_QuadCopter.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A7/AS7.m" beforeDir="false" afterPath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A7/AS7.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A7/linearized_Aircraft_ODE.m" beforeDir="false" afterPath="$PROJECT_DIR$/../MATLAB/ASEN 3128/A7/linearized_Aircraft_ODE.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MATLAB/ASEN 3200/HW_3_TylerPirner.asv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MATLAB/ASEN 3200/HW_3_TylerPirner.m" beforeDir="false" afterPath="$PROJECT_DIR$/../MATLAB/ASEN 3200/HW_3_TylerPirner.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Affiliate Research(On Hold)/TF-IDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Affiliate Research(On Hold)/TF-IDF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Affiliate Research(On Hold)/spellcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Affiliate Research(On Hold)/spellcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning(Tutorials)/Feature Engineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning(Tutorials)/Feature Engineering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market(Experimentation)/Machine Learning Training/Hackerman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market(Experimentation)/Research.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Market(Experimentation)/Research.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,25 +126,112 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bitcoin Stuff" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\camka\Documents\Code\Python\Bitcoin Stuff" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Default">
+    <configuration name="Default" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bitcoin Stuff/Bigquery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FluidSim" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\camka\Documents\Code\Python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSCI 3104" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSCI 3104/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Default" />
+      <item itemvalue="Python.FluidSim" />
+      <item itemvalue="Python.graph" />
+    </list>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="Python.graph" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,18 +246,56 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1201" y="274" key="FileChooserDialogImpl" timestamp="1575405497987">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2045" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633661985054">
+      <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="1201" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575405497987" />
-    <state x="922" y="162" key="SettingsEditor" timestamp="1575405550772">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2045" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661985054" />
+    <state x="2434" y="571" key="FileChooserDialogImpl" timestamp="1633661309044">
+      <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="922" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575405550772" />
-    <state x="1136" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575405380844">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2434" y="571" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661309044" />
+    <state width="1319" height="367" key="GridCell.Tab.0.bottom" timestamp="1633661992941">
+      <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="1136" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575405380844" />
+    <state width="1319" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661992941" />
+    <state width="1319" height="367" key="GridCell.Tab.0.center" timestamp="1633661992941">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1319" height="367" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661992941" />
+    <state width="1319" height="367" key="GridCell.Tab.0.left" timestamp="1633661992941">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1319" height="367" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661992941" />
+    <state width="1319" height="367" key="GridCell.Tab.0.right" timestamp="1633661992941">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1319" height="367" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661992941" />
+    <state x="2092" y="348" key="SettingsEditor" timestamp="1633661616856">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2092" y="348" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400/-2560.0.2560.1400@1920.0.2560.1400" timestamp="1633661616856" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine Learning(Tutorials)/Feature Engineering.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

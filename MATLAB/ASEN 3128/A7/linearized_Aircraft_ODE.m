@@ -33,9 +33,9 @@ w_d = del_y_d(2);
 
 % Velocity in E frame coordinates
 VE_E = L_EB*del_VE_B;
-vel_NE = u0+del_u;
+vel_NE = del_u;
 vel_EE = VE_E(2);
-vel_DE = w-10*del_theta;
+vel_DE = w-u0*del_theta;
 
 % Finding the aerodynamic moments from rotors and drag
 del_Lc = 0;

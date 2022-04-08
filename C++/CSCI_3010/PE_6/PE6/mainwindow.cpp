@@ -1,0 +1,17 @@
+#include "mainwindow.h"
+#include "ui_mainwindow.h"
+#include <QStatusBar>
+
+MainWindow::MainWindow(QWidget *parent)
+    : QMainWindow(parent)
+    , ui(new Ui::MainWindow)
+{
+    ui->setupUi(this);
+    statusBar()->showMessage("YOUR MESSAGE HERE");
+}
+
+MainWindow::~MainWindow()
+{
+    delete ui;
+}
+

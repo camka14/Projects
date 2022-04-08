@@ -1,0 +1,2868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="01/17/21||22:32:14" using="Simscape Multibody Link Version 7.2" from="SolidWorks 27.2.0"/>
+<ModelUnits mass="kilogram" length="centimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="DJI S900 STEP File" uid="DJI S900 STEP File" version="161">
+<AssemblyFile name="DJI S900 STEP File.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="DJI S900 STEP File.STEP-1" uid="DJI S900 STEP File.STEP-1" entityUid="DJI S900 STEP File.STEP" rigid="true">
+<Transform>
+<Rotation>0.9999999999991207 0 -1.3261603628775349e-06 0 1 0 1.3261603628775349e-06 0 0.9999999999991207</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Pre-Finished.STEP-1" uid="DJI S900 Pre-Finished.STEP-1" grounded="true" entityUid="DJI S900 Pre-Finished.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Landing Bracket Attachment Piece.STEP-2" uid="DJI S900 Landing Bracket Attachment Piece.STEP-2" grounded="true" entityUid="DJI S900 Landing Bracket Attachment Piece.STEP*:*Default">
+<Transform>
+<Rotation>1.3261603609999996e-06 -9.9999999999824112e-16 -0.9999999999991207 9.9999999999999968e-16 1 -9.9999867383875979e-16 0.9999999999991207 -9.9999867384051816e-16 1.3261603609999996e-06</Rotation>
+<Translation>-0.13523479622090004 -0.051124643749999997 -1.2828477037e-05</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 A2 IMU.STEP-1" uid="DJI S900 A2 IMU.STEP-1" grounded="true" entityUid="DJI S900 A2 IMU.STEP*:*Default">
+<Transform>
+<Rotation>0.9999999999991207 0 1.3261603628775349e-06 0 1 0 -1.3261603628775349e-06 0 0.9999999999991207</Rotation>
+<Translation>2.3326719900000003e-07 -0.025356400000000001 -0.095598568991556013</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 GPS Compass.STEP-1" uid="DJI S900 GPS Compass.STEP-1" grounded="true" entityUid="DJI S900 GPS Compass.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0.171418170790783 -8.4425018972000002e-05</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 GPS Module.STEP-1" uid="DJI S900 GPS Module.STEP-1" grounded="true" entityUid="DJI S900 GPS Module.STEP*:*Default">
+<Transform>
+<Rotation>-1 9.9999989774837532e-16 0 0 0 1 9.9999989774837532e-16 1 0</Rotation>
+<Translation>-0.00046352579764600004 0.169433528065498 0.011474618655490001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Assembly of Frames and Wings.STEP-1" uid="DJI S900 Assembly of Frames and Wings.STEP-1" grounded="true" entityUid="DJI S900 Assembly of Frames and Wings.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Frame Connection Rod.STEP-3" uid="DJI S900 Frame Connection Rod.STEP-3" grounded="true" entityUid="DJI S900 Frame Connection Rod.STEP*:*Default">
+<Transform>
+<Rotation>-0.96877960017660014 0 -0.24792354926804902 0 1 0 0.24792354926804902 0 -0.96877960017660014</Rotation>
+<Translation>0.076593700000008008 -0.032003999999999998 -5.9999999952951828e-15</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 CCW Black.STEP-1" uid="DJI S900 CCW Black.STEP-1" grounded="true" entityUid="DJI S900 CCW Black.STEP" rigid="true">
+<Transform>
+<Rotation>0.86337366892495093 0.027736490012486573 0.50380213867038759 0.00029330783585599995 0.99846018873420739 -0.055472204601623498 -0.50456498271043604 0.048041009925252266 0.86203610109309181</Rotation>
+<Translation>-0.20154796948655804 0.037020107316563002 -0.34909132331308901</Translation>
+</Transform>
+<Instance name="DJI S900 Propellor CCW.STEP-2" uid="DJI S900 Propellor CCW.STEP-2" grounded="true" entityUid="DJI S900 Propellor CCW.STEP*:*Default">
+<Transform>
+<Rotation>-0.044173083885721019 -0.002131534675735998 0.99902161899528052 -0.076004505145708029 0.99710671165833831 -0.0012331923821871289 -0.99612853279964897 -0.075984617692145942 -0.04420728465532945</Rotation>
+<Translation>0.048703437166529001 -0.0021988822723420023 0.0038011155619829817</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CCW.STEP-1" uid="DJI S900 Propellor CCW.STEP-1" grounded="true" entityUid="DJI S900 Propellor CCW.STEP*:*Default">
+<Transform>
+<Rotation>0.007018807268952933 -0.00070173103944000392 -0.99997512164956848 -0.076004505145708043 0.9971067116583382 -0.0012331923821867095 0.99708277065752038 0.076011269818650751 0.0069451651153112793</Rotation>
+<Translation>-0.048545589052615995 -0.0021988822723420058 -0.004666944471207024</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Motor.STEP-1" uid="DJI S900 Black Motor.STEP-1" grounded="true" entityUid="DJI S900 Black Motor.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Motor Top Frame.STEP-1" uid="DJI S900 Motor Top Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Top Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280092 0 0.0052874000229219953 0 1 0 -0.0052874000229219953 0 -0.99998602160280092</Rotation>
+<Translation>0 -0.034085719879999997 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Cage.STEP-1" uid="DJI S900 Motor Cage.STEP-1" grounded="true" entityUid="DJI S900 Motor Cage.STEP*:*Default">
+<Transform>
+<Rotation>-0.99983979186392047 -0.01789945824632894 0 0 0 0.99999999999999989 -0.01789945824632894 0.99983979186392047 0</Rotation>
+<Translation>0.021897516549528984 -0.032895094880000003 -0.062059619039376901</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Bottom Frame.STEP-1" uid="DJI S900 Motor Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280092 0 0.0052874000229219953 0 1 0 -0.0052874000229219953 0 -0.99998602160280092</Rotation>
+<Translation>0 -0.04916379488 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover (Underside).STEP-1" uid="DJI S900 Black Prop Cover (Underside).STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover (Underside).STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.0057546875000000011 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover.STEP-1" uid="DJI S900 Black Prop Cover.STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Encasement Black.STEP-1" uid="DJI S900 Motor Encasement Black.STEP-1" grounded="true" entityUid="DJI S900 Motor Encasement Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280092 -7.004813395994347e-15 0.0052874000229219953 -6.9978745020904398e-15 0.99999999999999989 0 -0.0052874000229220508 0 -0.99998602160280092</Rotation>
+<Translation>0 -0.042416919880000001 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Encasement Arm Bottom Frame.STEP-1" uid="DJI S900 Encasement Arm Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280092 0 0.0052874000229219953 0 1 0 -0.0052874000229219953 0 -0.99998602160280092</Rotation>
+<Translation>0 -0.047973169879999993 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Arm.STEP-1" uid="DJI S900 Arm.STEP-1" grounded="true" entityUid="DJI S900 Arm.STEP*:*Default">
+<Transform>
+<Rotation>0 0.99998602160280092 0.0052874000229219953 1 0 0 0 0.0052874000229219953 -0.99998602160280092</Rotation>
+<Translation>-0.0013971224899369875 -0.038251319880000009 0.26423250640144197</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wing Bracket Black.STEP-1" uid="DJI S900 Wing Bracket Black.STEP-1" grounded="true" entityUid="DJI S900 Wing Bracket Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280092 0 0.0052874000229219953 0 1 0 -0.0052874000229219953 0 -0.99998602160280092</Rotation>
+<Translation>-0.0014374124781119796 -0.038251319880000009 0.27185239988605592</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 CW Red.STEP-1" uid="DJI S900 CW Red.STEP-1" grounded="true" entityUid="DJI S900 CW Red.STEP" rigid="true">
+<Transform>
+<Rotation>-0.87519045104480886 -0.028246098410464934 -0.48295324030859371 -0.0010542301341859997 0.99840304070968522 -0.056482359197175737 0.48377738992103397 -0.048923677562515054 -0.87382258541133562</Rotation>
+<Translation>0.20151111691759202 0.037291639797756002 0.349027492791252</Translation>
+</Transform>
+<Instance name="DJI S900 Black Prop Cover (Underside).STEP-1" uid="DJI S900 Black Prop Cover (Underside).STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover (Underside).STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.0057546875000000011 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Cage.STEP-1" uid="DJI S900 Motor Cage.STEP-1" grounded="true" entityUid="DJI S900 Motor Cage.STEP*:*Default">
+<Transform>
+<Rotation>0.95418807682293827 -0.29920747659265196 0 0 0 0.99999999999999989 -0.29920747659265212 -0.95418807682293827 0</Rotation>
+<Translation>-0.0011480549943589657 -0.03289509488000001 0.065799540394134992</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Encasement.STEP-1" uid="DJI S900 Motor Encasement.STEP-1" grounded="true" entityUid="DJI S900 Motor Encasement.STEP*:*Default">
+<Transform>
+<Rotation>-0.9998258587148825 -7.004813395994347e-15 -0.018661517758423951 -6.9944050551384862e-15 1 -1.3877787807814457e-16 0.018661517758424062 0 -0.9998258587148825</Rotation>
+<Translation>0 -0.042416919880000001 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Top Frame.STEP-1" uid="DJI S900 Motor Top Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Top Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.9998258587148825 0 -0.018661517758423951 0 0.99999999999999989 0 0.018661517758424062 0 -0.9998258587148825</Rotation>
+<Translation>0 -0.034085719880000004 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Encasement Arm Bottom Frame.STEP-1" uid="DJI S900 Encasement Arm Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.9998258587148825 0 -0.018661517758423951 0 0.99999999999999989 0 0.018661517758424062 0 -0.9998258587148825</Rotation>
+<Translation>0 -0.047973169879999999 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Bottom Frame.STEP-1" uid="DJI S900 Motor Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.9998258587148825 0 -0.018661517758423951 0 0.99999999999999989 0 0.018661517758424062 0 -0.9998258587148825</Rotation>
+<Translation>0 -0.04916379488 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm.STEP-1" uid="DJI S900 Arm.STEP-1" grounded="true" entityUid="DJI S900 Arm.STEP*:*Default">
+<Transform>
+<Rotation>0 0.9998258587148825 -0.01866151775842495 0.99999999999999989 0 0 0 -0.018661517758425117 -0.9998258587148825</Rotation>
+<Translation>0.0049310485387190003 -0.038251319880000002 0.264190185568557</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Red Prop Cover.STEP-1" uid="DJI S900 Red Prop Cover.STEP-1" grounded="true" entityUid="DJI S900 Red Prop Cover.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CW MIRROR.STEP-1" uid="DJI S900 Propellor CW MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Propellor CW MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-0.029571642218559069 0.0010178706034580116 -0.99956214509950925 0.076004505145708001 0.99710671165833831 -0.0012331923821875847 0.9966688683680518 -0.07600769372458327 -0.029563445682402434</Rotation>
+<Translation>-0.048645235762642985 -0.0021988822723420023 0.0041421827131450373</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CW MIRROR.STEP-2" uid="DJI S900 Propellor CW MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Propellor CW MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0.019654270688327036 -0.00026161591613801938 0.99980680193766569 0.076004505145708001 0.99710671165833842 -0.0012331923821869602 -0.99691374995095028 0.076014058719475475 0.019617289204324873</Rotation>
+<Translation>0.048602874504775989 -0.0021988822723419989 -0.0043732457060530194</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wing Bracket.STEP-1" uid="DJI S900 Wing Bracket.STEP-1" grounded="true" entityUid="DJI S900 Wing Bracket.STEP*:*Default">
+<Transform>
+<Rotation>-0.9998258587148825 0 -0.018661517758423951 0 0.99999999999999989 0 0.018661517758424062 0 -0.9998258587148825</Rotation>
+<Translation>0.0050732493040379911 -0.038251319880000002 0.27180885861196497</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Left.STEP-2" uid="DJI S900 Arm Mounting Bracket Left.STEP-2" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default">
+<Transform>
+<Rotation>-0.50000000000000222 0 0.86602540378443749 0 1 0 -0.86602540378443749 0 -0.50000000000000222</Rotation>
+<Translation>-0.047100720539840997 -0.038506400000000003 -0.10342484104814402</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 CW black.STEP-1" uid="DJI S900 CW black.STEP-1" grounded="true" entityUid="DJI S900 CW black.STEP" rigid="true">
+<Transform>
+<Rotation>-0.0052788045895240015 0.05699689920054999 0.99836039970725421 0.00030136540613999999 0.99837435538054686 -0.056996102475253857 -0.99998602160280103 5.1910874746644866e-16 -0.0052874000229221904</Rotation>
+<Translation>-0.40298563186609404 0.037426076910873997 -5.0000000181374686e-15</Translation>
+</Transform>
+<Instance name="DJI S900 Propellor CW MIRROR.STEP-1" uid="DJI S900 Propellor CW MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Propellor CW MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-0.032625967596679989 0.001250804556212979 -0.99946684873803715 0.076004505145707973 0.99710671165833831 -0.0012331923821875812 0.99657356047405576 -0.076004217342576397 -0.032626638046326047</Rotation>
+<Translation>-0.048657821036041007 -0.0021988822723420058 0.0040709242126809597</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm.STEP-1" uid="DJI S900 Arm.STEP-1" grounded="true" entityUid="DJI S900 Arm.STEP*:*Default">
+<Transform>
+<Rotation>0 0.99998602160280103 0.0052874000229220005 1 0 0 0 0.0052874000229220005 -0.99998602160280148</Rotation>
+<Translation>-0.0013971224899370009 -0.038251319880000002 0.26423250640144214</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CW MIRROR.STEP-2" uid="DJI S900 Propellor CW MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Propellor CW MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0.050150909055107981 -0.0025875450765759666 0.99873829952166293 0.07600450514570796 0.9971067116583382 -0.0012331923821869875 -0.99584547070240892 0.07597045594421635 0.050202473097702462</Rotation>
+<Translation>0.048725831192415997 -0.0021988822723419971 -0.0036611832066730243</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wing Bracket Black.STEP-1" uid="DJI S900 Wing Bracket Black.STEP-1" grounded="true" entityUid="DJI S900 Wing Bracket Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229220005 0 1 0 -0.0052874000229220005 0 -0.99998602160280148</Rotation>
+<Translation>-0.0014374124781120004 -0.038251319880000009 0.27185239988605603</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Motor.STEP-1" uid="DJI S900 Black Motor.STEP-1" grounded="true" entityUid="DJI S900 Black Motor.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Motor Top Frame.STEP-1" uid="DJI S900 Motor Top Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Top Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229220005 0 1 0 -0.0052874000229220005 0 -0.99998602160280148</Rotation>
+<Translation>0 -0.034085719880000004 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Cage.STEP-1" uid="DJI S900 Motor Cage.STEP-1" grounded="true" entityUid="DJI S900 Motor Cage.STEP*:*Default">
+<Transform>
+<Rotation>-0.99983979186392047 -0.017899458246328992 0 0 0 0.99999999999999989 -0.017899458246328992 0.99983979186392047 0</Rotation>
+<Translation>0.021897516549529008 -0.03289509488000001 -0.062059619039377067</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Bottom Frame.STEP-1" uid="DJI S900 Motor Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229220005 0 1 0 -0.0052874000229220005 0 -0.99998602160280148</Rotation>
+<Translation>0 -0.049163794880000014 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover (Underside).STEP-1" uid="DJI S900 Black Prop Cover (Underside).STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover (Underside).STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.0057546874999999994 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover.STEP-1" uid="DJI S900 Black Prop Cover.STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Encasement Black.STEP-1" uid="DJI S900 Motor Encasement Black.STEP-1" grounded="true" entityUid="DJI S900 Motor Encasement Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 -7.0000367654465432e-15 0.0052874000229220005 -6.9999197690207037e-15 1 0 -0.0052874000229220005 0 -0.99998602160280148</Rotation>
+<Translation>0 -0.042416919880000001 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Encasement Arm Bottom Frame.STEP-1" uid="DJI S900 Encasement Arm Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229220005 0 1 0 -0.0052874000229220005 0 -0.99998602160280148</Rotation>
+<Translation>0 -0.047973169879999999 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="DJI S900 CW black.STEP-2" uid="DJI S900 CW black.STEP-2" grounded="true" entityUid="DJI S900 CW black.STEP" rigid="true">
+<Transform>
+<Rotation>0.86865270043212672 -0.028498449600275307 -0.49460117711379803 0.00030136540613999989 0.99837435538054675 -0.056996102475254481 0.49542143192525095 0.049360762644617813 0.86724916829033372</Rotation>
+<Translation>0.20149281593305607 0.037426076910873997 -0.34899579455615598</Translation>
+</Transform>
+<Instance name="DJI S900 Propellor CW MIRROR.STEP-1" uid="DJI S900 Propellor CW MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Propellor CW MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-0.032625967596680017 0.0012508045562129866 -0.99946684873803715 0.076004505145708001 0.9971067116583382 -0.0012331923821875812 0.99657356047405576 -0.076004217342576383 -0.03262663804632604</Rotation>
+<Translation>-0.048657821036040966 -0.0021988822723419989 0.0040709242126810152</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm.STEP-1" uid="DJI S900 Arm.STEP-1" grounded="true" entityUid="DJI S900 Arm.STEP*:*Default">
+<Transform>
+<Rotation>0 0.99998602160280115 0.0052874000229219398 0.99999999999999989 0 0 0 0.0052874000229219398 -0.99998602160280115</Rotation>
+<Translation>-0.0013971224899369944 -0.038251319879999995 0.26423250640144197</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CW MIRROR.STEP-2" uid="DJI S900 Propellor CW MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Propellor CW MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0.050150909055107995 -0.0025875450765759644 0.99873829952166293 0.076004505145707987 0.9971067116583382 -0.001233192382186981 -0.99584547070240881 0.075970455944216378 0.050202473097702482</Rotation>
+<Translation>0.048725831192416025 -0.0021988822723420023 -0.0036611832066730243</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wing Bracket Black.STEP-1" uid="DJI S900 Wing Bracket Black.STEP-1" grounded="true" entityUid="DJI S900 Wing Bracket Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280115 0 0.0052874000229219398 0 0.99999999999999989 0 -0.0052874000229219398 0 -0.99998602160280115</Rotation>
+<Translation>-0.0014374124781119726 -0.038251319879999995 0.27185239988605592</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Motor.STEP-1" uid="DJI S900 Black Motor.STEP-1" grounded="true" entityUid="DJI S900 Black Motor.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Motor Top Frame.STEP-1" uid="DJI S900 Motor Top Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Top Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280115 0 0.0052874000229219398 0 0.99999999999999989 0 -0.0052874000229219398 0 -0.99998602160280115</Rotation>
+<Translation>0 -0.03408571987999999 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Cage.STEP-1" uid="DJI S900 Motor Cage.STEP-1" grounded="true" entityUid="DJI S900 Motor Cage.STEP*:*Default">
+<Transform>
+<Rotation>-0.99983979186392047 -0.017899458246328992 0 0 0 0.99999999999999978 -0.017899458246328936 0.99983979186392058 0</Rotation>
+<Translation>0.021897516549529039 -0.032895094880000003 -0.062059619039377012</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Bottom Frame.STEP-1" uid="DJI S900 Motor Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280115 0 0.0052874000229219398 0 0.99999999999999989 0 -0.0052874000229219398 0 -0.99998602160280115</Rotation>
+<Translation>0 -0.04916379488 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover (Underside).STEP-1" uid="DJI S900 Black Prop Cover (Underside).STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover (Underside).STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.0057546875000000046 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover.STEP-1" uid="DJI S900 Black Prop Cover.STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Encasement Black.STEP-1" uid="DJI S900 Motor Encasement Black.STEP-1" grounded="true" entityUid="DJI S900 Motor Encasement Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280115 -6.9978745020904398e-15 0.0052874000229219398 -7.0013439490423934e-15 1 0 -0.0052874000229219398 0 -0.99998602160280115</Rotation>
+<Translation>0 -0.042416919880000001 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Encasement Arm Bottom Frame.STEP-1" uid="DJI S900 Encasement Arm Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280115 0 0.0052874000229219398 0 0.99999999999999989 0 -0.0052874000229219398 0 -0.99998602160280115</Rotation>
+<Translation>0 -0.047973169879999999 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="DJI S900 CCW Black.STEP-2" uid="DJI S900 CCW Black.STEP-2" grounded="true" entityUid="DJI S900 CCW Black.STEP" rigid="true">
+<Transform>
+<Rotation>0.0052792584248269993 -0.05547298002497203 -0.99844623186110193 0.00029330783585599995 0.9984601887342075 -0.055472204601623422 0.99998602160280081 1.0897443355291689e-15 0.0052874000229490292</Rotation>
+<Translation>0.40309593897313406 0.037020107186757002 5.0000000181374686e-15</Translation>
+</Transform>
+<Instance name="DJI S900 Propellor CCW.STEP-2" uid="DJI S900 Propellor CCW.STEP-2" grounded="true" entityUid="DJI S900 Propellor CCW.STEP*:*Default">
+<Transform>
+<Rotation>-0.044173083885720985 -0.0021315346757359954 0.99902161899528041 -0.076004505145708001 0.99710671165833831 -0.0012331923821871276 -0.99612853279964886 -0.075984617692145914 -0.044207284655329415</Rotation>
+<Translation>0.048703437166528994 -0.0021988822723420006 0.0038011155619830372</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CCW.STEP-1" uid="DJI S900 Propellor CCW.STEP-1" grounded="true" entityUid="DJI S900 Propellor CCW.STEP*:*Default">
+<Transform>
+<Rotation>0.0070188072689529998 -0.00070173103944000251 -0.99997512164956848 -0.076004505145708015 0.9971067116583382 -0.001233192382186713 0.99708277065752038 0.076011269818650737 0.0069451651153113461</Rotation>
+<Translation>-0.048545589052615995 -0.0021988822723420058 -0.004666944471207024</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Motor.STEP-1" uid="DJI S900 Black Motor.STEP-1" grounded="true" entityUid="DJI S900 Black Motor.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="DJI S900 Motor Top Frame.STEP-1" uid="DJI S900 Motor Top Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Top Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229219996 0 1.0000000000000002 0 -0.0052874000229220005 0 -0.99998602160280126</Rotation>
+<Translation>0 -0.034085719880000004 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Cage.STEP-1" uid="DJI S900 Motor Cage.STEP-1" grounded="true" entityUid="DJI S900 Motor Cage.STEP*:*Default">
+<Transform>
+<Rotation>-0.99983979186392036 -0.017899458246328988 0 0 0 1 -0.017899458246328992 0.99983979186392069 0</Rotation>
+<Translation>0.021897516549528998 -0.032895094880000017 -0.062059619039377012</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Bottom Frame.STEP-1" uid="DJI S900 Motor Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229219996 0 1.0000000000000002 0 -0.0052874000229220005 0 -0.99998602160280126</Rotation>
+<Translation>0 -0.049163794880000021 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover (Underside).STEP-1" uid="DJI S900 Black Prop Cover (Underside).STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover (Underside).STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.0057546875000000046 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Black Prop Cover.STEP-1" uid="DJI S900 Black Prop Cover.STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Encasement Black.STEP-1" uid="DJI S900 Motor Encasement Black.STEP-1" grounded="true" entityUid="DJI S900 Motor Encasement Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 -7.0000781906516199e-15 0.0052874000229219996 -6.9999338641783416e-15 1.0000000000000002 0 -0.0052874000229220014 0 -0.99998602160280126</Rotation>
+<Translation>0 -0.042416919880000015 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Encasement Arm Bottom Frame.STEP-1" uid="DJI S900 Encasement Arm Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229219996 0 1.0000000000000002 0 -0.0052874000229220005 0 -0.99998602160280126</Rotation>
+<Translation>0 -0.047973169880000013 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Arm.STEP-1" uid="DJI S900 Arm.STEP-1" grounded="true" entityUid="DJI S900 Arm.STEP*:*Default">
+<Transform>
+<Rotation>0 0.99998602160280103 0.0052874000229219996 1.0000000000000002 0 0 0 0.0052874000229220005 -0.99998602160280126</Rotation>
+<Translation>-0.001397122489937 -0.038251319880000016 0.26423250640144214</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wing Bracket Black.STEP-1" uid="DJI S900 Wing Bracket Black.STEP-1" grounded="true" entityUid="DJI S900 Wing Bracket Black.STEP*:*Default">
+<Transform>
+<Rotation>-0.99998602160280103 0 0.0052874000229219996 0 1.0000000000000002 0 -0.0052874000229220005 0 -0.99998602160280126</Rotation>
+<Translation>-0.0014374124781120002 -0.038251319880000009 0.27185239988605608</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Center Frame Top Outer Board.STEP-1" uid="DJI S900 Center Frame Top Outer Board.STEP-1" grounded="true" entityUid="DJI S900 Center Frame Top Outer Board.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.077084697207584013 -0.0016002 0.024472167727872002</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Center Frame Top Inner Board.STEP-1" uid="DJI S900 Center Frame Top Inner Board.STEP-1" grounded="true" entityUid="DJI S900 Center Frame Top Inner Board.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Frame Connection Rod.STEP-1" uid="DJI S900 Frame Connection Rod.STEP-1" grounded="true" entityUid="DJI S900 Frame Connection Rod.STEP*:*Default">
+<Transform>
+<Rotation>0.26968170822577087 0 0.96294951905509052 0 1 0 -0.96294951905509052 0 0.26968170822577087</Rotation>
+<Translation>-0.038296849999999008 -0.032003999999999998 0.066332089969864005</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Frame Connection Rod.STEP-2" uid="DJI S900 Frame Connection Rod.STEP-2" grounded="true" entityUid="DJI S900 Frame Connection Rod.STEP*:*Default">
+<Transform>
+<Rotation>-0.69909789195083205 0 0.71502596978704402 0 1 0 -0.71502596978704402 0 -0.69909789195083205</Rotation>
+<Translation>0.038296850000009 -0.032003999999999998 0.066332089969849004</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Frame Connection Rod.STEP-6" uid="DJI S900 Frame Connection Rod.STEP-6" grounded="true" entityUid="DJI S900 Frame Connection Rod.STEP*:*Default">
+<Transform>
+<Rotation>0.96877960017659859 0 0.24792354926805613 0 1 0 -0.24792354926805613 0 0.96877960017659859</Rotation>
+<Translation>-0.076593700000008008 -0.032003999999999998 5.9999999952951828e-15</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Left.STEP-1" uid="DJI S900 Arm Mounting Bracket Left.STEP-1" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default">
+<Transform>
+<Rotation>0.49999999999999989 0 0.86602540378443882 0 1 0 -0.86602540378443882 0 0.49999999999999989</Rotation>
+<Translation>0.066018179460144003 -0.038506400000000003 -0.092502841048131002</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-1" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0.49999999999999989 0 0.86602540378443882 0 1 0 -0.86602540378443882 0 0.49999999999999989</Rotation>
+<Translation>0.047100720539875997 -0.038506400000000003 -0.10342484104813102</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-2" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-0.50000000000000222 0 0.86602540378443749 0 1 0 -0.86602540378443749 0 -0.50000000000000222</Rotation>
+<Translation>-0.066018179460107004 -0.038506400000000003 -0.092502841048144019</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-5" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-5" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0.50000000000000799 0 -0.86602540378443416 0 1 0 0.86602540378443416 0 0.50000000000000799</Rotation>
+<Translation>0.066018179460084994 -0.038506400000000003 0.092502841048109019</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 GPS Mount Assembly.STEP-1" uid="DJI S900 GPS Mount Assembly.STEP-1" grounded="true" entityUid="DJI S900 GPS Mount Assembly.STEP" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0053578124999999997 0.0016002 0.014253090747</Translation>
+</Transform>
+<Instance name="DJI S900 Rotating Pin GPS.STEP-1" uid="DJI S900 Rotating Pin GPS.STEP-1" grounded="true" entityUid="DJI S900 Rotating Pin GPS.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1 0</Rotation>
+<Translation>0.0053578124999999997 0.032889845790783002 -0.014337515765972001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Screw for Mount.STEP-1" uid="DJI S900 Screw for Mount.STEP-1" grounded="true" entityUid="DJI S900 Screw for Mount.STEP*:*Default">
+<Transform>
+<Rotation>0 0 1 0.218817122393034 -0.97576588736624303 0 0.97576588736624315 0.21881712239303402 0</Rotation>
+<Translation>4.7624999999999057e-05 0.0063499999999999997 -0.014337515765972001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Center Frame Mount.STEP-1" uid="DJI S900 Center Frame Mount.STEP-1" grounded="true" entityUid="DJI S900 Center Frame Mount.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Rod Attatchment.STEP-1" uid="DJI S900 Rod Attatchment.STEP-1" grounded="true" entityUid="DJI S900 Rod Attatchment.STEP*:*Default">
+<Transform>
+<Rotation>0.61480436128937388 -0.78867965444758692 0 0 0 -1 0.78867965444758692 0.61480436128937388 0</Rotation>
+<Translation>0.0053578124999999997 0.046383595790783001 -0.014337515765972001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 GPS Rod.STEP-1" uid="DJI S900 GPS Rod.STEP-1" grounded="true" entityUid="DJI S900 GPS Rod.STEP*:*Default">
+<Transform>
+<Rotation>-0.82038612964596325 -0.57180993195686702 0 0 0 -1 0.57180993195686702 -0.82038612964596325 0</Rotation>
+<Translation>0.0053578124999999997 0.15909609579078299 -0.014337515765972001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 GPS Attatchment.STEP-1" uid="DJI S900 GPS Attatchment.STEP-1" grounded="true" entityUid="DJI S900 GPS Attatchment.STEP*:*Default">
+<Transform>
+<Rotation>0.39063948294841 -0.92054374929266602 0 0 0 -1 0.92054374929266602 0.39063948294841 0</Rotation>
+<Translation>0.0053578124999999997 0.16147734579078299 -0.014337515765972001</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Center Frame Bottom Board.STEP-1" uid="DJI S900 Center Frame Bottom Board.STEP-1" grounded="true" entityUid="DJI S900 Center Frame Bottom Board.STEP*:*Default">
+<Transform>
+<Rotation>0.99990418177602014 0 -0.013842950076773003 0 1 0 0.013842950076773003 0 0.99990418177602014</Rotation>
+<Translation>1.9999999999999998e-15 -0.040093900000000002 2.0000000000000003e-14</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 CCW Red.STEP-1" uid="DJI S900 CCW Red.STEP-1" grounded="true" entityUid="DJI S900 CCW Red.STEP" rigid="true">
+<Transform>
+<Rotation>-0.85655845017588994 0.027975080832155684 0.5152911956211863 -0.0010441149354849999 0.99843356284218399 -0.05594041843125689 -0.51604896207266893 -0.048454261347140204 -0.85518749599197497</Rotation>
+<Translation>-0.20153073319668002 0.037147242082759997 0.34906146918324504</Translation>
+</Transform>
+<Instance name="DJI S900 Black Prop Cover (Underside).STEP-1" uid="DJI S900 Black Prop Cover (Underside).STEP-1" grounded="true" entityUid="DJI S900 Black Prop Cover (Underside).STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.0057546875000000046 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Encasement.STEP-1" uid="DJI S900 Motor Encasement.STEP-1" grounded="true" entityUid="DJI S900 Motor Encasement.STEP*:*Default">
+<Transform>
+<Rotation>-0.9998258587148825 -7.004813395994347e-15 -0.018661517758425006 -6.9978745020904398e-15 0.99999999999999989 -1.2490009027033011e-16 0.01866151775842495 0 -0.99982585871488228</Rotation>
+<Translation>0 -0.042416919880000001 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm.STEP-1" uid="DJI S900 Arm.STEP-1" grounded="true" entityUid="DJI S900 Arm.STEP*:*Default">
+<Transform>
+<Rotation>0 0.99982585871488239 -0.018661517758424062 0.99999999999999989 0 0 0 -0.018661517758423896 -0.99982585871488228</Rotation>
+<Translation>0.0049310485387190003 -0.038251319879999995 0.264190185568557</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Red Prop Cover.STEP-1" uid="DJI S900 Red Prop Cover.STEP-1" grounded="true" entityUid="DJI S900 Red Prop Cover.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Cage.STEP-1" uid="DJI S900 Motor Cage.STEP-1" grounded="true" entityUid="DJI S900 Motor Cage.STEP*:*Default">
+<Transform>
+<Rotation>0.95418807682293794 -0.29920747659265301 0 0 0 0.99999999999999989 -0.29920747659265279 -0.95418807682293783 0</Rotation>
+<Translation>-0.0011480549943589935 -0.032895094880000003 0.065799540394135048</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Top Frame.STEP-1" uid="DJI S900 Motor Top Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Top Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99982585871488239 0 -0.018661517758424062 0 0.99999999999999989 0 0.018661517758423896 0 -0.99982585871488228</Rotation>
+<Translation>0 -0.034085719879999997 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Encasement Arm Bottom Frame.STEP-1" uid="DJI S900 Encasement Arm Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99982585871488239 0 -0.018661517758424947 0 0.99999999999999989 0 0.01866151775842495 0 -0.99982585871488228</Rotation>
+<Translation>0 -0.047973169880000006 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Motor Bottom Frame.STEP-1" uid="DJI S900 Motor Bottom Frame.STEP-1" grounded="true" entityUid="DJI S900 Motor Bottom Frame.STEP*:*Default">
+<Transform>
+<Rotation>-0.99982585871488239 0 -0.018661517758424947 0 0.99999999999999989 0 0.01866151775842495 0 -0.99982585871488228</Rotation>
+<Translation>0 -0.049163794880000007 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CCW.STEP-1" uid="DJI S900 Propellor CCW.STEP-1" grounded="true" entityUid="DJI S900 Propellor CCW.STEP*:*Default">
+<Transform>
+<Rotation>0.019883654318881117 0.00027910630927100583 -0.99980226164506925 -0.076004505145707987 0.99710671165833831 -0.0012331923821875292 0.99690920122570992 0.076013996510929216 0.01984733851056969</Rotation>
+<Translation>-0.048603880149376028 -0.0021988822723420023 -0.0043679067415989814</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Propellor CCW.STEP-2" uid="DJI S900 Propellor CCW.STEP-2" grounded="true" entityUid="DJI S900 Propellor CCW.STEP*:*Default">
+<Transform>
+<Rotation>-0.047777366570467064 -0.0024064772224590084 0.99885511066969512 -0.076004505145707987 0.99710671165833831 -0.0012331923821872273 -0.99596216717360664 -0.075976407083207242 -0.047822035983210852</Rotation>
+<Translation>0.048717039241881949 -0.0021988822723420023 0.003716765298274971</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wing Bracket.STEP-1" uid="DJI S900 Wing Bracket.STEP-1" grounded="true" entityUid="DJI S900 Wing Bracket.STEP*:*Default">
+<Transform>
+<Rotation>-0.99982585871488239 0 -0.018661517758424947 0 0.99999999999999989 0 0.01866151775842495 0 -0.99982585871488228</Rotation>
+<Translation>0.0050732493040379911 -0.038251319880000009 0.27180885861196502</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Frame Connection Rod.STEP-5" uid="DJI S900 Frame Connection Rod.STEP-5" grounded="true" entityUid="DJI S900 Frame Connection Rod.STEP*:*Default">
+<Transform>
+<Rotation>0.69909789195083705 0 -0.71502596978703903 0 1 0 0.71502596978703903 0 0.69909789195083705</Rotation>
+<Translation>-0.038296850000009999 -0.032003999999999998 -0.066332089969848004</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Frame Connection Rod.STEP-4" uid="DJI S900 Frame Connection Rod.STEP-4" grounded="true" entityUid="DJI S900 Frame Connection Rod.STEP*:*Default">
+<Transform>
+<Rotation>-0.26968170822576409 0 -0.96294951905509241 0 1 0 0.96294951905509241 0 -0.26968170822576409</Rotation>
+<Translation>0.038296849999999008 -0.032003999999999998 -0.066332089969854</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Center Frame Bottom Cap.STEP-1" uid="DJI S900 Center Frame Bottom Cap.STEP-1" grounded="true" entityUid="DJI S900 Center Frame Bottom Cap.STEP*:*Default">
+<Transform>
+<Rotation>-1 9.9999999999999988e-16 6.2599999994147047e-13 -1.0000000000000003e-15 -1 0 6.2599999994147047e-13 0 1</Rotation>
+<Translation>-2.3446000184e-05 -0.0279908 0.0028088388806209999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-4" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-4" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-0.499999999999994 0 -0.86602540378444215 0 1 0 0.86602540378444215 0 -0.499999999999994</Rotation>
+<Translation>-0.047100720539880001 -0.038506400000000003 0.10342484104814702</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-6" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-6" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11311889999999501 -0.038506400000000003 -0.010921999999987001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Bracket Screw.STEP-3" uid="DJI S900 Arm Bracket Screw.STEP-3" grounded="true" entityUid="DJI S900 Arm Bracket Screw.STEP*:*Default">
+<Transform>
+<Rotation>-0.69448455614440519 -0.71950761029811816 1.203144487114732e-14 0.71950761029811816 -0.69448455614440507 4.9430012291469929e-16 8.0000001348990682e-15 8.9999997150100883e-15 1</Rotation>
+<Translation>0.13706404480216602 -0.035046174307098998 -0.017856199999988005</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-3" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP-3" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-1 0 -4.9999999122583502e-15 0 1 0 4.9999999122583502e-15 0 -1</Rotation>
+<Translation>-0.11311890000018901 -0.038506400000000003 0.010922000000005002</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Left.STEP-6" uid="DJI S900 Arm Mounting Bracket Left.STEP-6" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11311889999999503 -0.038506400000000003 0.010922000000013001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Lock Knob.STEP-1" uid="DJI S900 Lock Knob.STEP-1" grounded="true" entityUid="DJI S900 Lock Knob.STEP*:*Default">
+<Transform>
+<Rotation>0.106149554192838 0 -0.99435017581567409 0 1 0 0.99435017581567409 0 0.106149554192838</Rotation>
+<Translation>-0.133888732969591 0 0.027891882986276005</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Lock Knob.STEP-3" uid="DJI S900 Lock Knob.STEP-3" grounded="true" entityUid="DJI S900 Lock Knob.STEP*:*Default">
+<Transform>
+<Rotation>0.80805773541747472 0 0.58910329843923182 0 1 0 -0.58910329843923182 0 0.80805773541747472</Rotation>
+<Translation>0.091099445710286012 0 0.10200510253904302</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Lock Knob.STEP-4" uid="DJI S900 Lock Knob.STEP-4" grounded="true" entityUid="DJI S900 Lock Knob.STEP*:*Default">
+<Transform>
+<Rotation>-0.10614955419284502 0 0.99435017581567331 0 1 0 -0.99435017581567331 0 -0.10614955419284502</Rotation>
+<Translation>0.133888732969591 0 -0.027891882986268005</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Lock Knob.STEP-5" uid="DJI S900 Lock Knob.STEP-5" grounded="true" entityUid="DJI S900 Lock Knob.STEP*:*Default">
+<Transform>
+<Rotation>-0.91420728961031905 0 0.40524687737643811 0 1 0 -0.40524687737643811 0 -0.91420728961031905</Rotation>
+<Translation>0.042789287259304004 0 -0.12989698552531104</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Bracket Screw.STEP-6" uid="DJI S900 Arm Bracket Screw.STEP-6" grounded="true" entityUid="DJI S900 Arm Bracket Screw.STEP*:*Default">
+<Transform>
+<Rotation>0.69448455614440519 0.71950761029811816 -1.9101405688697363e-14 0.71950761029811816 -0.69448455614440507 3.691848521461363e-16 -1.3000000153036537e-14 -1.3999999839026675e-14 -1</Rotation>
+<Translation>-0.13706404480217002 -0.035046174307070001 0.017856199999986007</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Lock Knob.STEP-6" uid="DJI S900 Lock Knob.STEP-6" grounded="true" entityUid="DJI S900 Lock Knob.STEP*:*Default">
+<Transform>
+<Rotation>-0.80805773541747095 0 -0.58910329843923703 0 1 0 0.58910329843923703 0 -0.80805773541747095</Rotation>
+<Translation>-0.091099445710287011 0 -0.10200510253904202</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Bracket Screw.STEP-5" uid="DJI S900 Arm Bracket Screw.STEP-5" grounded="true" entityUid="DJI S900 Arm Bracket Screw.STEP*:*Default">
+<Transform>
+<Rotation>0.3472422780722122 0.35975380514907007 0.86602540378443027 0.71950761029811838 -0.69448455614440485 7.2164496600635165e-16 0.60144126815700949 0.62311186873439806 -0.50000000000001465</Rotation>
+<Translation>-0.08399594521612902 -0.035046174306676003 -0.10977284474413801</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Bracket Screw.STEP-2" uid="DJI S900 Arm Bracket Screw.STEP-2" grounded="true" entityUid="DJI S900 Arm Bracket Screw.STEP*:*Default">
+<Transform>
+<Rotation>-0.34724227807220798 -0.35975380514906485 -0.86602540378443416 0.71950761029811794 -0.69448455614440541 2.7755575615628914e-16 -0.60144126815701215 -0.62311186873440072 0.50000000000000799</Rotation>
+<Translation>0.083995945216135015 -0.035046174307070001 0.10977284474414402</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Left.STEP-5" uid="DJI S900 Arm Mounting Bracket Left.STEP-5" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default">
+<Transform>
+<Rotation>0.50000000000000799 0 -0.86602540378443416 0 1 0 0.86602540378443416 0 0.50000000000000799</Rotation>
+<Translation>0.047100720539846 -0.038506400000000003 0.10342484104814702</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Left.STEP-4" uid="DJI S900 Arm Mounting Bracket Left.STEP-4" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default">
+<Transform>
+<Rotation>-0.499999999999994 0 -0.86602540378444215 0 1 0 0.86602540378444215 0 -0.499999999999994</Rotation>
+<Translation>-0.06601817946006 -0.038506400000000003 0.092502841048018994</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Bracket Screw.STEP-4" uid="DJI S900 Arm Bracket Screw.STEP-4" grounded="true" entityUid="DJI S900 Arm Bracket Screw.STEP*:*Default">
+<Transform>
+<Rotation>-0.34724227807219404 -0.35975380514904975 0.86602540378444604 0.71950761029811805 -0.69448455614440519 3.3306690738754706e-16 0.60144126815702015 0.62311186873440971 0.49999999999998734</Rotation>
+<Translation>0.05306809958603801 -0.035046174307098998 -0.12762904474411801</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Bracket Screw.STEP-1" uid="DJI S900 Arm Bracket Screw.STEP-1" grounded="true" entityUid="DJI S900 Arm Bracket Screw.STEP*:*Default">
+<Transform>
+<Rotation>0.34724227807219799 0.35975380514905392 -0.8660254037844427 0.71950761029811794 -0.6944845561444053 1.110223024625156e-16 -0.60144126815701804 -0.62311186873440705 -0.49999999999999312</Rotation>
+<Translation>-0.053068099586043006 -0.035046174307098998 0.12762904474412504</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Lock Knob.STEP-2" uid="DJI S900 Lock Knob.STEP-2" grounded="true" entityUid="DJI S900 Lock Knob.STEP*:*Default">
+<Transform>
+<Rotation>0.91420728961031672 0 -0.40524687737644399 0 1 0 0.40524687737644399 0 0.91420728961031672</Rotation>
+<Translation>-0.04278928725930501 0 0.12989698552531104</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Arm Mounting Bracket Left.STEP-3" uid="DJI S900 Arm Mounting Bracket Left.STEP-3" grounded="true" entityUid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default">
+<Transform>
+<Rotation>-1 0 -4.9999999122583502e-15 0 1 0 4.9999999122583502e-15 0 -1</Rotation>
+<Translation>-0.11311889999997703 -0.038506400000000003 -0.010922000000014002</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Lower Assembly.STEP-1" uid="DJI S900 Lower Assembly.STEP-1" grounded="true" entityUid="DJI S900 Lower Assembly.STEP" rigid="true">
+<Transform>
+<Rotation>-1.3261603609999996e-06 0 0.9999999999991207 -9.9999999999999968e-16 1 0 -0.9999999999991207 -1.0000000000008791e-15 -1.3261603609999996e-06</Rotation>
+<Translation>-0.010746931390499002 -0.048328477794129 0.045830282522024993</Translation>
+</Transform>
+<Instance name="DJI S900 Battery Cage Pin.STEP-1" uid="DJI S900 Battery Cage Pin.STEP-1" grounded="true" entityUid="DJI S900 Battery Cage Pin.STEP" rigid="true">
+<Transform>
+<Rotation>1e-14 1.0000000000000001e-15 1 -1.0000000000000001e-15 -1 1.0000000000000001e-15 1 -1.0000000000000001e-15 -1e-14</Rotation>
+<Translation>0.20505527001114104 -0.095646825480589004 0.0018176647150139995</Translation>
+</Transform>
+<Instance name="DJI S900 Pin Base.STEP-1" uid="DJI S900 Pin Base.STEP-1" grounded="true" entityUid="DJI S900 Pin Base.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Top Pin Lever.STEP-1" uid="DJI S900 Top Pin Lever.STEP-1" grounded="true" entityUid="DJI S900 Top Pin Lever.STEP*:*Default">
+<Transform>
+<Rotation>-1 0 1.000000000000002e-15 0 1 0 -9.9999999999999889e-16 0 -1</Rotation>
+<Translation>0.012799218750000001 -0.0031236946601449767 0.015511342572973985</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Screw For Battery Cage.STEP-1" uid="DJI S900 Screw For Battery Cage.STEP-1" grounded="true" entityUid="DJI S900 Screw For Battery Cage.STEP*:*Default">
+<Transform>
+<Rotation>0 0 -1.0000000000000002 -0.57062279232683377 0.82121229221019776 0 0.82121229221019776 0.57062279232683377 0</Rotation>
+<Translation>0.017859374999999997 -0.0084815071601449799 -0.0050269386770260271</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Servo Assembly.STEP-2" uid="DJI S900 Servo Assembly.STEP-2" grounded="true" entityUid="DJI S900 Servo Assembly.STEP" rigid="true">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -1 1.0000000000000001e-15 0 -1.0000000000000001e-15 -1 1 -1.0000000000000001e-15 0</Rotation>
+<Translation>0.11571208976933402 0.0097482052412840026 -0.130010274792556</Translation>
+</Transform>
+<Instance name="DJI S900 Servo Grommet.STEP-2" uid="DJI S900 Servo Grommet.STEP-2" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>0.056528899073083991 0.018315501179441009 0.047585347929970004</Translation>
+</Transform>
+</Instance>
+<Instance name="HS-7954SH servo.STEP-1" uid="HS-7954SH servo.STEP-1" grounded="true" entityUid="HS-7954SH servo.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.012447199073083975 -0.005897298820558991 0.042594247929970006</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Grommet.STEP-4" uid="DJI S900 Servo Grommet.STEP-4" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>0.0084974990730840028 0.018315501179441009 0.037603147929970007</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Grommet.STEP-1" uid="DJI S900 Servo Grommet.STEP-1" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>0.056528899073083991 0.018315501179441009 0.037603147929970007</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Grommet.STEP-3" uid="DJI S900 Servo Grommet.STEP-3" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>0.0084974990730840028 0.018315501179441009 0.047585347929970004</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Servo Assembly.STEP-1" uid="DJI S900 Servo Assembly.STEP-1" grounded="true" entityUid="DJI S900 Servo Assembly.STEP" rigid="true">
+<Transform>
+<Rotation>0 -1 -1.0000000000000001e-15 1.0000000000000001e-15 -1.0000000000000001e-15 1 -1 0 1.0000000000000001e-15</Rotation>
+<Translation>0.11571208976933402 -0.075440290618655995 0.151504979222606</Translation>
+</Transform>
+<Instance name="DJI S900 Servo Grommet.STEP-2" uid="DJI S900 Servo Grommet.STEP-2" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>0.056528899073083977 0.018315501179440995 0.04758534792996999</Translation>
+</Transform>
+</Instance>
+<Instance name="HS-7954SH servo.STEP-1" uid="HS-7954SH servo.STEP-1" grounded="true" entityUid="HS-7954SH servo.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.012447199073083975 -0.005897298820558991 0.042594247929970006</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Grommet.STEP-4" uid="DJI S900 Servo Grommet.STEP-4" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>0.008497499073083975 0.018315501179441002 0.037603147929970007</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Grommet.STEP-1" uid="DJI S900 Servo Grommet.STEP-1" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>0.056528899073083991 0.018315501179440995 0.037603147929969993</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Grommet.STEP-3" uid="DJI S900 Servo Grommet.STEP-3" grounded="true" entityUid="DJI S900 Servo Grommet.STEP*:*Default">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>0.0084974990730839473 0.018315501179441002 0.047585347929970004</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Landing Skid.STEP-1" uid="DJI S900 Landing Skid.STEP-1" grounded="true" entityUid="DJI S900 Landing Skid.STEP*:*Default">
+<Transform>
+<Rotation>0 1.0000000000000001e-15 1 0.034073372565131002 -0.99941933405454897 1.0000000000000001e-15 0.99941933405454897 0.034073372565131002 0</Rotation>
+<Translation>0.045843276089892998 -0.35290292004484403 0.221387492508508</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Swing MIRROR.STEP-1" uid="DJI S900 Landing Swing MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Landing Swing MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>2.0000000000000002e-15 1 -1.8802513167394007e-16 -0.79484181570083623 1.4755868444855721e-15 -0.60681668402689615 -0.60681668402689615 1.3630836051108959e-15 0.79484181570083623</Rotation>
+<Translation>0.064992494839893 -0.055643317574752008 0.080347174528332982</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Support MIRROR.STEP-1" uid="DJI S900 Battery Holder Support MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Battery Holder Support MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.036706723910107 -0.095194222205870982 0.013247482310573998</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-2" uid="DJI S900 Gimbal Dampener.STEP-2" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -0.98944327828239576 -0.14492066471620096 1 -9.8944327828239576e-16 -1.44920664716201e-16 0 -0.14492066471620096 0.98944327828239576</Rotation>
+<Translation>0.15166038608996199 -0.090296784705869992 0.10109338231057501</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Rubber Landing Cap.STEP-2" uid="DJI S900 Rubber Landing Cap.STEP-2" grounded="true" entityUid="DJI S900 Rubber Landing Cap.STEP*:*Default">
+<Transform>
+<Rotation>-9.9999999999999988e-16 0 1 0.8494647741995669 0.5276453329596299 8.4946477419956683e-16 -0.5276453329596299 0.8494647741995669 -5.2764533295962986e-16</Rotation>
+<Translation>-0.15113372391010699 -0.35290292004484403 0.221387492508508</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Tube Clamp.STEP-1" uid="DJI S900 Landing Tube Clamp.STEP-1" grounded="true" entityUid="DJI S900 Landing Tube Clamp.STEP*:*Default">
+<Transform>
+<Rotation>1 -1.3250149903505772e-15 4.9430281745733727e-16 1.0000000000000001e-15 0.41535608644661987 -0.90965890390395676 1.0000000000000001e-15 0.90965890390395676 0.41535608644661987</Rotation>
+<Translation>0.045843276089892998 -0.091540185906218985 0.086899607137658985</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 PCB.STEP-1" uid="DJI S900 PCB.STEP-1" grounded="true" entityUid="DJI S900 PCB.STEP*:*Default">
+<Transform>
+<Rotation>-1 1.0000000000000001e-15 0 -1.0000000000000001e-15 -1 0 0 0 1</Rotation>
+<Translation>0.016672963589892998 0.0010519340441290034 0.14533807373035201</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Swing Support.STEP-1" uid="DJI S900 Landing Swing Support.STEP-1" grounded="true" entityUid="DJI S900 Landing Swing Support.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000001e-15 -1 -2.16267124676816e-16 -0.80692332521133792 -6.7918380704920399e-16 -0.59065620053452184 0.59065620053452184 7.651671879126333e-16 -0.80692332521133792</Rotation>
+<Translation>0.021584291714893001 -0.044161031181655999 -0.09922220975099201</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Bumper Support.STEP-1" uid="DJI S900 Battery Bumper Support.STEP-1" grounded="true" entityUid="DJI S900 Battery Bumper Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.093527233910176019 -0.096781722205871001 0.10976748231057498</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Bumper Support.STEP-2" uid="DJI S900 Battery Bumper Support.STEP-2" grounded="true" entityUid="DJI S900 Battery Bumper Support.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000001e-15 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 1.0000000000000001e-15</Rotation>
+<Translation>0.18521378608996203 -0.096781722205871001 0.10976748231057498</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-1" uid="DJI S900 Gimbal Dampener.STEP-1" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -0.64005533611520238 -0.76832881418729537 1 -6.4005533611520215e-16 -7.683288141872955e-16 0 -0.76832881418729537 0.64005533611520238</Rotation>
+<Translation>0.15166038608996202 -0.090296784705869992 0.118441582310575</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Top Bracket.STEP-2" uid="DJI S900 Battery Holder Top Bracket.STEP-2" grounded="true" entityUid="DJI S900 Battery Holder Top Bracket.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>0.16674801986489801 -0.092816147205871002 0.069768442010210999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Rubber Landing Cap.STEP-1" uid="DJI S900 Rubber Landing Cap.STEP-1" grounded="true" entityUid="DJI S900 Rubber Landing Cap.STEP*:*Default">
+<Transform>
+<Rotation>-9.9999999999999988e-16 1.0000000000000001e-15 -1 0.53856247733343898 -0.842585579041363 -1.0000000000000001e-15 -0.842585579041363 -0.53856247733343898 0</Rotation>
+<Translation>0.24282027608989304 -0.35290292004484403 0.221387492508508</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Foot Bracket.STEP-1" uid="DJI S900 Foot Bracket.STEP-1" grounded="true" entityUid="DJI S900 Foot Bracket.STEP*:*Default">
+<Transform>
+<Rotation>1 1.3250149903505772e-15 -4.9430281745733727e-16 1.0000000000000001e-15 -0.41535608644661987 0.90965890390395676 1.0000000000000001e-15 -0.90965890390395676 -0.41535608644661987</Rotation>
+<Translation>0.045843276089893005 -0.322242138961638 0.20738758332995599</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-4" uid="DJI S900 Gimbal Dampener.STEP-4" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.059973833910175994 -0.090169784705871003 0.11844158231057499</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Leg.STEP-1" uid="DJI S900 Landing Leg.STEP-1" grounded="true" entityUid="DJI S900 Landing Leg.STEP*:*Default">
+<Transform>
+<Rotation>1 -4.1535608644662005e-16 9.0965890390395713e-16 1.0000000000000001e-15 0.41535608644661987 -0.90965890390395676 0 0.90965890390395676 0.41535608644661987</Rotation>
+<Translation>0.045843276089893005 -0.203105249390967 0.15298891588315</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Swing Servo Support.STEP-1" uid="DJI S900 Landing Swing Servo Support.STEP-1" grounded="true" entityUid="DJI S900 Landing Swing Servo Support.STEP*:*Default">
+<Transform>
+<Rotation>-1.9999999999999998e-15 1 2.162671246768159e-16 0.80692332521133792 1.486107132260542e-15 0.59065620053452184 0.59065620053452184 1.3558233884471551e-15 -0.80692332521133792</Rotation>
+<Translation>0.070102260464893013 -0.044160317054337983 0.12071743691190799</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-6" uid="DJI S900 Gimbal Dampener.STEP-6" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.059973833910176008 -0.090169784705871003 0.10109338231057499</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Spreader Tube.STEP-1" uid="DJI S900 Spreader Tube.STEP-1" grounded="true" entityUid="DJI S900 Spreader Tube.STEP*:*Default">
+<Transform>
+<Rotation>0 -0.051937762551039997 -0.99865032359740002 0 0.99865032359740002 -0.051937762551039997 1 0 0</Rotation>
+<Translation>0.045843276089892998 -0.011602822205871 0.010747352215024999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Brass Bar on Landing Bracket.STEP-1" uid="DJI S900 Brass Bar on Landing Bracket.STEP-1" grounded="true" entityUid="DJI S900 Brass Bar on Landing Bracket.STEP*:*Default">
+<Transform>
+<Rotation>1 1.0000000000000001e-15 0 1.0000000000000001e-15 -1 0 0 0 -1</Rotation>
+<Translation>0.045843276089892998 -0.01470241595587099 0.143005945965025</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Gear Block MIRROR.STEP-1" uid="DJI S900 Landing Gear Block MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Landing Gear Block MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-1 -1.0000000000000001e-15 0 -1.0000000000000001e-15 1 0 0 0 -1</Rotation>
+<Translation>0.045843276089892998 -0.0062688222058709941 0.0075921959650249995</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Bracket MIRROR.STEP-1" uid="DJI S900 Servo Bracket MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Servo Bracket MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0 -1 -1.0000000000000001e-15 1.0000000000000001e-15 -1.0000000000000001e-15 1 -1 0 1.0000000000000001e-15</Rotation>
+<Translation>0.091396588589892996 -0.016501142688686007 0.20003048014952299</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Leg Damper.STEP-1" uid="DJI S900 Leg Damper.STEP-1" grounded="true" entityUid="DJI S900 Leg Damper.STEP*:*Default">
+<Transform>
+<Rotation>1 -9.7152619808306063e-16 3.5833729039083244e-14 -1.4e-14 0.90965890390395676 0.41535608644661987 -3.2999999999999998e-14 -0.41535608644661987 0.90965890390395676</Rotation>
+<Translation>0.045843276089892998 -0.28935654824347301 0.192371811811025</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-5" uid="DJI S900 Gimbal Dampener.STEP-5" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.086389833910176003 -0.090169784705871003 0.10976748231057498</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Arm Adapter MIRROR.STEP-1" uid="DJI S900 Servo Arm Adapter MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Servo Arm Adapter MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>1 4.0348799827196601e-16 -9.1498493717136255e-16 1.0000000000000001e-15 -0.4034879982719658 0.91498493717136242 0 -0.91498493717136242 -0.4034879982719658</Rotation>
+<Translation>0.079089788589893018 -0.034250534012066999 0.112830556634907</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Support.STEP-1" uid="DJI S900 Battery Holder Support.STEP-1" grounded="true" entityUid="DJI S900 Battery Holder Support.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 0</Rotation>
+<Translation>0.12839327608989304 -0.095194222205869983 0.10976748231057398</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Dampener Support.STEP-1" uid="DJI S900 Battery Dampener Support.STEP-1" grounded="true" entityUid="DJI S900 Battery Dampener Support.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 0</Rotation>
+<Translation>0.145210536751611 -0.085272347205869986 0.110110382310575</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-3" uid="DJI S900 Gimbal Dampener.STEP-3" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000001e-15 0.94307726812957704 0.33257370060973501 -1 1.0000000000000001e-15 0 0 -0.33257370060973501 0.94307726812957704</Rotation>
+<Translation>0.17807638608996201 -0.090169784705870004 0.10976748231057498</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Dampener Support.STEP-2" uid="DJI S900 Battery Dampener Support.STEP-2" grounded="true" entityUid="DJI S900 Battery Dampener Support.STEP*:*Default">
+<Transform>
+<Rotation>-2.9999999999999998e-15 0 -1 0 -1 0 -1 0 2.9999999999999998e-15</Rotation>
+<Translation>-0.053523984571824001 -0.083684847205869994 0.11011038231057499</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Top Bracket.STEP-1" uid="DJI S900 Battery Holder Top Bracket.STEP-1" grounded="true" entityUid="DJI S900 Battery Holder Top Bracket.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.065130067685110996 -0.092816147205871002 0.069768442010211998</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Bottom Support.STEP-1" uid="DJI S900 Battery Holder Bottom Support.STEP-1" grounded="true" entityUid="DJI S900 Battery Holder Bottom Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.065130067685110982 -0.10114734720587099 0.069768442010211998</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-8" uid="DJI S900 Gimbal Dampener.STEP-8" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.086389833910176003 -0.090169784705871003 -0.088272777880525011</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-11" uid="DJI S900 Gimbal Dampener.STEP-11" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -0.64005533611520293 0.76832881418729482 1 -6.4005533611520314e-16 7.6832881418729481e-16 0 0.76832881418729482 0.64005533611520293</Rotation>
+<Translation>0.15166038608996202 -0.090296784705869992 -0.096946877880524002</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Gear Block MIRROR.STEP-2" uid="DJI S900 Landing Gear Block MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Landing Gear Block MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.045843276089892998 -0.0062688222058709941 0.013902508465025</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Balance Bar Curved.STEP-1" uid="DJI S900 Battery Balance Bar Curved.STEP-1" grounded="true" entityUid="DJI S900 Battery Balance Bar Curved.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 -1.1e-14 1 1.0000000000000001e-15 -1 -1.1e-14 0</Rotation>
+<Translation>0.17799947608989303 -0.090141880820442999 0.010747732010211</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-12" uid="DJI S900 Gimbal Dampener.STEP-12" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.059973833910176008 -0.090169784705871003 -0.096946877880525015</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Support.STEP-2" uid="DJI S900 Battery Holder Support.STEP-2" grounded="true" entityUid="DJI S900 Battery Holder Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.036706723910107 -0.095194222205870982 -0.088272777880524012</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-7" uid="DJI S900 Gimbal Dampener.STEP-7" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.059973833910175994 -0.090169784705871003 -0.079598677880525021</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Bumper Support.STEP-4" uid="DJI S900 Battery Bumper Support.STEP-4" grounded="true" entityUid="DJI S900 Battery Bumper Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.093527233910175991 -0.096781722205871001 -0.088272777880524012</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Arm Adapter.STEP-1" uid="DJI S900 Servo Arm Adapter.STEP-1" grounded="true" entityUid="DJI S900 Servo Arm Adapter.STEP*:*Default">
+<Transform>
+<Rotation>1 5.1149693890316295e-16 -1.3184729354418672e-15 1.0000000000000001e-15 0.403487998269352 0.91498493717251494 1.0000000000000001e-15 -0.91498493717251494 0.403487998269352</Rotation>
+<Translation>0.079089788589893004 -0.027988753651212006 -0.10536271933186001</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Swing Support.STEP-2" uid="DJI S900 Landing Swing Support.STEP-2" grounded="true" entityUid="DJI S900 Landing Swing Support.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000001e-15 -1 2.162671246768159e-16 -0.80692332521133792 -6.7918380704920399e-16 0.59065620053452184 -0.59065620053452184 -7.651671879126333e-16 -0.80692332521133792</Rotation>
+<Translation>0.021584291714893001 -0.044161031181655999 0.12071691418104198</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Support MIRROR.STEP-2" uid="DJI S900 Battery Holder Support MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Battery Holder Support MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 -1.0000000000000001e-15</Rotation>
+<Translation>0.12839327608989301 -0.095194222205869983 0.0082472221194749996</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-9" uid="DJI S900 Gimbal Dampener.STEP-9" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000001e-15 0.94307726812957682 -0.33257370060973596 -1 9.430772681295769e-16 -3.3257370060973596e-16 0 0.33257370060973596 0.94307726812957682</Rotation>
+<Translation>0.17807638608996201 -0.090169784705870004 -0.088272777880525011</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Dampener Support.STEP-4" uid="DJI S900 Battery Dampener Support.STEP-4" grounded="true" entityUid="DJI S900 Battery Dampener Support.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 1.0000000000000001e-15 1 0 -1 1.0000000000000001e-15 1 0 1.0000000000000001e-15</Rotation>
+<Translation>0.145210536751611 -0.083684847205869967 -0.088615677880525004</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Bumper Support.STEP-3" uid="DJI S900 Battery Bumper Support.STEP-3" grounded="true" entityUid="DJI S900 Battery Bumper Support.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 0</Rotation>
+<Translation>0.18521378608996203 -0.096781722205871001 -0.088272777880525011</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Dampener.STEP-10" uid="DJI S900 Gimbal Dampener.STEP-10" grounded="true" entityUid="DJI S900 Gimbal Dampener.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -0.98944327828239598 0.14492066471619999 1 -1.0000000000000001e-15 0 0 0.14492066471619999 0.98944327828239598</Rotation>
+<Translation>0.15166038608996199 -0.090296784705869992 -0.079598677880525007</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Swing MIRROR.STEP-2" uid="DJI S900 Landing Swing MIRROR.STEP-2" grounded="true" entityUid="DJI S900 Landing Swing MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>2.0000000000000002e-15 -1 -1.8802513167394007e-16 -0.79484181570083623 -1.4755868444855721e-15 -0.60681668402689615 0.60681668402689615 1.3630836051108959e-15 -0.79484181570083623</Rotation>
+<Translation>0.026694057339892999 -0.055643317574751994 -0.05885247009828299</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Swing Servo Support MIRROR.STEP-1" uid="DJI S900 Landing Swing Servo Support MIRROR.STEP-1" grounded="true" entityUid="DJI S900 Landing Swing Servo Support MIRROR.STEP*:*Default">
+<Transform>
+<Rotation>0 1 0 0.80692332520965082 0 -0.59065620053682677 -0.59065620053682677 0 -0.80692332520965082</Rotation>
+<Translation>0.070102260464892999 -0.035158716558308989 -0.086925221005502012</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Base.STEP-1" uid="DJI S900 Battery Base.STEP-1" grounded="true" entityUid="DJI S900 Battery Base.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>0.048261122973709998 -0.082898912070444003 0.089053785789143997</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Leg Damper.STEP-2" uid="DJI S900 Leg Damper.STEP-2" grounded="true" entityUid="DJI S900 Leg Damper.STEP*:*Default">
+<Transform>
+<Rotation>1 -1.3868822845296817e-15 -3.6743387942987204e-14 -1.4e-14 0.90965890390395676 -0.41535608644661987 3.4e-14 0.41535608644661987 0.90965890390395676</Rotation>
+<Translation>0.045843276089892998 -0.28935654824347301 -0.170877107380975</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Balance Bar.STEP-1" uid="DJI S900 Battery Balance Bar.STEP-1" grounded="true" entityUid="DJI S900 Battery Balance Bar.STEP*:*Default">
+<Transform>
+<Rotation>0 0 1 -1.0000000000000001e-15 1 0 -1 -1.0000000000000001e-15 0</Rotation>
+<Translation>-0.094053573910107033 -0.094885888135802982 0.027038887331218002</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Servo Bracket.STEP-1" uid="DJI S900 Servo Bracket.STEP-1" grounded="true" entityUid="DJI S900 Servo Bracket.STEP*:*Default">
+<Transform>
+<Rotation>0 -1 -1.0000000000000001e-15 0 -1.0000000000000001e-15 1 -1 0 0</Rotation>
+<Translation>0.091396588589892996 -0.016501142688686007 -0.070484175719473019</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Positioning Clamp.STEP-2" uid="DJI S900 Battery Positioning Clamp.STEP-2" grounded="true" entityUid="DJI S900 Battery Positioning Clamp.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 0</Rotation>
+<Translation>0.081100358611571999 -0.092816147205871002 -0.048273737580161</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 A2 LED.STEP-1" uid="DJI S900 A2 LED.STEP-1" grounded="true" entityUid="DJI S900 A2 LED.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 0 0 0 -1</Rotation>
+<Translation>0.142452476089893 -0.034564422205869999 0.098562295965024985</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Spring.STEP-1" uid="DJI S900 Spring.STEP-1" grounded="true" entityUid="DJI S900 Spring.STEP*:*Default">
+<Transform>
+<Rotation>-0.24602792308044311 -0.96860942564263164 -0.035581478622658952 -0.19815377447096308 0.014328950921917867 0.980066203288527 -0.94879151699814146 0.24817425676674928 -0.19545893571448017</Rotation>
+<Translation>0.046960111239633 -0.15256101645270601 0.15030831301862699</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Skid.STEP-2" uid="DJI S900 Landing Skid.STEP-2" grounded="true" entityUid="DJI S900 Landing Skid.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000001e-15 1.0000000000000001e-15 -1 0.034073372565131002 -0.99941933405454897 -1.0000000000000001e-15 -0.99941933405454897 -0.034073372565131002 -1.0000000000000001e-15</Rotation>
+<Translation>0.045843276089892998 -0.35290292004484403 -0.19989278807845801</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Leg.STEP-2" uid="DJI S900 Landing Leg.STEP-2" grounded="true" entityUid="DJI S900 Landing Leg.STEP*:*Default">
+<Transform>
+<Rotation>-1 4.9430281745733727e-16 1.3250149903505766e-15 -1.0000000000000001e-15 0.41535608644661987 -0.90965890390395676 -1.0000000000000001e-15 -0.90965890390395676 -0.41535608644661987</Rotation>
+<Translation>0.045843276089893005 -0.203105249390967 -0.131494211453099</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Rod.STEP-1" uid="DJI S900 Battery Rod.STEP-1" grounded="true" entityUid="DJI S900 Battery Rod.STEP*:*Default">
+<Transform>
+<Rotation>9.9999999999999968e-16 0 0.99999999999999989 -0.33727933130938281 0.94140461687390053 3.3727933130938264e-16 -0.94140461687390053 -0.33727933130938281 9.4140461687390026e-16</Rotation>
+<Translation>-0.10179422391010702 -0.092816147205871002 0.069768442010210999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Curved Clamp.STEP-2" uid="DJI S900 Curved Clamp.STEP-2" grounded="true" entityUid="DJI S900 Curved Clamp.STEP*:*Default">
+<Transform>
+<Rotation>0 1.0000000000000001e-15 1 0 -1 1.0000000000000001e-15 1 0 0</Rotation>
+<Translation>0.086066058611572002 -0.092816147205871002 0.069768442010210999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Curved Clamp.STEP-1" uid="DJI S900 Curved Clamp.STEP-1" grounded="true" entityUid="DJI S900 Curved Clamp.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 5e-15 1 1.0000000000000001e-15 -1 5e-15 0</Rotation>
+<Translation>0.021357676089887 -0.092816147205872002 0.069768442010210999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Positioning Clamp.STEP-1" uid="DJI S900 Battery Positioning Clamp.STEP-1" grounded="true" entityUid="DJI S900 Battery Positioning Clamp.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>0.091031758611572006 -0.092816147205871002 0.069768442010210999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Spring Bracket.STEP-1" uid="DJI S900 Spring Bracket.STEP-1" grounded="true" entityUid="DJI S900 Spring Bracket.STEP*:*Default">
+<Transform>
+<Rotation>-1 -4.9430281745733687e-16 1.3250149903505768e-15 -1.0000000000000001e-15 0.90965890390395676 -0.41535608644661987 -1.0000000000000001e-15 -0.41535608644661987 -0.90965890390395676</Rotation>
+<Translation>0.045843276089893005 -0.16980087555003501 0.13778192530603101</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 A2 Controller.STEP-1" uid="DJI S900 A2 Controller.STEP-1" grounded="true" entityUid="DJI S900 A2 Controller.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -1 0 1 -1.0000000000000001e-15 0 0 0 1</Rotation>
+<Translation>-0.054265923910106997 -0.034564422205870984 0.094193495965025006</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Support.STEP-3" uid="DJI S900 Gimbal Support.STEP-3" grounded="true" entityUid="DJI S900 Gimbal Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>0.025523276089887002 -0.120603747205871 -0.055548037823655992</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 A2 PMU.STEP-1" uid="DJI S900 A2 PMU.STEP-1" grounded="true" entityUid="DJI S900 A2 PMU.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -1 2.0000000000000002e-15 1 -1.0000000000000001e-15 0 0 2.0000000000000002e-15 1</Rotation>
+<Translation>-0.051715923910106987 -0.034564422205870998 -0.072698791534975007</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wire.STEP-2" uid="DJI S900 Wire.STEP-2" grounded="true" entityUid="DJI S900 Wire.STEP*:*Default">
+<Transform>
+<Rotation>1 9.0965890390395693e-16 -4.1535608644661986e-16 1.0000000000000001e-15 -0.90965890390395676 0.41535608644661987 0 -0.41535608644661987 -0.90965890390395676</Rotation>
+<Translation>0.045843276089892998 -0.096926147541426005 -0.116166080346764</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Bottom Support.STEP-2" uid="DJI S900 Battery Holder Bottom Support.STEP-2" grounded="true" entityUid="DJI S900 Battery Holder Bottom Support.STEP*:*Default">
+<Transform>
+<Rotation>-9.9999999999999988e-16 -1.0000000000000001e-15 1 -1.0000000000000003e-15 1 1.0000000000000001e-15 -1 -1.0000000000000001e-15 -1.0000000000000001e-15</Rotation>
+<Translation>0.15681661986489798 -0.10114734720586999 0.069768442010210999</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Block Support Bar.STEP-1" uid="DJI S900 Landing Block Support Bar.STEP-1" grounded="true" entityUid="DJI S900 Landing Block Support Bar.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 0.38302992229049698 0.92373593555200395 1.0000000000000001e-15 -0.92373593555200395 0.38302992229049698 0</Rotation>
+<Translation>-0.058137973910106999 -0.0062688222058710011 0.078712195965024989</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 LiPo Battery.STEP-1" uid="DJI S900 LiPo Battery.STEP-1" grounded="true" entityUid="DJI S900 LiPo Battery.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 7.0000000000000001e-15 1 1.0000000000000001e-15 -1 7.0000000000000001e-15 0</Rotation>
+<Translation>0.19624086252246603 -0.080917712070454006 0.010747352214983998</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Wire.STEP-1" uid="DJI S900 Wire.STEP-1" grounded="true" entityUid="DJI S900 Wire.STEP*:*Default">
+<Transform>
+<Rotation>1 4.9430281745733687e-16 1.3250149903505768e-15 1.0000000000000001e-15 -0.90965890390395676 -0.41535608644661987 1.0000000000000001e-15 0.41535608644661987 -0.90965890390395676</Rotation>
+<Translation>0.045843276089892998 -0.096926147541426005 0.13766078477681401</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Support.STEP-2" uid="DJI S900 Gimbal Support.STEP-2" grounded="true" entityUid="DJI S900 Gimbal Support.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 5.9999999999999997e-15 1 1.0000000000000001e-15 -1 5.9999999999999997e-15 0</Rotation>
+<Translation>0.017192076089887001 -0.120603747205871 0.077042742253705984</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Curved Clamp.STEP-4" uid="DJI S900 Curved Clamp.STEP-4" grounded="true" entityUid="DJI S900 Curved Clamp.STEP*:*Default">
+<Transform>
+<Rotation>0 1.0000000000000001e-15 -1 0 -1 -1.0000000000000001e-15 -1 0 0</Rotation>
+<Translation>0.086066058611572002 -0.092816147205871002 -0.048273737580161</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Spring.STEP-2" uid="DJI S900 Spring.STEP-2" grounded="true" entityUid="DJI S900 Spring.STEP*:*Default">
+<Transform>
+<Rotation>-0.24602792308044399 0.96860942564263142 -0.035581478622658931 -0.198153774470963 -0.014328950921918059 0.98006620328852678 0.94879151699814102 0.2481742567667502 0.19545893571448009</Rotation>
+<Translation>0.046879456146811001 -0.15255982329596399 -0.12883427379912099</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Spring Bracket.STEP-2" uid="DJI S900 Spring Bracket.STEP-2" grounded="true" entityUid="DJI S900 Spring Bracket.STEP*:*Default">
+<Transform>
+<Rotation>1 -9.0965890390395693e-16 4.1535608644661986e-16 1.0000000000000001e-15 0.90965890390395676 -0.41535608644661987 0 0.41535608644661987 0.90965890390395676</Rotation>
+<Translation>0.045843276089892998 -0.16980087555003501 -0.11628722087598102</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Support.STEP-1" uid="DJI S900 Gimbal Support.STEP-1" grounded="true" entityUid="DJI S900 Gimbal Support.STEP*:*Default">
+<Transform>
+<Rotation>0 -1.0000000000000001e-15 1 5.9999999999999997e-15 1 1.0000000000000001e-15 -1 5.9999999999999997e-15 0</Rotation>
+<Translation>-0.094250423910106976 -0.120603747205871 0.077042742253706983</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Curved Clamp.STEP-3" uid="DJI S900 Curved Clamp.STEP-3" grounded="true" entityUid="DJI S900 Curved Clamp.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>0.021357676089887 -0.092816147205872002 -0.048273737580159994</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Gimbal Support.STEP-4" uid="DJI S900 Gimbal Support.STEP-4" grounded="true" entityUid="DJI S900 Gimbal Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.085919223910106993 -0.120603747205871 -0.055548037823656991</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Rubber Landing Cap.STEP-3" uid="DJI S900 Rubber Landing Cap.STEP-3" grounded="true" entityUid="DJI S900 Rubber Landing Cap.STEP*:*Default">
+<Transform>
+<Rotation>9.9999999999999988e-16 0 1 -0.8494647741995669 0.5276453329596299 8.4946477419956683e-16 -0.5276453329596299 -0.8494647741995669 5.2764533295963006e-16</Rotation>
+<Translation>-0.15113372391010699 -0.35290292004484403 -0.19989278807845801</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Rubber Landing Cap.STEP-4" uid="DJI S900 Rubber Landing Cap.STEP-4" grounded="true" entityUid="DJI S900 Rubber Landing Cap.STEP*:*Default">
+<Transform>
+<Rotation>1.0000000000000003e-15 0 -1 -0.53856247733343898 -0.842585579041363 -1.0000000000000001e-15 -0.842585579041363 0.53856247733343898 -1.0000000000000001e-15</Rotation>
+<Translation>0.24282027608989398 -0.35290292004484403 -0.19989278807845801</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Foot Bracket.STEP-2" uid="DJI S900 Foot Bracket.STEP-2" grounded="true" entityUid="DJI S900 Foot Bracket.STEP*:*Default">
+<Transform>
+<Rotation>1 -4.1535608644661986e-16 -9.0965890390395693e-16 1.0000000000000001e-15 0.41535608644661987 0.90965890390395676 0 -0.90965890390395676 0.41535608644661987</Rotation>
+<Translation>0.045843276089892998 -0.322242138961638 -0.185892878899905</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Brass Bar on Landing Bracket.STEP-2" uid="DJI S900 Brass Bar on Landing Bracket.STEP-2" grounded="true" entityUid="DJI S900 Brass Bar on Landing Bracket.STEP*:*Default">
+<Transform>
+<Rotation>-1 1.0000000000000001e-15 -1.0000000000000001e-15 -1.0000000000000001e-15 -1 0 -1.0000000000000001e-15 0 1</Rotation>
+<Translation>0.045843276089892998 -0.014702415955869991 -0.12151124153497501</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Block Support Bar.STEP-2" uid="DJI S900 Landing Block Support Bar.STEP-2" grounded="true" entityUid="DJI S900 Landing Block Support Bar.STEP*:*Default">
+<Transform>
+<Rotation>-1.0000000000000001e-15 -9.9999999999999968e-16 -0.99999999999999989 0.38302992229049693 0.92373593555200384 -1.3067658578425006e-15 0.92373593555200384 -0.38302992229049693 -5.4070601326150675e-16</Rotation>
+<Translation>0.149824526089893 -0.0062688222058710011 -0.057217491534974997</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Bottom Support.STEP-4" uid="DJI S900 Battery Holder Bottom Support.STEP-4" grounded="true" entityUid="DJI S900 Battery Holder Bottom Support.STEP*:*Default">
+<Transform>
+<Rotation>7.0000000000000001e-15 -1.0000000000000001e-15 1 -1.0000000000000001e-15 1 1.0000000000000001e-15 -1 -1.0000000000000001e-15 7.0000000000000001e-15</Rotation>
+<Translation>-0.075061467685110989 -0.10114734720587099 -0.048273737580161992</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Landing Tube Clamp.STEP-2" uid="DJI S900 Landing Tube Clamp.STEP-2" grounded="true" entityUid="DJI S900 Landing Tube Clamp.STEP*:*Default">
+<Transform>
+<Rotation>-1 -4.1535608644661986e-16 9.0965890390395693e-16 -1.0000000000000001e-15 0.41535608644661987 -0.90965890390395676 0 -0.90965890390395676 -0.41535608644661987</Rotation>
+<Translation>0.045843276089893005 -0.091540185906218985 -0.065404902707608015</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Top Bracket.STEP-3" uid="DJI S900 Battery Holder Top Bracket.STEP-3" grounded="true" entityUid="DJI S900 Battery Holder Top Bracket.STEP*:*Default">
+<Transform>
+<Rotation>2.0000000000000002e-15 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 2.0000000000000002e-15</Rotation>
+<Translation>0.156816619864898 -0.092816147205871002 -0.048273737580161</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Rod.STEP-2" uid="DJI S900 Battery Rod.STEP-2" grounded="true" entityUid="DJI S900 Battery Rod.STEP*:*Default">
+<Transform>
+<Rotation>0 -9.9999999999999968e-16 0.99999999999999989 0.33727933130938281 0.94140461687390053 9.4140461687390026e-16 -0.94140461687390053 0.33727933130938281 3.3727933130938284e-16</Rotation>
+<Translation>-0.10179422391010702 -0.092816147205871002 -0.048273737580161</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Dampener Support.STEP-3" uid="DJI S900 Battery Dampener Support.STEP-3" grounded="true" entityUid="DJI S900 Battery Dampener Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>-0.053523984571824001 -0.085272347205870014 -0.088615677880525018</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Bottom Support.STEP-3" uid="DJI S900 Battery Holder Bottom Support.STEP-3" grounded="true" entityUid="DJI S900 Battery Holder Bottom Support.STEP*:*Default">
+<Transform>
+<Rotation>1.8775353484662503e-15 -1.0000000054168133e-15 -1 0 1 -1.0000000054168133e-15 1 0 1.8775353484662503e-15</Rotation>
+<Translation>0.16674801986489801 -0.10114734720587001 -0.04827373758016</Translation>
+</Transform>
+</Instance>
+<Instance name="DJI S900 Battery Holder Top Bracket.STEP-4" uid="DJI S900 Battery Holder Top Bracket.STEP-4" grounded="true" entityUid="DJI S900 Battery Holder Top Bracket.STEP*:*Default">
+<Transform>
+<Rotation>7.0000000000000001e-15 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -1 0 7.0000000000000001e-15</Rotation>
+<Translation>-0.075061467685111002 -0.092816147205871002 -0.048273737580161992</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="DJI S900 Landing Bracket Attachment Piece.STEP-1" uid="DJI S900 Landing Bracket Attachment Piece.STEP-1" grounded="true" entityUid="DJI S900 Landing Bracket Attachment Piece.STEP*:*Default">
+<Transform>
+<Rotation>-1.3261603609999996e-06 0 0.9999999999991207 0 1 0 -0.9999999999991207 0 -1.3261603609999996e-06</Rotation>
+<Translation>0.13523551627886202 -0.051124643749999997 -1.3187164044000002e-05</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="Part79^DJI S900 STEP File-1" uid="Part79^DJI S900 STEP File-1" entityUid="Part79^DJI S900 STEP File*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -2.6402664999999805 -0.067553807820062831</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<UnknownConstraint name="Coincident1">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>DJI S900 STEP File.STEP-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>DJI S900 STEP File</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DJI S900 STEP File.STEP-1</Uid>
+<Uid>DJI S900 Pre-Finished.STEP-1</Uid>
+<Uid>DJI S900 Lower Assembly.STEP-1</Uid>
+<Uid>DJI S900 Battery Dampener Support.STEP-3</Uid>
+</InstancePath>
+<Position>0.012407528818492761 0.0015874999999999917 0.037544996501126013</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part79^DJI S900 STEP File-1</Uid>
+</InstancePath>
+<Position>0 2.5082531749999806 -1.1143863609675009e-14</Position>
+<Axis>0 -1 4.4408920985006246e-15</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DJI S900 STEP File.STEP-1</Uid>
+<Uid>DJI S900 Pre-Finished.STEP-1</Uid>
+<Uid>DJI S900 Lower Assembly.STEP-1</Uid>
+<Uid>DJI S900 A2 PMU.STEP-1</Uid>
+</InstancePath>
+<Position>0 0.0049000000000000016 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part79^DJI S900 STEP File-1</Uid>
+</InstancePath>
+<Position>-0.074999999999999983 2.5982531749999813 0.1699999999999999</Position>
+<Axis>0 -9.9999999997833579e-16 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part79^DJI S900 STEP File-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DJI S900 STEP File</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="DJI S900 STEP File.STEP" uid="DJI S900 STEP File.STEP" version="134">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 STEP File.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 Pre-Finished.STEP" uid="DJI S900 Pre-Finished.STEP" version="134">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 Pre-Finished.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 Assembly of Frames and Wings.STEP" uid="DJI S900 Assembly of Frames and Wings.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 Assembly of Frames and Wings.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 CCW Black.STEP" uid="DJI S900 CCW Black.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 CCW Black.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 Black Motor.STEP" uid="DJI S900 Black Motor.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 Black Motor.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 CW Red.STEP" uid="DJI S900 CW Red.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 CW Red.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 CW black.STEP" uid="DJI S900 CW black.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 CW black.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 GPS Mount Assembly.STEP" uid="DJI S900 GPS Mount Assembly.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 GPS Mount Assembly.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 CCW Red.STEP" uid="DJI S900 CCW Red.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 CCW Red.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 Lower Assembly.STEP" uid="DJI S900 Lower Assembly.STEP" version="134">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 Lower Assembly.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 Battery Cage Pin.STEP" uid="DJI S900 Battery Cage Pin.STEP" version="113">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 Battery Cage Pin.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="DJI S900 Servo Assembly.STEP" uid="DJI S900 Servo Assembly.STEP" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="DJI S900 Servo Assembly.STEP.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="DJI S900 A2 Controller.STEP" uid="DJI S900 A2 Controller.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 A2 Controller.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030868785034195319</Mass>
+<CenterOfMass>6.54385693957761e-05 -5.1739277312634074e-06 -3.1514571099772176e-07</CenterOfMass>
+<Inertia>7.9759407707740073e-06 1.1281769984241678e-05 4.4204088481397773e-06 6.4632901630496464e-11 -2.4159786479173027e-10 -1.3775520776942206e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 A2 Controller.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 A2 IMU.STEP" uid="DJI S900 A2 IMU.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 A2 IMU.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.032700580131376562</Mass>
+<CenterOfMass>2.059141348359413e-06 -9.9489305671002364e-06 -5.2741948660663762e-08</CenterOfMass>
+<Inertia>6.4476410142788346e-06 7.102031254889759e-06 4.3489295908072012e-06 2.1304583781894422e-11 1.175402016024698e-11 -8.3263971224637344e-10</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 A2 IMU.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 A2 LED.STEP" uid="DJI S900 A2 LED.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 A2 LED.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0068679831326766746</Mass>
+<CenterOfMass>4.2533078289811023e-05 5.9284407988286679e-05 -1.9721905398160871e-06</CenterOfMass>
+<Inertia>5.2576401835496063e-07 9.768578027215638e-07 5.2323324587585285e-07 4.1935835723335653e-11 -1.4185414925544939e-10 -9.0461490276673133e-10</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 A2 LED.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 A2 PMU.STEP" uid="DJI S900 A2 PMU.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 A2 PMU.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010312532878425502</Mass>
+<CenterOfMass>7.6438961466902607e-06 -1.1522316603456531e-05 -1.567906877509132e-07</CenterOfMass>
+<Inertia>1.3885453671948121e-06 1.9427805067721612e-06 7.1155734789736254e-07 6.6572795360996259e-12 2.8270561518630216e-12 -3.2457612263836242e-10</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 A2 PMU.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Arm Bracket Screw.STEP" uid="DJI S900 Arm Bracket Screw.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Arm Bracket Screw.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00056010266639754407</Mass>
+<CenterOfMass>-1.1559617312187302e-06 -1.1590697837777809e-07 0.016511382837449105</CenterOfMass>
+<Inertia>6.9620899320742104e-08 6.9620887959550182e-08 1.3702289512076235e-09 -1.1234458950516243e-12 -1.1204333681636868e-11 -1.2569957189016075e-15</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Arm Bracket Screw.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.39019607843137255" g="0.38039215686274508" b="0.37058823529411766" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Arm Mounting Bracket Left.STEP" uid="DJI S900 Arm Mounting Bracket Left.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Arm Mounting Bracket Left.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0020235779909863936</Mass>
+<CenterOfMass>0.011518054397347237 0.01563271958422905 0.0040356811668832131</CenterOfMass>
+<Inertia>3.0315158467359002e-07 1.2363474982370169e-07 4.1376209268577417e-07 6.6200568476897133e-09 -5.1234105350702096e-09 7.0142621866164043e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Arm Mounting Bracket Left.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP" uid="DJI S900 Arm Mounting Bracket Right MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0020235780727187532</Mass>
+<CenterOfMass>0.011518054660874718 0.015632719311268396 -0.0040356810388910303</CenterOfMass>
+<Inertia>3.0315158974819008e-07 1.2363475686471431e-07 4.137621030861932e-07 -6.6200549616066452e-09 5.1234087971557587e-09 7.0142625642898084e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Arm Mounting Bracket Right MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Arm.STEP" uid="DJI S900 Arm.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Arm.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.016146792670032443</Mass>
+<CenterOfMass>-2.0844504594528296e-08 -2.1051231996996963e-08 0.11668809546523171</CenterOfMass>
+<Inertia>7.3886548880885598e-05 7.3886548964596603e-05 2.3071150701031789e-06 -5.5956826312811961e-11 5.4356081547838016e-11 2.5804774289519774e-11</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Arm.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Balance Bar Curved.STEP" uid="DJI S900 Battery Balance Bar Curved.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Balance Bar Curved.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0043120320293913716</Mass>
+<CenterOfMass>-1.6917287556412082e-08 0.00084152229575848371 0.0041264860925480243</CenterOfMass>
+<Inertia>1.1675537852517007e-07 9.0295615052529312e-06 9.0910570809831251e-06 -1.0602549523284914e-09 -5.1533721018314254e-13 -1.0077772845623634e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Balance Bar Curved.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Balance Bar.STEP" uid="DJI S900 Battery Balance Bar.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Balance Bar.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0034695419625725582</Mass>
+<CenterOfMass>0.016291155321019515 0.0073258140997492444 0.0039687492891533746</CenterOfMass>
+<Inertia>4.2397069737737326e-08 6.7433437036970617e-06 6.7361020202594876e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Balance Bar.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Base.STEP" uid="DJI S900 Battery Base.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Base.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.024554325339953033</Mass>
+<CenterOfMass>-0.078306433574136997 0.0009905999999999999 -0.087044978676589765</CenterOfMass>
+<Inertia>4.7776181071791538e-05 7.243059302494539e-05 2.4670475202249691e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Base.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Bumper Support.STEP" uid="DJI S900 Battery Bumper Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Bumper Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0036901901630427224</Mass>
+<CenterOfMass>0 0.00079375000000000018 -0.047623924579315587</CenterOfMass>
+<Inertia>1.9468094941428996e-06 2.2271224983600965e-06 2.8186298018437728e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Bumper Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Dampener Support.STEP" uid="DJI S900 Battery Dampener Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Dampener Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0028742258402343988</Mass>
+<CenterOfMass>0.013784382732822169 0.00079374999999999997 0.017671309402694412</CenterOfMass>
+<Inertia>2.6566172301419756e-07 1.1787361341715608e-06 9.1428166085989318e-07 0 -6.7921629995045432e-09 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Dampener Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Holder Bottom Support.STEP" uid="DJI S900 Battery Holder Bottom Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Holder Bottom Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011146395676010644</Mass>
+<CenterOfMass>-8.6141057543498616e-09 0.0039541505822096442 0.0049656996717606433</CenterOfMass>
+<Inertia>1.5901908684070912e-08 6.7025449604612866e-08 6.448909337285482e-08 0 -1.5940037966474215e-14 1.4490657196821744e-14</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Holder Bottom Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Holder Support MIRROR.STEP" uid="DJI S900 Battery Holder Support MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Holder Support MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0087810354615487658</Mass>
+<CenterOfMass>0.076795766639412316 0.052912389133483548 0.005762665181163671</CenterOfMass>
+<Inertia>1.0870366179673669e-05 2.0391666837557671e-06 1.2752479963595619e-05 -4.9712407023804295e-08 -5.833394903324217e-08 3.3109390477400139e-06</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Holder Support MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Holder Support.STEP" uid="DJI S900 Battery Holder Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Holder Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0087810286105645483</Mass>
+<CenterOfMass>0.019724221333024216 0.052912367326382451 0.0057626669271783823</CenterOfMass>
+<Inertia>1.0870360398155657e-05 2.0391648631200775e-06 1.2752472468111885e-05 -4.9712849838861837e-08 5.833369239595821e-08 -3.310935815469299e-06</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Holder Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Holder Top Bracket.STEP" uid="DJI S900 Battery Holder Top Bracket.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Holder Top Bracket.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00087754600310258849</Mass>
+<CenterOfMass>0 0.0045655488342800817 0.0049657</CenterOfMass>
+<Inertia>1.2539745952775788e-08 5.5306980504859536e-08 5.339439504684769e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Holder Top Bracket.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Positioning Clamp.STEP" uid="DJI S900 Battery Positioning Clamp.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Positioning Clamp.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011768627621161112</Mass>
+<CenterOfMass>-5.284669139658751e-08 0.0060482137418743104 0.0049657000023045472</CenterOfMass>
+<Inertia>2.7677233896673864e-08 5.274883057318968e-08 6.3306617354312942e-08 0 -9.8285346546274989e-14 2.6506415451665293e-13</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Positioning Clamp.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Battery Rod.STEP" uid="DJI S900 Battery Rod.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Battery Rod.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010343685934493429</Mass>
+<CenterOfMass>0 0 0.12964129434294833</CenterOfMass>
+<Inertia>0.00010174867149553286 0.00010174867149553286 2.8306162288885271e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Battery Rod.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Black Prop Cover (Underside).STEP" uid="DJI S900 Black Prop Cover (Underside).STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Black Prop Cover (Underside).STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0023282465616600205</Mass>
+<CenterOfMass>0 0.00231370515814116 0</CenterOfMass>
+<Inertia>7.1408730098557009e-08 5.3233720106534978e-07 4.724732968311463e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Black Prop Cover (Underside).STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Black Prop Cover.STEP" uid="DJI S900 Black Prop Cover.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Black Prop Cover.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0022208776017076989</Mass>
+<CenterOfMass>0 0.0032403595545876323 0</CenterOfMass>
+<Inertia>6.4687287534466299e-08 3.9808459560826804e-07 3.4553753924843723e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Black Prop Cover.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Brass Bar on Landing Bracket.STEP" uid="DJI S900 Brass Bar on Landing Bracket.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Brass Bar on Landing Bracket.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>6.6637247755481501e-05</Mass>
+<CenterOfMass>8.6729028064554877e-09 -6.9224235586371673e-05 -0.00014703793836026054</CenterOfMass>
+<Inertia>8.174787584779638e-11 1.0894588304926175e-09 1.0337844034945224e-09 4.486209033444104e-12 1.3949935033301964e-15 -5.1170040746133688e-16</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Brass Bar on Landing Bracket.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Center Frame Bottom Board.STEP" uid="DJI S900 Center Frame Bottom Board.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Center Frame Bottom Board.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.081089690830190631</Mass>
+<CenterOfMass>5.0594828431788769e-05 0.001674156950952203 0.0014668217985734308</CenterOfMass>
+<Inertia>0.00029571074464569783 0.00057403834612766702 0.00027924633389845411 -1.1388582738880157e-07 -1.1010415801325676e-07 -6.0462639573727011e-09</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Center Frame Bottom Board.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Center Frame Bottom Cap.STEP" uid="DJI S900 Center Frame Bottom Cap.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Center Frame Bottom Cap.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.016169048707573984</Mass>
+<CenterOfMass>0 0.0019755165824282364 -0.00099011785619567295</CenterOfMass>
+<Inertia>2.2452076791877044e-05 4.5256039364023775e-05 2.3058547758476935e-05 1.1602957917383829e-08 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Center Frame Bottom Cap.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Center Frame Mount.STEP" uid="DJI S900 Center Frame Mount.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Center Frame Mount.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0031142466888930244</Mass>
+<CenterOfMass>0.0053577943857858147 0.010566325406474543 -0.017051520675001392</CenterOfMass>
+<Inertia>5.5238178130983626e-07 3.5084078521405838e-07 2.8825772043333073e-07 -7.2478735209393719e-08 -1.6335381158677361e-13 1.1782219746431323e-13</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Center Frame Mount.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Center Frame Top Inner Board.STEP" uid="DJI S900 Center Frame Top Inner Board.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Center Frame Top Inner Board.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.02343908683396442</Mass>
+<CenterOfMass>3.0302671632743892e-15 0.00080009999999999999 0</CenterOfMass>
+<Inertia>3.6785821162371093e-05 7.3564748796854955e-05 3.6788930811858527e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Center Frame Top Inner Board.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Center Frame Top Outer Board.STEP" uid="DJI S900 Center Frame Top Outer Board.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Center Frame Top Outer Board.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.036475973876589955</Mass>
+<CenterOfMass>-0.077084697207579697 0.00080009999999999988 -0.024472167727853253</CenterOfMass>
+<Inertia>0.0002090698782969678 0.00041812418962073461 0.00020906987829696786 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Center Frame Top Outer Board.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Curved Clamp.STEP" uid="DJI S900 Curved Clamp.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Curved Clamp.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00041882205025582631</Mass>
+<CenterOfMass>-2.4299449190750359e-09 0.0032526418762591422 -4.0740799949517202e-11</CenterOfMass>
+<Inertia>4.7743736827271646e-09 2.1870383181737748e-08 2.1783019219325742e-08 0 7.6406376673452368e-15 -2.0885319151382555e-15</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Curved Clamp.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Encasement Arm Bottom Frame.STEP" uid="DJI S900 Encasement Arm Bottom Frame.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Encasement Arm Bottom Frame.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0042900088151053631</Mass>
+<CenterOfMass>3.3820249829018046e-12 0.0023967165363405728 -0.0025767524307836079</CenterOfMass>
+<Inertia>1.7372227596704301e-06 3.2442692076421461e-06 1.528647978763206e-06 1.4464648326715306e-08 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Encasement Arm Bottom Frame.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.49803921568627452" g="0.49803921568627452" b="0.49803921568627452" a="1"/>
+<Diffuse r="0.49803921568627452" g="0.49803921568627452" b="0.49803921568627452" a="1"/>
+<Specular r="0.24901960784313726" g="0.24901960784313726" b="0.24901960784313726" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Foot Bracket.STEP" uid="DJI S900 Foot Bracket.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Foot Bracket.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0043130862654520118</Mass>
+<CenterOfMass>0.001040208140308498 0.0003530143341213079 -0.02071897211060925</CenterOfMass>
+<Inertia>8.5438728326491173e-07 9.04313873408011e-07 5.7793756693578115e-07 2.9933999557537592e-09 -7.7553029407552595e-08 1.5382328815362367e-09</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Foot Bracket.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Frame Connection Rod.STEP" uid="DJI S900 Frame Connection Rod.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Frame Connection Rod.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00058712257689609831</Mass>
+<CenterOfMass>1.5013058542853288e-10 0.014129010075205652 1.3288230899944996e-05</CenterOfMass>
+<Inertia>8.4641631213395561e-08 2.8180849397996899e-09 8.4641038661060368e-08 1.7338506708496989e-11 0 -6.3400670635177698e-16</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Frame Connection Rod.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 GPS Attatchment.STEP" uid="DJI S900 GPS Attatchment.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 GPS Attatchment.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0012992492856288352</Mass>
+<CenterOfMass>0 0 4.8604695148811904e-05</CenterOfMass>
+<Inertia>8.8550206599700612e-08 8.8550206599700586e-08 1.6735170726065975e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 GPS Attatchment.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 GPS Compass.STEP" uid="DJI S900 GPS Compass.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 GPS Compass.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.013718585705620095</Mass>
+<CenterOfMass>-1.4860791654609648e-06 -0.00023513342828504014 -4.0156442508176104e-05</CenterOfMass>
+<Inertia>3.9494584653558526e-06 7.196329359814248e-06 3.9536441862214505e-06 3.6310917643140998e-09 1.990830754023599e-10 1.342283163583266e-10</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 GPS Compass.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 GPS Module.STEP" uid="DJI S900 GPS Module.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 GPS Module.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00057610771875000013</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>6.2914863616845691e-09 6.2914863616845708e-09 8.7112888084863293e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 GPS Module.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51764705882352935" b="0" a="1"/>
+<Specular r="0.3235294117647059" g="0.25882352941176467" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 GPS Rod.STEP" uid="DJI S900 GPS Rod.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 GPS Rod.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0020517945532900761</Mass>
+<CenterOfMass>0 0 0.062706250000000005</CenterOfMass>
+<Inertia>2.6919404600156699e-06 2.6919404600156699e-06 5.3425310092646111e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 GPS Rod.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Specular r="0.14901960784313725" g="0.14901960784313725" b="0.14901960784313725" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Gimbal Dampener.STEP" uid="DJI S900 Gimbal Dampener.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Gimbal Dampener.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00077799869208465327</Mass>
+<CenterOfMass>6.349999999999924e-05 0 0</CenterOfMass>
+<Inertia>1.6255916481161731e-08 2.6208701175332052e-08 2.6208701175332052e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Gimbal Dampener.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Gimbal Support.STEP" uid="DJI S900 Gimbal Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Gimbal Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0020054799197073789</Mass>
+<CenterOfMass>-0.004846520374531111 0.012205095496854976 0.004165605256321472</CenterOfMass>
+<Inertia>2.0057194675964627e-07 2.7374820532804874e-07 4.5540169088238117e-07 -9.0633771971796333e-14 -1.6366770136798847e-13 -1.2712159164152152e-07</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Gimbal Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Block Support Bar.STEP" uid="DJI S900 Landing Block Support Bar.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Block Support Bar.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0066083425903120611</Mass>
+<CenterOfMass>0 0 0.10398125000000003</CenterOfMass>
+<Inertia>3.0709639118439216e-05 3.0709639118439216e-05 1.905382050927786e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Block Support Bar.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Bracket Attachment Piece.STEP" uid="DJI S900 Landing Bracket Attachment Piece.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Bracket Attachment Piece.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00087842960679580242</Mass>
+<CenterOfMass>0 0.0037629392177106332 -0.00084431431315205505</CenterOfMass>
+<Inertia>1.8449972251791599e-08 2.8410164201192782e-08 4.2521032283684712e-08 2.7711863634507979e-09 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Bracket Attachment Piece.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Gear Block MIRROR.STEP" uid="DJI S900 Landing Gear Block MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Gear Block MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.024586315242618152</Mass>
+<CenterOfMass>-0.0011871921210410928 -0.0048459591651752541 -0.092529806791225133</CenterOfMass>
+<Inertia>1.8188805038380924e-05 2.6651331577933096e-05 1.2799233921557723e-05 2.732867778155304e-07 -5.947919167075928e-07 -3.9150596340363595e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Gear Block MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Leg.STEP" uid="DJI S900 Landing Leg.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Leg.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.020048303018601169</Mass>
+<CenterOfMass>5.6108406058926902e-09 1.1765989274404894e-09 -1.2344080767869925e-07</CenterOfMass>
+<Inertia>0.00015090609257147752 0.00015090610255241707 2.8916459015265944e-06 -1.1208354850315413e-12 1.8392240675396067e-11 -5.3821887203525893e-13</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Leg.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Skid.STEP" uid="DJI S900 Landing Skid.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Skid.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.021748351173745389</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>0.00036901492206316375 0.00036901492206316375 1.2474583738142627e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Skid.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Swing MIRROR.STEP" uid="DJI S900 Landing Swing MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Swing MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0034961955854288466</Mass>
+<CenterOfMass>-0.0077408537705545262 -0.019149158075579195 0.025221077035022549</CenterOfMass>
+<Inertia>8.7939000224547655e-07 8.1215075050487293e-07 1.6306211804418349e-06 -3.4578899208614385e-14 -1.0001251384563235e-08 1.9056601788725756e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Swing MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Swing Servo Support MIRROR.STEP" uid="DJI S900 Landing Swing Servo Support MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Swing Servo Support MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011344200526151264</Mass>
+<CenterOfMass>0.0037506880695302486 -0.0025868668596346301 0.015216773049674174</CenterOfMass>
+<Inertia>1.4189918833740082e-08 1.6743135078954634e-07 1.5767927609893603e-07 4.5811919167624137e-12 2.6273789290046671e-10 -1.7435244062181648e-09</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Swing Servo Support MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Swing Servo Support.STEP" uid="DJI S900 Landing Swing Servo Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Swing Servo Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011344200607851871</Mass>
+<CenterOfMass>0.0037506881903386496 -0.0025868669037335222 2.3226908687562703e-05</CenterOfMass>
+<Inertia>1.4189919011184315e-08 1.6743135250498724e-07 1.5767927761308326e-07 -4.5813192849872342e-12 -2.6273731738330824e-10 -1.7435240006028654e-09</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Swing Servo Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Swing Support.STEP" uid="DJI S900 Landing Swing Support.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Swing Support.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00088223159811173259</Mass>
+<CenterOfMass>0 -0.0027165684833229554 0</CenterOfMass>
+<Inertia>8.2336861022230135e-09 1.0293866733533418e-07 9.8014138748664911e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Swing Support.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Landing Tube Clamp.STEP" uid="DJI S900 Landing Tube Clamp.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Landing Tube Clamp.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0080963513340188958</Mass>
+<CenterOfMass>-1.0829320827931961e-05 0.013272592688939143 -0.025441574929786027</CenterOfMass>
+<Inertia>2.7645277699526268e-06 3.1206921177953493e-06 1.24822829773431e-06 4.0303396627529138e-08 1.8660913639661767e-09 1.4181048514187796e-09</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Landing Tube Clamp.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Leg Damper.STEP" uid="DJI S900 Leg Damper.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Leg Damper.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0034579692751388258</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>3.9118217343917444e-07 6.9512734074618043e-07 3.9118217343917433e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Leg Damper.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Specular r="0.14901960784313725" g="0.14901960784313725" b="0.14901960784313725" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 LiPo Battery.STEP" uid="DJI S900 LiPo Battery.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 LiPo Battery.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.81869404045235972</Mass>
+<CenterOfMass>6.1013572836484028e-07 0.030954761687493192 -0.08889020500742309</CenterOfMass>
+<Inertia>0.0024087948613408161 0.0025261433032996491 0.00063870147570111867 -2.381762577252883e-07 1.8683691843660129e-08 -1.4832737315455509e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 LiPo Battery.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Lock Knob.STEP" uid="DJI S900 Lock Knob.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Lock Knob.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0030288748534383573</Mass>
+<CenterOfMass>-0.02599524225515237 0.0066975844267715941 -0.0081825971233723</CenterOfMass>
+<Inertia>3.9963270637983616e-07 4.1169226479357703e-07 8.4837948591070541e-08 1.9161084888661419e-08 -6.8846641935613508e-09 2.8959171769808808e-09</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Lock Knob.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Motor Bottom Frame.STEP" uid="DJI S900 Motor Bottom Frame.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Motor Bottom Frame.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0033973640443164931</Mass>
+<CenterOfMass>0 0.00059531250000000003 -0.00017119557336724045</CenterOfMass>
+<Inertia>7.8251620093807494e-07 1.555188494251094e-06 7.7347497033456365e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Motor Bottom Frame.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Motor Cage.STEP" uid="DJI S900 Motor Cage.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Motor Cage.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.011128671634542377</Mass>
+<CenterOfMass>0.020783045572507829 0.062441251925375356 0.010877672800907673</CenterOfMass>
+<Inertia>2.9231771779188587e-06 2.9237909451190195e-06 3.9101093669194233e-06 -3.0465564111549594e-11 4.4763815805983322e-11 -3.3825112797875027e-10</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Motor Cage.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.59607843137254901" g="0.66666666666666663" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.59607843137254901" g="0.66666666666666663" b="0.68627450980392157" a="1"/>
+<Specular r="0.29803921568627451" g="0.33333333333333331" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Motor Encasement Black.STEP" uid="DJI S900 Motor Encasement Black.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Motor Encasement Black.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010715983840670625</Mass>
+<CenterOfMass>-2.0505919844660956e-09 0.0045080578633586426 -0.020958985457909089</CenterOfMass>
+<Inertia>7.4974511068735985e-06 9.9085762161338731e-06 3.2167654844931638e-06 -6.816504247240815e-08 -3.8634477114804564e-13 3.1379621082498815e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Motor Encasement Black.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Motor Encasement.STEP" uid="DJI S900 Motor Encasement.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Motor Encasement.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.01071598384067062</Mass>
+<CenterOfMass>-2.0505919857494018e-09 0.0045080578633586426 -0.020958985457909092</CenterOfMass>
+<Inertia>7.4974511068735968e-06 9.9085762161338731e-06 3.216765484493165e-06 -6.8165042472408177e-08 -3.8634477121864731e-13 3.1379621082539677e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Motor Encasement.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Motor Top Frame.STEP" uid="DJI S900 Motor Top Frame.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Motor Top Frame.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0032583640486504679</Mass>
+<CenterOfMass>0 0.00059531250000000003 -0.00017849868118477346</CenterOfMass>
+<Inertia>7.8120418074233126e-07 1.5526015422321686e-06 7.7216719772627316e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Motor Top Frame.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 PCB.STEP" uid="DJI S900 PCB.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 PCB.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0043063890766517898</Mass>
+<CenterOfMass>0.00078740000000000006 0.028207281099442493 -0.031581397963859302</CenterOfMass>
+<Inertia>2.1507665459704777e-06 8.649681922955623e-07 1.2875783242666503e-06 3.0831498832290852e-07 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 PCB.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Pin Base.STEP" uid="DJI S900 Pin Base.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Pin Base.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0019265421854940681</Mass>
+<CenterOfMass>0.0089296880586259876 -0.0073247790767844859 -0.012538356733374587</CenterOfMass>
+<Inertia>1.3126553428330389e-07 1.8928716726001721e-07 9.2863812887136936e-08 2.7957477865438431e-08 4.7874012682867994e-14 -9.8656361597958016e-15</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Pin Base.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Propellor CCW.STEP" uid="DJI S900 Propellor CCW.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Propellor CCW.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0030961976594683612</Mass>
+<CenterOfMass>0.0027619429499426006 0.0017798108416961402 0.0087511100810441899</CenterOfMass>
+<Inertia>6.2652126140771376e-06 6.3387072583265361e-06 1.0559516350010195e-07 1.7417764872974449e-07 2.8447529250194372e-07 -1.8605340468139585e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Propellor CCW.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Propellor CW MIRROR.STEP" uid="DJI S900 Propellor CW MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Propellor CW MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0027231555168312667</Mass>
+<CenterOfMass>-0.0024928888357653289 0.0020318803621097036 0.0014369154948813854</CenterOfMass>
+<Inertia>4.7185217141617168e-06 4.7876449208098186e-06 9.8403315882482271e-08 1.3314866709432877e-07 -3.2924367253377468e-07 1.9359632507079018e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Propellor CW MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Red Prop Cover.STEP" uid="DJI S900 Red Prop Cover.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Red Prop Cover.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0022208776017076984</Mass>
+<CenterOfMass>0 0.0032403595545876327 0</CenterOfMass>
+<Inertia>6.4687287534466273e-08 3.9808459560826793e-07 3.4553753924843717e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Red Prop Cover.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Rod Attatchment.STEP" uid="DJI S900 Rod Attatchment.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Rod Attatchment.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00036005784313157481</Mass>
+<CenterOfMass>0 0 0.0096132826348802308</CenterOfMass>
+<Inertia>1.3200737899618658e-08 1.3200737899618656e-08 2.3276777902770561e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Rod Attatchment.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Rotating Pin GPS.STEP" uid="DJI S900 Rotating Pin GPS.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Rotating Pin GPS.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.001004721059165317</Mass>
+<CenterOfMass>-1.8560696417195598e-09 -1.438997036309308e-06 0.015180908906831879</CenterOfMass>
+<Inertia>7.7392040712501572e-08 7.6667654651027244e-08 6.753223308783975e-09 2.3864391359113132e-12 2.0216885037130178e-14 -8.0976230930516897e-15</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Rotating Pin GPS.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Rubber Landing Cap.STEP" uid="DJI S900 Rubber Landing Cap.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Rubber Landing Cap.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0076032693888584725</Mass>
+<CenterOfMass>0 0 -0.017137127413197738</CenterOfMass>
+<Inertia>9.3300126367416944e-07 9.3300126367416944e-07 7.7582502645210086e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Rubber Landing Cap.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Screw For Battery Cage.STEP" uid="DJI S900 Screw For Battery Cage.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Screw For Battery Cage.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.3206892750358763e-05</Mass>
+<CenterOfMass>0 0 0.0097417601278972591</CenterOfMass>
+<Inertia>2.3068888532979279e-09 2.3068888532979279e-09 4.795126972252754e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Screw For Battery Cage.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Screw for Mount.STEP" uid="DJI S900 Screw for Mount.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Screw for Mount.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00014373903179575238</Mass>
+<CenterOfMass>0 0 0.0063842035195103295</CenterOfMass>
+<Inertia>2.0374632393137801e-09 2.0374632393137801e-09 2.7247894819932681e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Screw for Mount.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Servo Arm Adapter MIRROR.STEP" uid="DJI S900 Servo Arm Adapter MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Servo Arm Adapter MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00073664762824325006</Mass>
+<CenterOfMass>-0.002713287510307708 -0.015240000437443821 -0.0097786244602544557</CenterOfMass>
+<Inertia>4.1589678116089856e-08 5.346701634995469e-08 2.0339135028309854e-08 2.8752647121358324e-11 1.2293692236420116e-08 -1.3211467853423146e-14</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Servo Arm Adapter MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Servo Arm Adapter.STEP" uid="DJI S900 Servo Arm Adapter.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Servo Arm Adapter.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00073664376067498019</Mass>
+<CenterOfMass>-0.0027132500819476981 -8.2735432626332956e-09 -0.0097786264523419385</CenterOfMass>
+<Inertia>4.1589666050027351e-08 5.3466809502115586e-08 2.0338920827729532e-08 -2.8751361832762768e-11 1.2293676791200728e-08 -3.9271717027986178e-14</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Servo Arm Adapter.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Servo Bracket MIRROR.STEP" uid="DJI S900 Servo Bracket MIRROR.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Servo Bracket MIRROR.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0028997299918385885</Mass>
+<CenterOfMass>0.080527083696524795 0.0052017068040586655 -0.006590298054135954</CenterOfMass>
+<Inertia>2.1814200820765362e-07 1.1617634498318115e-06 1.0985855862626867e-06 -3.8029353612171992e-08 6.0653450897387063e-09 1.7107340886311924e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Servo Bracket MIRROR.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Servo Bracket.STEP" uid="DJI S900 Servo Bracket.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Servo Bracket.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0028997299918385937</Mass>
+<CenterOfMass>0.027524516303475247 0.005201706804058669 -0.0065902980541359592</CenterOfMass>
+<Inertia>2.1814200820765322e-07 1.1617634498318098e-06 1.0985855862626854e-06 -3.8029353612171899e-08 -6.0653450897391e-09 -1.7107340886312255e-08</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Servo Bracket.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Servo Grommet.STEP" uid="DJI S900 Servo Grommet.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Servo Grommet.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023415624421938843</Mass>
+<CenterOfMass>0 0.0030000000000000001 0.00022079814300258319</CenterOfMass>
+<Inertia>1.8599997067050618e-09 2.5680252738605988e-09 2.5514709340517406e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Servo Grommet.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Specular r="0.14901960784313725" g="0.14901960784313725" b="0.14901960784313725" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Spreader Tube.STEP" uid="DJI S900 Spreader Tube.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Spreader Tube.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0037890530068585651</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>1.1326617945624379e-07 4.6831760454796787e-06 4.6831760454796787e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Spreader Tube.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Spring Bracket.STEP" uid="DJI S900 Spring Bracket.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Spring Bracket.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011785880043614918</Mass>
+<CenterOfMass>2.6182086598192104e-10 0.0031749999653962347 0.0018929165753463846</CenterOfMass>
+<Inertia>1.6874054444340889e-07 2.3747948572803058e-07 7.6783683707195427e-08 0 -2.8189876115758748e-15 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Spring Bracket.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Spring.STEP" uid="DJI S900 Spring.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Spring.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00034238877612992238</Mass>
+<CenterOfMass>-2.5501421232464655e-05 -6.0013578066580037e-07 0.020901819143577676</CenterOfMass>
+<Inertia>6.2323819698820076e-08 6.2264172769739824e-08 4.8155138158303638e-09 -1.1633068324190982e-10 9.0696213217327136e-12 1.0826087355218974e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Spring.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Top Pin Lever.STEP" uid="DJI S900 Top Pin Lever.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Top Pin Lever.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011158410047380708</Mass>
+<CenterOfMass>0.003869531250000001 -0.0023143131483302159 0.026378549649176335</CenterOfMass>
+<Inertia>1.6834522362755642e-07 1.698696638970267e-07 1.0205752581025411e-08 5.5436410184437259e-09 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Top Pin Lever.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.26470588235294118" g="0.27450980392156865" b="0.27450980392156865" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Wing Bracket Black.STEP" uid="DJI S900 Wing Bracket Black.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Wing Bracket Black.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014190376313403946</Mass>
+<CenterOfMass>1.2027323069070275e-08 -0.0039925889568431742 0.011228900550536356</CenterOfMass>
+<Inertia>3.1820300229777365e-06 2.8748234304285361e-06 2.6548632463870001e-06 1.1929178808052465e-07 -1.8492933591884176e-12 2.7210204789716483e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Wing Bracket Black.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Wing Bracket.STEP" uid="DJI S900 Wing Bracket.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Wing Bracket.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014190376313403948</Mass>
+<CenterOfMass>1.2027323069324845e-08 -0.0039925889568431733 0.01122890055053636</CenterOfMass>
+<Inertia>3.1820300229777361e-06 2.8748234304285369e-06 2.6548632463869997e-06 1.1929178808052449e-07 -1.8492933591972536e-12 2.7210204789898818e-12</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Wing Bracket.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DJI S900 Wire.STEP" uid="DJI S900 Wire.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 Wire.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00013668749492470544</Mass>
+<CenterOfMass>-6.3077257235983168e-10 -0.030679682690231368 -8.4480010050993211e-11</CenterOfMass>
+<Inertia>9.0832810044273713e-08 2.5118557546512342e-10 9.0945997098607011e-08 0 -1.1545322768094393e-13 2.4141911821964105e-15</Inertia>
+</MassProperties>
+<GeometryFile name="DJI S900 Wire.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="HS-7954SH servo.STEP" uid="HS-7954SH servo.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="HS-7954SH servo.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.029707579460219583</Mass>
+<CenterOfMass>0.019790017038435224 0.018508512474273001 0</CenterOfMass>
+<Inertia>4.2821675985754495e-06 5.0239384558032029e-06 7.3676851556692452e-06 0 0 1.5082579206970095e-07</Inertia>
+</MassProperties>
+<GeometryFile name="HS-7954SH servo.STEP_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part79^DJI S900 STEP File" uid="Part79^DJI S900 STEP File*:*Default" version="188">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="DJI S900 STEP File.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1</Mass>
+<CenterOfMass>0 2.5532531749999814 0.21999999999999997</CenterOfMass>
+<Inertia>0.0015083333333333311 0.0027083333333333326 0.0025499999999999967 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part79-DJI S900 STEP File_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

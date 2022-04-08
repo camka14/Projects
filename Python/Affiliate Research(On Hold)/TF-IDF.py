@@ -8,6 +8,7 @@ sent_final_tokens = Text_Normalizer.normalize('web scrape.txt', None, remove_cha
                                         sent_tok = True, word_tok = False, lower = True)
 
 
+# Computes the text frequency
 def computeTF(sent_tokens):
     import numpy
     tf_dict = {}
@@ -26,7 +27,7 @@ def computeTF(sent_tokens):
         tf_dict[word] = numpy.mean(tf_dict[word])
     return tf_dict
 
-
+# Computes the text in document frequency
 def computeIDF(sent_tokens, word_tokens):
     import math
     idf_dict = {}
@@ -47,7 +48,7 @@ def computeIDF(sent_tokens, word_tokens):
 tf = computeTF(sent_tokens)
 idf = computeIDF(sent_tokens, word_tokens)
 
-
+# Calculates the scores and sorts
 sent_word_tokens = [nltk.word_tokenize(sent) for sent in sent_final_tokens]
 sent_score = {}
 word_score_dict = {}

@@ -142,7 +142,7 @@ fprintf(['The model moves in the desired direction and reacts to the '...
     'change velocity required'])
 
 %%
-close all
+
 % Calculating the ideal inertial v velocity required
 for v = linspace(8,10)
     del_VE_Er = [0;v;0]; % m/s E frame required velocity
@@ -190,7 +190,7 @@ grid on
 fprintf(['The model moves in the desired direction and reacts to the '...
     'change velocity required'])
 %% Problem 3
-clear,clc,close all
+clear,clc
 load RSdata_two_1549
 
 times = rt_estimatedStates.time(:);

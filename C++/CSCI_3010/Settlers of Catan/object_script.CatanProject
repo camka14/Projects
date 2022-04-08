@@ -1,0 +1,12 @@
+house.o
+main.o
+gamewindow.o
+road.o
+player.o
+tile.o
+qrc_Resources.o
+moc_gamewindow.o
+moc_house.o
+moc_road.o
+moc_player.o
+moc_tile.o

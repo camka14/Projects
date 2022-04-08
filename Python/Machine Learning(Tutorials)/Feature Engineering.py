@@ -11,7 +11,7 @@ mpl.rcParams['figure.facecolor'] = (1,1,1,0)
 mpl.rcParams['figure.figsize'] = (6.0,4.0)
 mpl.rcParams['figure.dpi'] = 100
 
-poke_df = pd.read_csv('Machine Learning\Pokemon.csv',encoding='utf-8')
+poke_df = pd.read_csv('Machine Learning(Tutorials)\Pokemon.csv',encoding='utf-8')
 atk_def = poke_df[['Attack', 'Defense']]
 
 from sklearn.preprocessing import PolynomialFeatures

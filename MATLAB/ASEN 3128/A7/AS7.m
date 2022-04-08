@@ -36,7 +36,7 @@ Izx = 1.315e6;
 m = 6.366e5*4.448/9.81;
 V = 157.9;
 g = 9.81;
-u0 = V*cosd(exz);
+u0 = V;
 
 % Defining equations using variables
 Xup = Xu*cosd(exz)^2-(Xw+Zu)*sind(exz)*cosd(exz)+Zw*sind(exz)^2;

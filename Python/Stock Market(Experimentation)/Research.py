@@ -1,10 +1,8 @@
 from collections import Counter
-from sklearn import svm, cross_validation, neighbors
+from sklearn import svm, neighbors
 from sklearn.ensemble import VotingClassifier, RandomForestClassifier
 import numpy as np
 import pandas as pd
-import quandl
-import pickle
 import math
 
 def process_data_for_labels(ticker):

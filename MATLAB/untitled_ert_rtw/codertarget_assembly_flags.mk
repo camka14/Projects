@@ -1,0 +1,9 @@
+ASFLAGS_ADDITIONAL = 
+PX4FIRMWAREROOTDIR = C:/PX4/home
+CMAKEMAKECONFIG = px4_fmu-v5_multicopter
+CYGWINROOTDIR = C:/PX4
+PYTHONROOTDIR = C:/PROGRA~3/MATLAB/SupportPackages/R2020b/3P.instrset/python27.instrset/python
+TARGET_LOAD_CMD = 
+TARGET_LOAD_CMD_ARGS = 
+TARGET_PKG_INSTALLDIR = C:/PROGRA~3/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/px4
+STACK_SIZE = 64
